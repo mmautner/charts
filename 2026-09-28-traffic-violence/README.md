@@ -28,6 +28,7 @@ committed file, and `fetch_census.py` is only needed to compare against a newer 
 | US motor vehicle crash deaths, 2024 | 39,254 | [NSC Injury Facts, Motor Vehicle Introduction](https://injuryfacts.nsc.org/motor-vehicle/overview/introduction/) |
 | US resident population, July 1, 2024 | fetched (340,003,797 in Vintage 2025) | [Census NST-EST2025-ALLDATA](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-national-total.html) |
 | Mean personal network size | 611 (median 472) | [McCormick, Salganik & Zheng 2010](https://www.princeton.edu/~mjs3/mccormick_salganik_zheng10.pdf), Section 4.1, p. 64 |
+| Road deaths per 100,000, by country | US 12.27, Canada 4.83, Germany 3.37, Japan 2.62 (2023); Mexico 12.4 (2022) | [BITRE International Comparisons 2023](https://www.bitre.gov.au/sites/default/files/documents/international_comparisions_2023.pdf), Table 1, p. 2 (from IRTAD 2025); [ITF Mexico profile](https://www.itf-oecd.org/sites/default/files/mexico-road-safety.pdf) |
 | Crash injuries by severity, 2019 | 36,500 deaths; 141,167 MAIS 3; 19,285 MAIS 4; 7,187 MAIS 5 | [NHTSA DOT HS 813 403](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813403), Table 1-3, p. 16 |
 
 All hand-entered values live in `inputs.py` with their citations. Only the population is
@@ -44,6 +45,10 @@ p = 2024 deaths / 2024 population ≈ 1 in 8,662. With n = 611 acquaintances fro
 and independent events, the chance of knowing at least 1 person killed by age a is
 1 − (1 − p)^(n × (a − 18)).
 
+**Country comparison.** The same formula with each country's per-capita death rate in
+place of p. Using the 2023 IRTAD rate for the US gives ~81% by 40, slightly above the
+~79% from 2024 NSC and Census figures in the US-only chart.
+
 ## Assumptions and limitations
 
 - **Mean vs. median network.** The paper reports a mean of 611 and a median of 472. Using
@@ -55,4 +60,10 @@ and independent events, the chance of knowing at least 1 person killed by age a 
   people, which pushes the other way.
 - **Average risk and independence.** Crash risk varies by age, sex, place, and how much
   someone drives, and people's acquaintances are not a random sample of the country.
+- **Same network everywhere.** The ~611 estimate is for Americans. The country comparison
+  applies it to every country, which isolates the effect of death rates but ignores
+  differences in how many people people know.
+- **Mexico's data.** Mexico is not in IRTAD's validated set. Its rate is from death
+  certificates (provisional, 2022), which may count differently from the 30-day police
+  definition used for the other countries.
 - **Years.** The injury ratio is from 2019; deaths and population are from 2024.

@@ -37,3 +37,18 @@ FATALITIES_2019 = 36_500
 MAIS3_2019 = 141_167
 MAIS4_2019 = 19_285
 MAIS5_2019 = 7_187
+
+# International comparison: road deaths per 100,000 population (30-day definition).
+# BITRE, "Road Safety International Comparisons - 2023" (September 2025), Table 1,
+# p. 2, compiled from IRTAD 2025.
+# https://www.bitre.gov.au/sites/default/files/documents/international_comparisions_2023.pdf
+# Mexico is not in IRTAD's validated set, so its rate comes from the ITF Road Safety
+# Country Profile for Mexico (2023), 2022 data from death certificates (provisional).
+# https://www.itf-oecd.org/sites/default/files/mexico-road-safety.pdf
+ROAD_DEATHS_PER_100K = {
+    "United States": 12.27,  # 2023
+    "Mexico": 12.4,          # 2022
+    "Canada": 4.83,          # 2023
+    "Germany": 3.37,         # 2023
+    "Japan": 2.62,           # 2023
+}

@@ -38,3 +38,9 @@ if __name__ == "__main__":
         print("   " + ", ".join(f"by {a}: {100*p_know_killed(a, pop, n):.0f}%" for a in (30, 40, 50)))
     print(f"Serious injuries per death: {SERIOUS_PER_DEATH:.2f}")
     print(f"Annual crash death risk per person: 1 in {pop/CRASH_DEATHS_2024:,.0f}")
+
+def p_know_killed_rate(age, deaths_per_100k, network=NETWORK_SIZE_MEAN):
+    """Same model as p_know_killed, from a country's per-capita death rate."""
+    p = deaths_per_100k / 100_000
+    years = np.clip(np.asarray(age, dtype=float) - 18, 0, None)
+    return 1 - (1 - p) ** (network * years)

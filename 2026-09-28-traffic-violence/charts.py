@@ -6,9 +6,9 @@ sys.path.insert(0, str(HERE.parent))  # repo root, for style.py
 
 import matplotlib.pyplot as plt
 import numpy as np
-from style import BG, INK, GREY, COPPER, DOT, BODY, DPI, Page, setup_font, style_axes
-from model import lifetime_counts, p_know_killed, load_population
-from inputs import NETWORK_SIZE_MEAN
+from style import BG, INK, GREY, LIGHT, COPPER, DOT, BODY, DPI, Page, setup_font, style_axes
+from model import lifetime_counts, p_know_killed, p_know_killed_rate, load_population
+from inputs import NETWORK_SIZE_MEAN, ROAD_DEATHS_PER_100K
 
 WATERMARK = "maxmautner.com/crashes"
 OUT = HERE / "output"
@@ -66,6 +66,51 @@ def curve(fmt, name, pop):
         ax.text(a + 1.5, v - 3, f"~{v:.0f}% by {a}", fontsize=19 * k, color=COPPER, va="top")
     p.save(OUT / name)
 
+def country_curves(fmt, name):
+    """International variant of the curve: same model, each country's death rate."""
+    age = np.linspace(18, 80, 500)
+    at40 = {c: 100 * p_know_killed_rate(40, r) for c, r in ROAD_DEATHS_PER_100K.items()}
+    us, jp = round(at40["United States"] / 10), round(at40["Japan"] / 10)
+    p = Page(fmt, f"By 40, ~{us} in 10 Americans\nhave lost someone they know\nto a crash. In Japan, ~{jp} in 10.",
+             "Chance of knowing at least 1 person killed\nin a crash, by age",
+             f"Assumes the same ~{NETWORK_SIZE_MEAN}-person network in every country.",
+             "Sources: BITRE, Road Safety International Comparisons 2023 (IRTAD),\n"
+             "road deaths per 100,000, 2023; ITF Mexico country profile, 2022;\n"
+             "McCormick, Salganik & Zheng (2010), US network ~611.", WATERMARK)
+    k, pad = p.k, 0.65
+    right = 2.3 if fmt == "blog" else 2.1   # room for end-of-line labels
+    ax = p.fig.add_axes([0.95 / p.W, (p.bottom + pad) / p.H, (p.W - 0.95 - right) / p.W,
+                         (p.H - p.top - p.bottom - pad) / p.H])
+    style_axes(ax, k)
+    style = {"United States": (COPPER, "-", 4.5), "Mexico": (GREY, (0, (2, 2)), 2.5),
+             "Canada": (INK, "-", 2.5), "Germany": (INK, "-", 2.5), "Japan": (INK, "-", 2.5)}
+    for c, r in ROAD_DEATHS_PER_100K.items():
+        color, ls, lw = style[c]
+        ax.plot(age, 100 * p_know_killed_rate(age, r), color=color, ls=ls, lw=lw)
+    ax.axvline(40, color=LIGHT, lw=1.5, zorder=0)
+    ax.set_xlim(18, 80); ax.set_ylim(0, 104)
+    ax.set_yticks([0, 25, 50, 75, 100]); ax.set_yticklabels(["0%", "25%", "50%", "75%", "100%"])
+    ax.set_xticks(range(20, 81, 10))
+    ax.set_xlabel("Age", color=GREY, fontsize=14 * k, labelpad=6)
+    # country names at the right end of each line
+    ends = {c: 100 * p_know_killed_rate(80, r) for c, r in ROAD_DEATHS_PER_100K.items()}
+    names = [("United States", COPPER, ends["United States"] + 1),
+             ("Mexico (dashed)", GREY, ends["Mexico"] - 7),
+             ("Canada", INK, ends["Canada"]), ("Germany", INK, ends["Germany"]), ("Japan", INK, ends["Japan"])]
+    for text, color, y in names:
+        ax.text(81, y, text, fontsize=15 * k, color=color, va="center", ha="left", clip_on=False)
+    # values at age 40, on the lines
+    box = dict(boxstyle="square,pad=0.15", fc=BG, ec="none")
+    marks = [("United States", COPPER, f"~{at40['United States']:.0f}% (US and Mexico)", 0),
+             ("Canada", INK, f"~{at40['Canada']:.0f}%", 0),
+             ("Germany", INK, f"~{at40['Germany']:.0f}%", 1.5),
+             ("Japan", INK, f"~{at40['Japan']:.0f}%", -3.5)]
+    for c, color, text, dy in marks:
+        v = at40[c]
+        ax.plot([40], [v], "o", color=color, ms=9 * k, zorder=5)
+        ax.text(41.5, v + dy - 2.5, text, fontsize=15 * k, color=color, va="top", ha="left", bbox=box, zorder=6)
+    p.save(OUT / name)
+
 def og_image(name):
     """1200 x 630 link-preview image for the post's og:image."""
     killed, serious = (round(x) for x in lifetime_counts())
@@ -90,4 +135,6 @@ if __name__ == "__main__":
     curve("blog", "knowing-a-victim-by-age.png", pop)
     curve("social", "social-knowing-a-victim-4x5.png", pop)
     og_image("og-image.png")
-    print(f"Wrote 5 charts to {OUT}")
+    country_curves("blog", "knowing-a-victim-by-country.png")
+    country_curves("social", "social-knowing-a-victim-by-country-4x5.png")
+    print(f"Wrote 7 charts to {OUT}")
