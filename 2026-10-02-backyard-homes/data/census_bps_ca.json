@@ -1,0 +1,76 @@
+{
+  "source": "https://www2.census.gov/econ/bps/State/stYYYYa.txt",
+  "fetched_on": "2026-10-02",
+  "years": {
+    "2016": {
+      "1_unit": 50311,
+      "2_units": 1598,
+      "3_4_units": 1591,
+      "5plus_units": 48850,
+      "total": 102350
+    },
+    "2017": {
+      "1_unit": 57132,
+      "2_units": 2168,
+      "3_4_units": 2138,
+      "5plus_units": 53342,
+      "total": 114780
+    },
+    "2018": {
+      "1_unit": 58831,
+      "2_units": 2590,
+      "3_4_units": 2050,
+      "5plus_units": 50031,
+      "total": 113502
+    },
+    "2019": {
+      "1_unit": 58575,
+      "2_units": 2476,
+      "3_4_units": 1694,
+      "5plus_units": 47452,
+      "total": 110197
+    },
+    "2020": {
+      "1_unit": 59043,
+      "2_units": 2140,
+      "3_4_units": 1677,
+      "5plus_units": 43215,
+      "total": 106075
+    },
+    "2021": {
+      "1_unit": 65890,
+      "2_units": 2408,
+      "3_4_units": 1631,
+      "5plus_units": 49507,
+      "total": 119436
+    },
+    "2022": {
+      "1_unit": 63628,
+      "2_units": 2602,
+      "3_4_units": 1778,
+      "5plus_units": 52772,
+      "total": 120780
+    },
+    "2023": {
+      "1_unit": 58534,
+      "2_units": 2458,
+      "3_4_units": 1444,
+      "5plus_units": 49324,
+      "total": 111760
+    },
+    "2024": {
+      "1_unit": 61143,
+      "2_units": 3232,
+      "3_4_units": 1085,
+      "5plus_units": 36085,
+      "total": 101545
+    },
+    "2025": {
+      "1_unit": 57739,
+      "2_units": 3496,
+      "3_4_units": 1137,
+      "5plus_units": 41484,
+      "total": 103856
+    }
+  }
+}

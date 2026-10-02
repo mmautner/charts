@@ -1,0 +1,18 @@
+{
+  "columns_used": {
+    "year": "YEAR",
+    "juris": "JURIS_NAME",
+    "unit_cat": "UNIT_CAT",
+    "bp_units": "NO_BUILDING_PERMITS",
+    "co_units": "NO_OTHER_FORMS_OF_READINESS",
+    "apn": "APN",
+    "address": "STREET_ADDRESS"
+  },
+  "all_columns_note": "Rows were pulled through the data.ca.gov datastore API with only the 8 columns below, because the CSV download redirects to S3, which the fetching sandbox could not reach. Rerun fetch_hcd.py without --file to replace this file with a full-download run.",
+  "all_columns": ["YEAR", "JURIS_NAME", "UNIT_CAT", "NO_BUILDING_PERMITS", "NO_OTHER_FORMS_OF_READINESS", "APN", "PRIOR_APN", "STREET_ADDRESS"],
+  "rows": 922800,
+  "unit_categories": {"SFD": 531615, "ADU": 281375, "5+": 34723, "SFA": 33248, "2 to 4": 25645, "MH": 16194},
+  "adu_permit_rows_sharing_year_juris_apn_address": 2881,
+  "source": "data.ca.gov datastore API, resource fe505d9b-8c36-42ba-ba30-08bc4f34e022 (APR Table A2), resource last updated 2026-10-02",
+  "fetched_on": "2026-10-02"
+}
