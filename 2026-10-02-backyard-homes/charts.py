@@ -28,8 +28,14 @@ def adu_vs_houses(fmt, name, adu, sfd, mf5, fetched):
     else:
         assert r >= 0.9, f"Title says 'nearly as many' but ADUs/houses = {r:.2f}"
         title = "California now permits\nnearly as many backyard\nhomes as houses"
-    p = Page(fmt, title, "Units permitted per year",
-             f"In {last}: {a[-1]:,} ADUs, {h[-1]:,} detached houses.",
+    if fmt == "blog":
+        # In the post, the headline sits right above this chart, so the chart says something else.
+        title = (f"For every 100 new houses,\nCalifornia permitted {round(100 * a[0] / h[0])} ADUs\n"
+                 f"in {ys[0]} and {round(100 * r)} in {last}")
+        note = "Houses are detached single-family homes."
+    else:
+        note = f"In {last}: {a[-1]:,} ADUs, {h[-1]:,} detached houses."
+    p = Page(fmt, title, "Units permitted per year", note,
              f"Source: {SOURCES_APR}\n(fetched {fetched}). All 3 lines come from the same city reports.", WATERMARK)
     ax = plot_area(p, right=2.1)
     ax.plot(ys, m, color=GREY, lw=2.5)
@@ -68,6 +74,34 @@ def adu_share(fmt, name, adu, total, fetched):
     ax.tick_params(axis="x", labelsize=(14 if fmt == "blog" else 11) * p.k)
     p.save(OUT / name)
 
+def og_image(name, adu, sfd, mf5):
+    """1200 x 630 link-preview image for the post's og:image."""
+    import matplotlib.pyplot as plt
+    from style import DPI
+    ys = [y for y in YEARS if y in adu]
+    a, h, m = ([d[y] for y in ys] for d in (adu, sfd, mf5))
+    fig = plt.figure(figsize=(8, 4.2), dpi=DPI, facecolor=BG)
+    fig.text(0.05, 0.88, "California now permits\nnearly as many backyard\nhomes as houses",
+             fontsize=23, color=INK, va="top", linespacing=1.15)
+    fig.text(0.05, 0.36, f"{a[-1]:,} ADUs vs. {h[-1]:,}\ndetached houses in {ys[-1]}",
+             fontsize=15, color=COPPER, va="top", linespacing=1.3)
+    fig.text(0.05, 0.08, WATERMARK, fontsize=12, color=GREY, va="bottom")
+    ax = fig.add_axes([0.64, 0.14, 0.24, 0.74])
+    ax.set_facecolor(BG)
+    for sp in ax.spines.values():
+        sp.set_visible(False)
+    ax.tick_params(colors=GREY, labelsize=9, length=0)
+    ax.grid(axis="y", color=LIGHT, lw=1); ax.set_axisbelow(True)
+    ax.plot(ys, m, color=GREY, lw=2)
+    ax.plot(ys, h, color=INK, lw=3)
+    ax.plot(ys, a, color=COPPER, lw=3)
+    ax.set_xlim(ys[0], ys[-1]); ax.set_ylim(0, max(m + h + a) * 1.12)
+    ax.set_xticks([ys[0], ys[-1]])
+    ax.yaxis.set_major_formatter(lambda v, _: f"{v/1000:.0f}k")
+    for y, text, color in [(a[-1] - 4500, "ADUs", COPPER), (h[-1] + 4500, "Houses", INK), (m[-1], "5+ units", GREY)]:
+        ax.text(ys[-1] + 0.3, y, text, color=color, fontsize=11, va="center", clip_on=False)
+    fig.savefig(OUT / name, facecolor=BG); plt.close(fig)
+
 if __name__ == "__main__":
     import json
     setup_font()
@@ -78,4 +112,5 @@ if __name__ == "__main__":
     adu_vs_houses("social", "social-adu-vs-houses-4x5.png", adu, sfd, mf5, fetched)
     adu_share("blog", "adu-share.png", adu, total, fetched)
     adu_share("social", "social-adu-share-4x5.png", adu, total, fetched)
-    print(f"Wrote 4 charts to {OUT}")
+    og_image("og-image.png", adu, sfd, mf5)
+    print(f"Wrote 5 charts to {OUT}")
