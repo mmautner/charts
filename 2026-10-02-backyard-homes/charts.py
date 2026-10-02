@@ -7,7 +7,7 @@ sys.path.insert(0, str(HERE.parent))  # repo root, for style.py
 from style import BG, INK, GREY, LIGHT, COPPER, Page, setup_font, style_axes
 from model import YEARS, load_hcd
 
-WATERMARK = "maxmautner.com"
+WATERMARK = "maxmautner.com/adus"
 OUT = HERE / "output"
 SOURCES_APR = "HCD Housing Element Annual Progress Reports, Table A2"
 

@@ -1,6 +1,6 @@
 # 1 in 4 new California homes is in someone's backyard
 
-Code and data behind the charts in "1 in 4 new California homes is in someone's backyard" (TK: post URL) on maxmautner.com.
+Code and data behind the charts in ["1 in 4 new California homes is in someone's backyard"](https://maxmautner.com/2026/10/02/california-adus.html) on maxmautner.com.
 
 The charts compare California's accessory dwelling unit (ADU) permits with permits for
 detached houses and for units in buildings of 5+ units, and show ADUs as a share of all units permitted. Both
