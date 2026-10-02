@@ -24,17 +24,11 @@ def adu_vs_houses(fmt, name, adu, sfd, mf5, fetched):
     a, h, m = ([d[y] for y in ys] for d in (adu, sfd, mf5))
     last, r = ys[-1], adu[ys[-1]] / sfd[ys[-1]]
     if r >= 1:
-        title = "California now permits\nmore backyard homes\nthan houses"
+        title = "California now permits\nmore ADUs than\nnew houses"
     else:
-        assert r >= 0.9, f"Title says 'nearly as many' but ADUs/houses = {r:.2f}"
-        title = "California now permits\nnearly as many backyard\nhomes as houses"
-    if fmt == "blog":
-        # In the post, the headline sits right above this chart, so the chart says something else.
-        title = (f"For every 100 new houses,\nCalifornia permitted {round(100 * a[0] / h[0])} ADUs\n"
-                 f"in {ys[0]} and {round(100 * r)} in {last}")
-        note = "Houses are detached single-family homes."
-    else:
-        note = f"In {last}: {a[-1]:,} ADUs, {h[-1]:,} detached houses."
+        assert r >= 0.9, f"Title says 'almost 1 ADU for every new house' but ADUs/houses = {r:.2f}"
+        title = "California now permits\nalmost 1 ADU for\nevery new house"
+    note = f"In {last}: {a[-1]:,} ADUs, {h[-1]:,} detached houses."
     p = Page(fmt, title, "Units permitted per year", note,
              f"Source: {SOURCES_APR}\n(fetched {fetched}). All 3 lines come from the same city reports.", WATERMARK)
     ax = plot_area(p, right=2.1)
@@ -81,7 +75,7 @@ def og_image(name, adu, sfd, mf5):
     ys = [y for y in YEARS if y in adu]
     a, h, m = ([d[y] for y in ys] for d in (adu, sfd, mf5))
     fig = plt.figure(figsize=(8, 4.2), dpi=DPI, facecolor=BG)
-    fig.text(0.05, 0.88, "California now permits\nnearly as many backyard\nhomes as houses",
+    fig.text(0.05, 0.88, "California now permits\nalmost 1 ADU for\nevery new house",
              fontsize=23, color=INK, va="top", linespacing=1.15)
     fig.text(0.05, 0.36, f"{a[-1]:,} ADUs vs. {h[-1]:,}\ndetached houses in {ys[-1]}",
              fontsize=15, color=COPPER, va="top", linespacing=1.3)

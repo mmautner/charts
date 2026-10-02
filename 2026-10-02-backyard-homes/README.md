@@ -1,7 +1,6 @@
-# California now permits nearly as many backyard homes as houses
+# 1 in 4 new California homes is in someone's backyard
 
-Code and data behind the charts in "California now permits nearly as many backyard homes as
-houses" (TK: post URL) on maxmautner.com.
+Code and data behind the charts in "1 in 4 new California homes is in someone's backyard" (TK: post URL) on maxmautner.com.
 
 The charts compare California's accessory dwelling unit (ADU) permits with permits for
 detached houses and for units in buildings of 5+ units, and show ADUs as a share of all units permitted. Both
