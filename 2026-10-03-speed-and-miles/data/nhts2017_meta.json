@@ -1,0 +1,11 @@
+{
+  "source": "https://nhts.ornl.gov/assets/2016/download/csv.zip and Replicates.zip (2017 NHTS public-use files, codebook v1.2)",
+  "fetched_on": "2026-10-03",
+  "note": "Summary written by fetch_nhts.py. This file was produced by the same analysis code run as a standalone script in a separate environment, because nhts.ornl.gov was not reachable where the charts were built. Rerun fetch_nhts.py to replace it.",
+  "checks_passed": {
+    "household_weight_total": 118208251,
+    "licensed_driver_total": 223277172,
+    "annual_vmt_millions_fhwa": 2105882
+  },
+  "rows": 118
+}

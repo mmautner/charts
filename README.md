@@ -9,6 +9,7 @@ Each folder is one post. `style.py` holds the shared look.
 |---|---|
 | [When we talk about traffic violence](https://maxmautner.com/crashes) | [`2026-09-28-traffic-violence`](2026-09-28-traffic-violence) |
 | [California now permits nearly as many backyard homes as houses](https://maxmautner.com/adus) | [`2026-10-02-backyard-homes`](2026-10-02-backyard-homes) |
+| [Driving 5 mph slower beats driving 5% less](https://maxmautner.com/slower) | [`2026-10-03-speed-and-miles`](2026-10-03-speed-and-miles) |
 
 ## Running a post's charts
 
