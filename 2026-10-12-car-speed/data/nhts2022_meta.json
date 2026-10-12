@@ -1,0 +1,6 @@
+{
+  "source": "https://nhts.ornl.gov/assets/2022/download/csv.zip",
+  "file": "tripv2pub.csv",
+  "fetched_on": "2026-10-12",
+  "definition": "Driver trips (DRVR_FLG=01) by car, SUV, van or pickup; short = TRPMILES <= 8.0. Speed = sum(miles*WTTRDFIN) / sum(TRVLCMIN*WTTRDFIN). TRVLCMIN is self-reported."
+}
