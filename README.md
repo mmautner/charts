@@ -11,6 +11,7 @@ Each folder is one post. `style.py` holds the shared look.
 | [California now permits nearly as many backyard homes as houses](https://maxmautner.com/adus) | [`2026-10-02-backyard-homes`](2026-10-02-backyard-homes) |
 | [Driving 5 mph slower beats driving 5% less](https://maxmautner.com/slower) | [`2026-10-03-speed-and-miles`](2026-10-03-speed-and-miles) |
 | [How fast is a car, after you pay for it?](https://maxmautner.com/howfast) | [`2026-10-12-car-speed`](2026-10-12-car-speed) |
+| [Things I wish I had known about kickscooters](https://maxmautner.com/kickscooter) | [`2026-10-13-kickscooters`](2026-10-13-kickscooters) |
 
 ## Running a post's charts
 
