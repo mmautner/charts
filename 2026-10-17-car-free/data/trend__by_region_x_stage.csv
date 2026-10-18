@@ -1,0 +1,9 @@
+region,stage,est_1519,se_1519,n_cf_1519,est_2024,se_2024,n_cf_2024,chg,chg_se
+Rest of Bay,Young adults,9.3,0.3,1103,10.0,0.4,1238,0.7,0.5
+Rest of Bay,"Midlife, no kids",4.9,0.1,1790,5.6,0.2,1838,0.6,0.2
+Rest of Bay,Families,2.5,0.1,895,2.8,0.1,887,0.3,0.2
+Rest of Bay,Seniors,12.1,0.3,3161,10.8,0.2,3303,-1.3,0.3
+SF,Young adults,40.9,1.0,1503,38.6,1.0,1383,-2.3,1.4
+SF,"Midlife, no kids",29.8,0.7,1554,29.6,0.8,1585,-0.3,1.1
+SF,Families,10.3,0.7,262,9.6,0.8,236,-0.8,1.1
+SF,Seniors,38.9,0.8,1314,37.9,0.9,1490,-1.0,1.2
