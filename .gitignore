@@ -2,3 +2,4 @@ fonts/
 __pycache__/
 .venv/
 *.zip
+*.md
