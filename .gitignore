@@ -2,5 +2,5 @@ fonts/
 __pycache__/
 .venv/
 *.zip
-*.md
+CLAUDE.md
 raw/
