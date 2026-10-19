@@ -117,7 +117,7 @@ def wrap(s, fp, width, last_width=None, balance=False):
 
 class Page:
     """Portrait page. After construction, self.top and self.bottom are the inches
-    reserved above and below the chart area. Text spans the full content width
+    reserved above and below the chart area. Pass note="" for no italic note. Text spans the full content width
     (the same width the chart gets); pass wrap_text=False to keep the strings' own breaks."""
     def __init__(self, fmt, title, subtitle, note, sources, watermark, wrap_text=True):
         self.W, self.H, self.k = FORMATS[fmt]
@@ -132,6 +132,8 @@ class Page:
                 (note, font("serif_italic", 16 * k), GREY, 0.25, {})]
         y = 0.35
         for txt, fp, color, gap, opts in rows:
+            if not txt:            # the italic note is optional: pass "" to leave it out
+                continue
             if wrap_text:
                 txt = wrap(txt, fp, full, **opts)
             t = self.fig.text(x0, 1 - y / self.H, txt, fontproperties=fp, color=color, va="top", ha="left", linespacing=1.2)
