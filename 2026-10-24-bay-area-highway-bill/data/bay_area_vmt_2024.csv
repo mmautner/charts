@@ -1,0 +1,8 @@
+area,daily_vmt_thousands,annual_vmt_millions,source
+Alameda,32604.79,,Caltrans California Public Road Data 2024 Table 6 (county total)
+Contra Costa,22520.12,,Caltrans California Public Road Data 2024 Table 6 (county total)
+San Francisco,7024.53,,Caltrans California Public Road Data 2024 Table 6 (county total)
+San Mateo,18182.78,,Caltrans California Public Road Data 2024 Table 6 (county total)
+Santa Clara,34913.62,,Caltrans California Public Road Data 2024 Table 6 (county total)
+California,890613.25,325959.2,Caltrans PRD 2024 statewide total; FHWA VM-2 2024 (annual)
+United States,,3294031.0,FHWA Highway Statistics 2024 VM-2 (U.S. total annual vehicle-miles)
