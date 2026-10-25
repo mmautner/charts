@@ -76,7 +76,9 @@ FE-221). Spread by population, the Bay Area's portion would be ~1.5%. Approximat
   for agencies with 100 or fewer buses and some paratransit; preventive maintenance counts as capital. CRS
   R47900, https://www.congress.gov/crs-product/R47900
 - Surface transportation programs extended through Dec. 11, 2026 by P.L. 119-103 (H.R. 6500, signed Sept. 2,
-  2026).
+  2026). Dec. 11 is not a deadline for a general-fund transfer: CBO has the transit account running dry in
+  FY2027 and the highway account in FY2028, so the next transfer will most likely be decided by the Congress
+  that starts in January 2027. (Corrected after a reader pointed out that another short extension is likely.)
 - House members whose districts include part of the 5 counties (119th Congress districts, Census
   CD119-county relationship file): CA-8 Garamendi, CA-9 Harder, CA-10 DeSaulnier, CA-11 Pelosi, CA-12 Simon,
   CA-14 Wahab (sworn in Sept. 2, 2026), CA-15 Mullin, CA-16 Liccardo, CA-17 Khanna, CA-18 Lofgren,
