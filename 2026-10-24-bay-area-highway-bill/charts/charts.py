@@ -111,8 +111,8 @@ def og_image(name):
     lo = get("Bay Area share of projected highway-account gap, avg FY2028-36, low")
     tax = get("Transit sales tax on the Nov 3 ballot, per year")
     fig = plt.figure(figsize=(8, 4.2), dpi=DPI, facecolor=BG)
-    fig.text(0.05, 0.88, "The Bay Area pays\nmore to bail out\nhighways than its\ntransit tax would cost",
-             fontproperties=font("serif", 27), color=INK, va="top", linespacing=1.15)
+    fig.text(0.05, 0.88, "The Bay Area will pay\nmore to bail out\nAmerica\u2019s highways\nthan to keep its own\ntrains and buses running",
+             fontproperties=font("serif", 24), color=INK, va="top", linespacing=1.15)
     fig.text(0.05, 0.06, WATERMARK, fontsize=11, color=GREY, va="bottom")
     ax = fig.add_axes([0.6, 0.2, 0.36, 0.6]); bare(ax)
     for y, lab, v, txt, col in ((1, "Its share of highway bailouts", lo, f"${lo:.2f}B", COPPER),
