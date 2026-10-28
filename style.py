@@ -115,6 +115,37 @@ def wrap(s, fp, width, last_width=None, balance=False):
     return "\n".join(lines)
 
 
+def _font_extent(fp):
+    """Font-wide ascent and descent in inches, from the font's own tables (as matplotlib reads them)."""
+    from matplotlib.ft2font import FT2Font
+    f = FT2Font(fm.findfont(fp))
+    scale = fp.get_size_in_points() / 72 / f.get_sfnt_table("head")["unitsPerEm"]
+    t = f.get_sfnt_table("OS/2")
+    if t:
+        return t["sTypoAscender"] * scale, -t["sTypoDescender"] * scale
+    t = f.get_sfnt_table("hhea")
+    return t["ascent"] * scale, -t["descent"] * scale
+
+
+def text_block(fig, x, y, s, fp, color, linespacing=1.2, va="top", ha="left"):
+    """Multi-line text with every baseline the same distance apart; returns its height in inches.
+
+    matplotlib 3.11 spaces fixed-linespacing lines by each line's own glyphs, so a line with descenders
+    followed by one without gets a wider gap. This draws one artist per line instead. x, y are figure
+    fractions; va is "top" or "bottom" of the block, which (as in matplotlib) gives each line a box of
+    linespacing x the font's full ascent + descent, with the extra split above and below."""
+    lines = s.split("\n")
+    asc, desc = _font_extent(fp)
+    step = linespacing * (asc + desc)
+    H = fig.get_figheight()
+    height = step * len(lines)
+    top = y * H if va == "top" else y * H + height
+    first = top - (step - asc - desc) / 2 - asc
+    for i, line in enumerate(lines):
+        fig.text(x, (first - i * step) / H, line, fontproperties=fp, color=color, va="baseline", ha=ha)
+    return height
+
+
 class Page:
     """Portrait page. After construction, self.top and self.bottom are the inches
     reserved above and below the chart area. Pass note="" for no italic note. Text spans the full content width
@@ -136,13 +167,12 @@ class Page:
                 continue
             if wrap_text:
                 txt = wrap(txt, fp, full, **opts)
-            t = self.fig.text(x0, 1 - y / self.H, txt, fontproperties=fp, color=color, va="top", ha="left", linespacing=1.2)
-            y += self._height(t) + gap
+            y += text_block(self.fig, x0, 1 - y / self.H, txt, fp, color, linespacing=1.2) + gap
         self.top = y
         if wrap_text:
             sources = wrap(sources, f_src, full, last_width=full - text_width(watermark, f_wm) - 0.3)
         self.bottom = 0.3 + (sources.count("\n") + 1) * f_src.get_size() * LH * 1.1 + 0.2
-        self.fig.text(x0, 0.25 / self.H, sources, fontproperties=f_src, color=GREY, va="bottom", ha="left", linespacing=1.4)
+        text_block(self.fig, x0, 0.25 / self.H, sources, f_src, GREY, linespacing=1.4, va="bottom")
         self.fig.text(1 - x0, 0.25 / self.H, watermark, fontproperties=f_wm, color=GREY, va="bottom", ha="right")
 
     def _height(self, t):
