@@ -1,0 +1,19 @@
+city,period,category,share_of_1pct,quarter_amount_usd,status,source_id,pdf_page,note
+Burlingame,FY2024-25 (4 quarters ending 2Q 2025),Autos and transportation,0.26,,primary (HdL),bg_hdl_2q25,2,"Pie 'Revenue by business group, Burlingame this fiscal year', adjusted for economic data. Share of the 1% local tax incl. county pools; excludes Measure I"
+Burlingame,FY2024-25 (4 quarters ending 2Q 2025),County and state pools,0.21,,primary (HdL),bg_hdl_2q25,2,
+Burlingame,FY2024-25 (4 quarters ending 2Q 2025),Restaurants and hotels,0.18,,primary (HdL),bg_hdl_2q25,2,
+Burlingame,FY2024-25 (4 quarters ending 2Q 2025),General consumer goods,0.12,,primary (HdL),bg_hdl_2q25,2,
+Burlingame,FY2024-25 (4 quarters ending 2Q 2025),Business and industry,0.11,,primary (HdL),bg_hdl_2q25,2,
+Burlingame,FY2024-25 (4 quarters ending 2Q 2025),Building and construction,0.06,,primary (HdL),bg_hdl_2q25,2,
+Burlingame,FY2024-25 (4 quarters ending 2Q 2025),Others (incl. fuel and service stations; food and drugs),0.06,,primary (HdL),bg_hdl_2q25,2,Fuel not broken out in the fiscal-year pie
+Burlingame,FY2024-25 (4 quarters ending 2Q 2025),Fuel and service stations,TK,,TK,bg_hdl_2q25,1,"Shown only as an unlabeled bar on p1 and inside 'Others 6%' on p2. Needs HdL 3Q24, 4Q24, 1Q25 updates or the city's HdL fiscal-year detail"
+Burlingame,2Q 2025,Service stations (business type),,135900,primary (HdL),bg_hdl_2q25,2,"Top business types table, in thousands ($135.9K), adjusted for aberrations; -6.2% vs 2Q 2024"
+Burlingame,2Q 2025,New motor vehicle dealers (business type),,706900,primary (HdL),bg_hdl_2q25,2,"$706.9K; -13.5% vs 2Q 2024, which HdL attributes to a reporting change by one taxpayer"
+Burlingame,2Q 2025,Auto lease (business type),,93300,primary (HdL),bg_hdl_2q25,2,$93.3K
+Burlingame,2Q 2025,Total 1% receipts,,3594804,primary (HdL),bg_hdl_2q25,1,Cash total for the quarter
+Burlingame,2Q 2025,Measure I,,807884,primary (HdL),bg_hdl_2q25,1,
+Burlingame,3Q 2025,Autos and transportation,0.26,,primary (HdL),bg_hdl_3q25,2,This quarter only (FY2025-26); not used
+Burlingame,3Q 2025,Service stations (business type),,111200,primary (HdL),bg_hdl_3q25,2,$111.2K; -17.7% vs 3Q 2024
+Burlingame,4Q 2020,Autos and transportation,0.33,,stale (link dead),,,"From the brief; cms6.revize.com URL now returns 404, could not re-verify. Pandemic quarter; not used"
+San Mateo,FY2024-25,Autos and transportation,TK,,TK,,,"No HdL/Avenu update posted on cityofsanmateo.org; ACFR statistical section has no taxable sales by category; CDTFA city by-type data ends 2014. MD&A (sm_acfr PDF 34 / p12) says only that sales tax fell partly due to 'service station and auto-transportation sales'"
+San Mateo,FY2024-25,Fuel and service stations,TK,,TK,,,Same as above

@@ -1,0 +1,17 @@
+city,source,amount_usd,population,per_resident_usd,share_of_general_fund
+San Mateo,Property tax,83534637,104315,800.79,0.4664
+San Mateo,Sales tax,27118537,104315,259.97,0.1514
+San Mateo,Hotel tax,4702015,104315,45.08,0.0263
+San Mateo,Property transfer tax,17243318,104315,165.3,0.0963
+San Mateo,Business and franchise taxes,10680208,104315,102.38,0.0596
+San Mateo,Charges for services,15191614,104315,145.63,0.0848
+San Mateo,Everything else,20623747,104315,197.71,0.1152
+San Mateo,Total,179094076,104315,1716.86,1.0
+Burlingame,Property tax,34450698,31552,1091.87,0.3677
+Burlingame,Sales tax,17385517,31552,551.01,0.1855
+Burlingame,Hotel tax,20168534,31552,639.22,0.2152
+Burlingame,Property transfer tax,385072,31552,12.2,0.0041
+Burlingame,Business and franchise taxes,3851097,31552,122.06,0.0411
+Burlingame,Charges for services,8228052,31552,260.78,0.0878
+Burlingame,Everything else,9232532,31552,292.61,0.0985
+Burlingame,Total,93701502,31552,2969.75,1.0

@@ -1,0 +1,5 @@
+city,category,share_of_local_1pct,local_1pct_usd,category_usd,general_fund_usd,category_share_of_general_fund,all_sales_tax_share_of_general_fund,local_1pct_share_of_general_fund
+San Mateo,Autos and transportation,TK,19961410,TK,179094076,TK,0.1514,0.1115
+San Mateo,Fuel and service stations,TK,19961410,TK,179094076,TK,0.1514,0.1115
+Burlingame,Autos and transportation,0.26,14000000,3640000,93701502,0.0388,0.1855,0.1494
+Burlingame,Fuel and service stations,TK,14000000,TK,93701502,TK,0.1855,0.1494

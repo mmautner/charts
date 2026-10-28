@@ -1,0 +1,10 @@
+city,division,group,spending_usd,fees_usd,status,source_id,pdf_page,printed_page,note
+San Mateo,Parks & Landscapes,Park and landscape upkeep,8063738,,primary,sm_budget_2526,107,,"FY2025-26 proposed budget by cost center. Maintains 289.7 acres of developed park land, civic facilities, medians and islands (PDF 110) at a stated ~$29,000 per acre (FY2026 target)"
+San Mateo,Arborist,Street and park trees,1356076,,primary,sm_budget_2526,107,,"25,000 street and park trees maintained (FY2026 target, PDF 110); 23,600 in FY2023-24"
+San Mateo,Park Planning,Park and landscape upkeep,433392,,primary,sm_budget_2526,107,,
+San Mateo,Parks & Rec Operations,Park and landscape upkeep,25007,,primary,sm_budget_2526,107,,
+San Mateo,Community Services,Recreation,10559688,4358000,primary,sm_budget_2526 / sm_budget_2628,107 / 51,,"Fees: 'Recreation Service Charges' FY2025-26 estimated actual in the 2026-28 budget's GF forecast (PDF 51). Cost recovery target 45% (PDF 110)"
+San Mateo,Golf Services,Golf,3081789,3343500,primary,sm_budget_2526 / sm_budget_2628,107 / 51,,"Golf fees FY2025-26 estimated; 'percent of golf course operating expenses covered by revenues: 100%' (PDF 110)"
+Burlingame,Parks Division,Park and landscape upkeep (incl. trees),9757805,286000,primary,bg_budget_2627,153,,"FY2025-26 adopted. Also maintains 14,000+ street trees and 1,700+ park trees, 49 medians and roundabouts, 23 parking areas, Burlingame Ave and Broadway business districts, 7 building landscapes (PDF 152); tree crew not budgeted separately"
+Burlingame,Recreation Division,Recreation,6073416,4200000,primary,bg_budget_2627,155-156,,FY2025-26 adopted; fees = charges for services
+Burlingame,Aquatics Division,Recreation,735000,316900,primary,bg_budget_2627,157,,"FY2025-26 adopted. Pool is the school district's Burlingame Aquatic Center; city pays ~75% of operating costs"

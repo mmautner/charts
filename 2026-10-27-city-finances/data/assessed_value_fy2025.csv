@@ -1,0 +1,16 @@
+city,category,assessed_value_usd,status,source_id,pdf_page,printed_page,note
+Burlingame,Residential,11817486620,primary,bg_acfr,191,,2024-25 roll
+Burlingame,Non-residential (commercial),3951129903,primary,bg_acfr,191,,
+Burlingame,Non-residential (industrial),1112916873,primary,bg_acfr,191,,
+Burlingame,Non-residential (government/institutional/misc/recreational/vacant/SBE),255727418,primary (sum),bg_acfr,191,,"6,917,598 + 8,604,883 + 63,440,697 + 91,495,876 + 82,573,167 + 2,695,197; all categories sum exactly to the total"
+Burlingame,Non-residential (unsecured),617299258,primary,bg_acfr,191,,
+Burlingame,Total,17754560072,primary,bg_acfr,191,,Exempt values excluded
+San Mateo,Residential,29204101000,primary,sm_acfr,228,206,FY2025 (thousands in source)
+San Mateo,Non-residential (commercial),7677307000,primary,sm_acfr,228,206,
+San Mateo,Non-residential (industrial),483398000,primary,sm_acfr,228,206,
+San Mateo,Non-residential (other incl. unitary),792215000,primary,sm_acfr,228,206,
+San Mateo,Non-residential (unsecured),778620000,primary,sm_acfr,228,206,
+San Mateo,Less tax-exempt,-844130000,primary,sm_acfr,228,206,
+San Mateo,Total,38091511000,primary,sm_acfr,228,206,
+Burlingame,housing_units_2025,13991,primary,dof_e1_2025,,,Sheet E-1H CityCounty2025
+San Mateo,housing_units_2025,43817,primary,dof_e1_2025,,,Sheet E-1H CityCounty2025

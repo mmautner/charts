@@ -1,0 +1,19 @@
+city,metric,value,status,source_id,note
+Burlingame,population_served,37924,primary,imls_pls_fy2024,"POPU_LSA, legal service area. 6,372 more than the city's 31,552 residents (DOF Jan 2025): TK why (likely part of Hillsborough or unincorporated area). The State Library's 2026 list gives 39,941"
+San Mateo,population_served,107057,primary,imls_pls_fy2024,POPU_LSA
+Burlingame,operating_spending,6340663,primary,imls_pls_fy2024,TOTOPEXP; library operating spending in FY2023-24 (all funds)
+San Mateo,operating_spending,7866799,primary,imls_pls_fy2024,TOTOPEXP
+Burlingame,visits,289919,primary,imls_pls_fy2024,"VISITS, annual count (CT)"
+San Mateo,visits,379404,primary,imls_pls_fy2024,"VISITS, annual count (CT); matches San Mateo ACFR FY2024 (sm_acfr PDF 242 / p220)"
+Burlingame,circulation,642950,primary,imls_pls_fy2024,"TOTCIR: physical + electronic. San Mateo-style physical-only: 537,178"
+San Mateo,circulation,1053125,primary,imls_pls_fy2024,TOTCIR
+Burlingame,hours_open,4628,primary,imls_pls_fy2024,"Outlet file: Main 3,068 + Easton branch 1,560 hours a year"
+San Mateo,hours_open,7488,primary,imls_pls_fy2024,"Outlet file: Main 3,120 + Hillsdale 2,184 + Marina 2,184"
+Burlingame,square_feet,50000,primary,imls_pls_fy2024,"Main 47,000 + Easton 3,000"
+San Mateo,square_feet,105603,primary,imls_pls_fy2024,"Main 93,806 + Hillsdale 6,468 + Marina 5,329"
+Burlingame,paid_staff_fte,32.14,primary,imls_pls_fy2024,TOTSTAFF
+San Mateo,paid_staff_fte,62,primary,imls_pls_fy2024,TOTSTAFF
+Burlingame,program_attendance,28910,primary,imls_pls_fy2024,TOTATTEN
+San Mateo,program_attendance,21125,primary,imls_pls_fy2024,TOTATTEN
+Burlingame,registered_users,31279,primary,imls_pls_fy2024,REGBOR
+San Mateo,registered_users,81266,primary,imls_pls_fy2024,REGBOR

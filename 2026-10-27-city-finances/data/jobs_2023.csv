@@ -1,0 +1,3 @@
+city,jobs_all,jobs_accommodation_food,population_2025,jobs_per_resident,source
+Burlingame,31454,3433,31552,0.997,"LEHD LODES8 WAC S000 JT00 2023 (all jobs, primary and secondary); blocks to places via ca_xwalk.csv.gz"
+San Mateo,59573,4878,104315,0.571,"LEHD LODES8 WAC S000 JT00 2023 (all jobs, primary and secondary); blocks to places via ca_xwalk.csv.gz"

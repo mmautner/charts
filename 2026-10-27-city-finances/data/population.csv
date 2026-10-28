@@ -1,0 +1,5 @@
+city,population,as_of,vintage,status,source_id,sheet,note
+San Mateo,104315,2025-01-01,DOF E-1 May 2025 release,primary,dof_e1_2025,E-1 CityCounty2025,Matches the figure in the brief. Used for per-resident values
+Burlingame,31552,2025-01-01,DOF E-1 May 2025 release,primary,dof_e1_2025,E-1 CityCounty2025,Same vintage as San Mateo. Used for per-resident values
+San Mateo,104361,2025-01-01,DOF E-1 May 2026 release (revised),primary,dof_e1_2026,E-1 CityCounty2026,Revised; not used. Changes per-resident values by <0.1%
+Burlingame,31568,2025-01-01,DOF E-1 May 2026 release (revised),primary,dof_e1_2026,E-1 CityCounty2026,Revised; not used

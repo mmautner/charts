@@ -1,0 +1,12 @@
+city,metric,value,status,source_id,pdf_page,printed_page,note
+Burlingame,park_acres_developed,93.55,primary,bg_parks_master_plan,11,,"Figure 4, developed parks (15 sites; Bayside 36.0, Murray Field 20.6, Washington 18.9)"
+Burlingame,park_acres_natural,37.80,primary,bg_parks_master_plan,12,,"Figure 5: Mills Canyon Wildlife Area 34.5 + Skyline Park 3.3. Excludes 2.46 acres of State Lands Commission parks maintained by others"
+Burlingame,park_acres_total,131.35,primary (sum),bg_parks_master_plan,11-12,,Plan text says '130+ acres' (PDF 10 / p16). Plan adopted 2020; acreage may have changed since
+San Mateo,park_acres_total,320,primary,sm_acfr,243,221,"Capital asset statistics, FY2025: 35 parks, 320 acres, 2 pools, 16 tennis courts, 6 community centers. Split between developed and natural open space: TK"
+Burlingame,spending_parks,9026057,primary,bg_acfr,155,,FY2025 GF actual
+Burlingame,spending_recreation_aquatics,6815372,primary,bg_acfr,155,,
+Burlingame,spending_library,6649871,primary,bg_acfr,155,,
+San Mateo,spending_parks_and_recreation,22133257,primary,sm_acfr,150,128,Parks and recreation combined in the ACFR
+San Mateo,spending_library,9258253,primary,sm_acfr,150,128,
+Burlingame,recreation_class_participants_fy2025,10672,primary,bg_acfr,206,,"'Recreation Class Participants'. Not the same measure as San Mateo's 'course registration': do not compare directly"
+San Mateo,course_registrations_fy2025,18816,primary,sm_acfr,242,220,'Course registration'

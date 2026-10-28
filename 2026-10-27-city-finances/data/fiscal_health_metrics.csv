@@ -1,0 +1,67 @@
+city,metric,value,unit,note
+San Mateo,GF revenue per resident,1716.8583,USD,
+Burlingame,GF revenue per resident,2969.7484,USD,
+San Mateo,"GF revenue per resident, without hotel tax",1671.7832,USD,check: does the gap survive without visitor taxes
+Burlingame,"GF revenue per resident, without hotel tax",2330.5327,USD,check: does the gap survive without visitor taxes
+San Mateo,"GF revenue per resident, without hotel and sales tax",1411.8154,USD,
+Burlingame,"GF revenue per resident, without hotel and sales tax",1779.5211,USD,
+San Mateo,Hotel tax share of GF revenue,0.0263,share,
+Burlingame,Hotel tax share of GF revenue,0.2152,share,
+San Mateo,GF spending per resident (before transfers),1692.564,USD,
+Burlingame,GF spending per resident (before transfers),2521.1101,USD,
+San Mateo,GF result FY2025 (net change in fund balance),1581520.0,USD,
+Burlingame,GF result FY2025 (net change in fund balance),236385.0,USD,
+San Mateo,GF result FY2027 budget,-16757628.0,USD,
+Burlingame,GF result FY2027 budget,-3265322.0,USD,
+San Mateo,GF result FY2027 as share of revenue,-0.0964,share,
+Burlingame,GF result FY2027 as share of revenue,-0.034,share,
+San Mateo,FY2027 operating result before capital transfers,-9697628.0,USD,"San Mateo: before ALL transfers out (capital and debt split not given), so this flatters San Mateo"
+Burlingame,FY2027 operating result before capital transfers,2434188.0,USD,"San Mateo: before ALL transfers out (capital and debt split not given), so this flatters San Mateo"
+San Mateo,GF fund balance June 2025,119538861.0,USD,
+Burlingame,GF fund balance June 2025,57644192.0,USD,
+San Mateo,GF fund balance as share of GF spending + transfers out,0.6297,share,
+Burlingame,GF fund balance as share of GF spending + transfers out,0.6011,share,
+San Mateo,GF fund balance per resident,1145.9412,USD,
+Burlingame,GF fund balance per resident,1826.9584,USD,
+San Mateo,GF fund balance growth 2016-2025,1.04,share,
+Burlingame,GF fund balance growth 2016-2025,0.9229,share,
+San Mateo,Net pension liability per resident,2636.9581,USD,San Mateo includes former firefighters; Burlingame excludes fire (Central County Fire's books)
+Burlingame,Net pension liability per resident,2769.6333,USD,San Mateo includes former firefighters; Burlingame excludes fire (Central County Fire's books)
+San Mateo,"Net pension liability less pension trust, per resident",2636.9581,USD,
+Burlingame,"Net pension liability less pension trust, per resident",1926.5805,USD,
+San Mateo,Net pension liability as multiple of GF revenue,1.5359,x,
+Burlingame,Net pension liability as multiple of GF revenue,0.9326,x,
+San Mateo,Net OPEB liability per resident,99.3336,USD,
+Burlingame,Net OPEB liability per resident,1096.1931,USD,
+San Mateo,"Unrestricted net position, governmental, per resident",-624.9442,USD,
+Burlingame,"Unrestricted net position, governmental, per resident",1568.941,USD,
+San Mateo,Governmental debt per resident,873.5944,USD,
+Burlingame,Governmental debt per resident,2391.9475,USD,
+San Mateo,Assessed value per resident,365158.5199,USD,
+Burlingame,Assessed value per resident,562707.913,USD,
+San Mateo,Assessed value growth 2016-2025,0.8124,share,
+Burlingame,Assessed value growth 2016-2025,0.9687,share,
+San Mateo,Tax revenue change FY2019 to FY2021 (pandemic),-0.0616,share,
+Burlingame,Tax revenue change FY2019 to FY2021 (pandemic),-0.3155,share,
+San Mateo,Tax revenue change FY2016 to FY2025 (nominal),0.4298,share,
+Burlingame,Tax revenue change FY2016 to FY2025 (nominal),0.3001,share,
+San Mateo,Tax revenue FY2025 vs FY2019 (nominal),0.2086,share,
+Burlingame,Tax revenue FY2025 vs FY2019 (nominal),0.0691,share,
+San Mateo,"Net pension liability incl. fire agency share, per resident",2653.9882,USD,city + cost share of fire agency (SMC Fire 60%; CCFD 42%); arithmetic allocation
+Burlingame,"Net pension liability incl. fire agency share, per resident",3600.4588,USD,city + cost share of fire agency (SMC Fire 60%; CCFD 42%); arithmetic allocation
+San Mateo,"Net pension liability incl. fire share, less pension trust, per resident",2653.9882,USD,city + cost share of fire agency (SMC Fire 60%; CCFD 42%); arithmetic allocation
+Burlingame,"Net pension liability incl. fire share, less pension trust, per resident",2757.4061,USD,city + cost share of fire agency (SMC Fire 60%; CCFD 42%); arithmetic allocation
+San Mateo,"Net OPEB liability incl. fire agency share, per resident",130.1658,USD,city + cost share of fire agency (SMC Fire 60%; CCFD 42%); arithmetic allocation
+Burlingame,"Net OPEB liability incl. fire agency share, per resident",1227.0382,USD,city + cost share of fire agency (SMC Fire 60%; CCFD 42%); arithmetic allocation
+San Mateo,"Unrestricted net position incl. fire agency share, per resident",-581.9715,USD,city + cost share of fire agency (SMC Fire 60%; CCFD 42%); arithmetic allocation
+Burlingame,"Unrestricted net position incl. fire agency share, per resident",954.4297,USD,city + cost share of fire agency (SMC Fire 60%; CCFD 42%); arithmetic allocation
+San Mateo,"Forecast GF result, avg FY2028-31",-14401499.75,USD,
+Burlingame,"Forecast GF result, avg FY2028-31",-8412867.25,USD,
+San Mateo,"Forecast GF result before transfers out, avg FY2028-31",-5091499.75,USD,San Mateo: adds back all transfers out (capital + debt). Burlingame: revenues over expenditures before transfers
+Burlingame,"Forecast GF result before transfers out, avg FY2028-31",4698521.0,USD,San Mateo: adds back all transfers out (capital + debt). Burlingame: revenues over expenditures before transfers
+San Mateo,Forecast GF fund balance FY2031,15017688.0,USD,
+Burlingame,Forecast GF fund balance FY2031,15339156.0,USD,
+San Mateo,"Forecast GF fund balance FY2031, excluding restricted pension trust",15017688.0,USD,
+Burlingame,"Forecast GF fund balance FY2031, excluding restricted pension trust",-6971388.0,USD,
+San Mateo,Forecast GF fund balance FY2031 as share of June 2025,0.1256,share,
+Burlingame,Forecast GF fund balance FY2031 as share of June 2025,0.2661,share,

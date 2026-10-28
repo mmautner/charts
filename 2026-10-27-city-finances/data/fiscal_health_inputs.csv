@@ -1,0 +1,140 @@
+city,metric,value,unit,status,source_id,pdf_page,printed_page,note
+San Mateo,gf_revenue_fy2025,179094076,USD,primary,sm_acfr,150,128,Budgetary comparison; excludes transfers in
+San Mateo,gf_expenditures_fy2025,176559810,USD,primary,sm_acfr,150,128,Includes $9.1M non-cash lease inception (GASB 87) offset in other sources
+San Mateo,gf_transfers_in_fy2025,2535500,USD,primary,sm_acfr,151,129,
+San Mateo,gf_transfers_out_fy2025,13288867,USD,primary,sm_acfr,151,129,
+San Mateo,gf_net_change_fy2025,1581520,USD,primary,sm_acfr,151,129,
+San Mateo,gf_fund_balance_2016,58598010,USD,primary,sm_acfr,224,202,
+San Mateo,gf_fund_balance_2025,119538861,USD,primary,sm_acfr,225,203,
+San Mateo,gf_unassigned_2025,106931699,USD,primary,sm_acfr,225,203,
+San Mateo,forecast_result_fy2026,-5132101,USD,primary (city forecast),sm_budget_2628,51,,"'Resources over/(under) requirements', FY2025-26 estimated; plus a separate $25M transfer to the CIP Investment Reserve"
+San Mateo,forecast_result_fy2027,-16757628,USD,primary (city forecast),sm_budget_2628,51,,FY2026-27 proposed budget
+San Mateo,forecast_result_fy2028,-15057499,USD,primary (city forecast),sm_budget_2628,51,,
+San Mateo,forecast_result_fy2029,-15102500,USD,primary (city forecast),sm_budget_2628,51,,
+San Mateo,forecast_result_fy2030,-13177500,USD,primary (city forecast),sm_budget_2628,52,,First 2 columns transposed in the PDF text layer; order fixed by matching beginning/ending fund balances
+San Mateo,forecast_result_fy2031,-14268500,USD,primary (city forecast),sm_budget_2628,52,,
+San Mateo,forecast_result_fy2032,-11186500,USD,primary (city forecast),sm_budget_2628,52,,
+San Mateo,forecast_result_fy2033,-9645500,USD,primary (city forecast),sm_budget_2628,52,,
+San Mateo,forecast_result_fy2034,-11851500,USD,primary (city forecast),sm_budget_2628,52,,
+San Mateo,forecast_result_fy2035,-5085700,USD,primary (city forecast),sm_budget_2628,52,,
+San Mateo,forecast_result_fy2036,-2796307,USD,primary (city forecast),sm_budget_2628,52,,
+San Mateo,forecast_fund_balance_fy2027,72623687,USD,primary (city forecast),sm_budget_2628,51,,
+San Mateo,forecast_fund_balance_fy2029,42463688,USD,primary (city forecast),sm_budget_2628,51,,
+San Mateo,forecast_fund_balance_fy2032,3831188,USD,primary (city forecast),sm_budget_2628,52,,
+San Mateo,forecast_fund_balance_fy2033,-5814312,USD,primary (city forecast),sm_budget_2628,52,,First negative year
+San Mateo,forecast_fund_balance_fy2036,-25547819,USD,primary (city forecast),sm_budget_2628,52,,
+San Mateo,forecast_fy2027_revenue_incl_transfers_in,173863000,USD,primary (city forecast),sm_budget_2628,51,,
+San Mateo,forecast_fy2027_spending_excl_transfers_out,183560628,USD,primary (city forecast),sm_budget_2628,51,,"Total expenditures $190,620,628 less transfers out $7,060,000"
+San Mateo,net_pension_liability,275074279,USD,primary,sm_acfr,128,106,"Measurement date June 30, 2024. Includes former firefighters' service: the liability stayed with the city when fire moved to San Mateo Consolidated Fire in 2019 (sm_acfr PDF 130 / p108)"
+San Mateo,npl_safety,184703423,USD,primary,sm_acfr,154,132,Police + legacy fire
+San Mateo,funded_ratio_safety,0.6302,share,primary,sm_acfr,154,132,
+San Mateo,npl_misc,90370856,USD,primary,sm_acfr,152,130,
+San Mateo,funded_ratio_misc,0.7372,share,primary,sm_acfr,152,130,
+San Mateo,pension_contrib_share_of_gf_spending,0.18,share,primary (city),sm_budget_2628,46,,FY2026-27 budget table; transfers out excluded
+San Mateo,pension_trust_balance,0,USD,primary,sm_acfr,,,"No §115 pension trust found in the ACFR; the city holds Pension Stabilization and Budget Stabilization reserves inside general fund balance (sm_budget_2628 PDF 13)"
+San Mateo,net_opeb_liability,10361980,USD,primary,sm_acfr,51,29,
+San Mateo,funded_ratio_opeb,0.5104,share,primary,sm_acfr,158,136,
+San Mateo,unrestricted_net_position_governmental,-65191059,USD,primary,sm_acfr,51,29,Statement of net position
+San Mateo,governmental_debt,91129000,USD,primary,sm_acfr,232,210,In thousands in source; GO bonds + revenue bonds + loans + leases + subscriptions
+San Mateo,total_primary_government_debt,780899000,USD,primary,sm_acfr,233,211,"Mostly sewer (Clean Water Program bonds and loans); $7,486 per capita in source"
+San Mateo,assessed_value_2016,21017279000,USD,primary,sm_acfr,228,206,Total taxable assessed value
+San Mateo,assessed_value_2025,38091511000,USD,primary,sm_acfr,228,206,
+San Mateo,tax_revenue_2016,105237740,USD,primary,sm_acfr,223,201,Governmental activities tax revenues by source (accrual)
+San Mateo,tax_revenue_2019,124506272,USD,primary,sm_acfr,223,201,
+San Mateo,tax_revenue_2021,116837785,USD,primary,sm_acfr,223,201,
+San Mateo,tax_revenue_2025,150472225,USD,primary,sm_acfr,223,201,
+San Mateo,gf_fire_and_legacy_costs_fy2025,36095951,USD,primary,sm_budget_2628,51,,"'SMC Fire and Legacy Costs', FY2024-25 actuals"
+San Mateo,population_2025,104315,people,primary,dof_e1_2025,,,
+Burlingame,gf_revenue_fy2025,93701502,USD,primary,bg_acfr,155,,Excludes transfers in
+Burlingame,gf_expenditures_fy2025,79546065,USD,primary,bg_acfr,155,,
+Burlingame,gf_transfers_in_fy2025,2440480,USD,primary,bg_acfr,155,,
+Burlingame,gf_transfers_out_fy2025,16359532,USD,primary,bg_acfr,155,,$12.66M of it to capital projects (bg_budget_2627 PDF 21)
+Burlingame,gf_net_change_fy2025,236385,USD,primary,bg_acfr,155,,
+Burlingame,gf_fund_balance_2016,29978000,USD,primary,bg_acfr,186,,In thousands in source
+Burlingame,gf_fund_balance_2025,57644192,USD,primary,bg_acfr,155,,
+Burlingame,gf_restricted_pension_trust_2025,22310544,USD,primary,bg_budget_2627,26,xvi,Governmental share of the §115 pension trust
+Burlingame,gf_assigned_reserves_2025,24158000,USD,primary,bg_budget_2627,26,xvi,"Economic Stability 21.66M + Catastrophic 2.0M + Contingency 0.5M. ACFR MD&A (bg_acfr PDF 38 / p12) says $27.2M assigned and $8.0M unassigned: discrepancy TK"
+Burlingame,gf_unassigned_2025,11175648,USD,primary,bg_budget_2627,26,xvi,See discrepancy note above
+Burlingame,forecast_result_fy2026,-5604784,USD,primary (city forecast),bg_budget_2627,21,xi,FY2025-26 revised budget
+Burlingame,forecast_result_fy2027,-3265322,USD,primary (city forecast),bg_budget_2627,21,xi,FY2026-27 proposed
+Burlingame,forecast_fund_balance_fy2027,48774085,USD,primary (city forecast),bg_budget_2627,26,xvi,Unassigned falls to $895541
+Burlingame,forecast_fy2027_revenue,96118250,USD,primary (city forecast),bg_budget_2627,21,xi,
+Burlingame,forecast_fy2027_other_transfers_in,2274587,USD,primary (city forecast),bg_budget_2627,21,xi,
+Burlingame,forecast_fy2027_departmental,92853797,USD,primary (city forecast),bg_budget_2627,21,xi,
+Burlingame,forecast_fy2027_debt_transfers,3104852,USD,primary (city forecast),bg_budget_2627,21,xi,
+Burlingame,forecast_fy2027_capital_transfers,5699510,USD,primary (city forecast),bg_budget_2627,21,xi,
+Burlingame,net_pension_liability,87387469,USD,primary,bg_acfr,116,,Measurement date June 30 2024. Police and miscellaneous only; fire employees belong to Central County Fire Department (JPA with Hillsborough) and its pension liability is not on Burlingame's books
+Burlingame,npl_safety,38584470,USD,primary,bg_acfr,116,,Police only; cost-sharing plan
+Burlingame,npl_misc,48802999,USD,primary,bg_acfr,116,,
+Burlingame,funded_ratio_misc,0.7483,share,primary,bg_acfr,143,,Measurement date 6/30/2024: fiduciary net position $145.1M / total liability $193.9M
+Burlingame,pension_trust_balance,26600000,USD,primary,bg_acfr,49,23,"§115 trust, June 30 2025 (all funds). Contributions paused for a third year in FY2026-27 (bg_budget_2627 PDF 24)"
+Burlingame,net_opeb_liability,34587086,USD,primary,bg_acfr,147,,Measurement date 6/30/2024
+Burlingame,funded_ratio_opeb,0.4747,share,primary,bg_acfr,147,,
+Burlingame,unrestricted_net_position_governmental,49503226,USD,primary,bg_acfr,51,25,Statement of net position
+Burlingame,governmental_debt,75470727,USD,primary,bg_acfr,197,,Lease revenue bonds 41.09M + storm drainage 29.63M + pension obligation bonds 4.67M + direct borrowing 0.09M
+Burlingame,total_primary_government_debt,95000757,USD,primary,bg_acfr,197,,"$3,011 per capita in source"
+Burlingame,assessed_value_2016,9018355330,USD,primary,bg_acfr,192,,Net total assessed value 2015/16
+Burlingame,assessed_value_2025,17754560072,USD,primary,bg_acfr,192,,2024/25
+Burlingame,tax_revenue_2016,61154000,USD,primary,bg_acfr,196,,Governmental activities tax revenues by source (in thousands in source)
+Burlingame,tax_revenue_2019,74373000,USD,primary,bg_acfr,196,,
+Burlingame,tax_revenue_2021,50911000,USD,primary,bg_acfr,196,,
+Burlingame,tax_revenue_2025,79509000,USD,primary,bg_acfr,196,,
+Burlingame,hotel_tax_2019,29384000,USD,primary,bg_acfr,196,,
+Burlingame,hotel_tax_2021,5739000,USD,primary,bg_acfr,196,,
+Burlingame,hotel_tax_2025,20137000,USD,primary,bg_acfr,196,,
+Burlingame,population_2025,31552,people,primary,dof_e1_2025,,,
+San Mateo,forecast_transfers_out_fy2027,7060000,USD,primary (city forecast),sm_budget_2628,51,,
+San Mateo,forecast_transfers_out_fy2028,9760000,USD,primary (city forecast),sm_budget_2628,51,,
+San Mateo,forecast_transfers_out_fy2029,9160000,USD,primary (city forecast),sm_budget_2628,51,,
+San Mateo,forecast_transfers_out_fy2030,9160000,USD,primary (city forecast),sm_budget_2628,52,,
+San Mateo,forecast_transfers_out_fy2031,9160000,USD,primary (city forecast),sm_budget_2628,52,,
+San Mateo,forecast_fund_balance_fy2030,29286188,USD,primary (city forecast),sm_budget_2628,52,,
+San Mateo,forecast_fund_balance_fy2031,15017688,USD,primary (city forecast),sm_budget_2628,52,,
+San Mateo,forecast_budget_savings_assumed_fy2028_2036,"4000000-5000000 per year",USD,primary (city forecast),sm_budget_2628,51-52,,"'Budget Savings' line reduces forecast spending by $4.0-5.0M a year; unspecified"
+San Mateo,fire_agency_net_pension_liability,2960835,USD,primary,smcfire_afr,13,9,"SMC Fire statement of net position, June 30 2025. Small because pre-2019 fire service stayed with the member cities"
+San Mateo,fire_agency_net_opeb_liability,5360450,USD,primary,smcfire_afr,13,9,
+San Mateo,fire_agency_unrestricted_net_position,7471166,USD,primary,smcfire_afr,13,9,
+San Mateo,fire_agency_cost_share,0.60,share,primary,smcfire_afr,21,17,"San Mateo contributed $28,747,664 of $47,912,774 member contributions in FY2025 (60.0%); also 60% weighted vote (PDF 33 / p29)"
+Burlingame,forecast_result_fy2026_march,-6382784,USD,primary (city forecast),bg_midyear_fy2026,,,"Attachment A, General Fund Five-Year Forecast (embedded table, read from the EMF text records). Net surplus/(deficit)"
+Burlingame,forecast_result_fy2027_march,-2270782,USD,primary (city forecast),bg_midyear_fy2026,,,The June 2026 adopted budget later put FY2027 at -3265322
+Burlingame,forecast_result_fy2028,-8961594,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_result_fy2029,-9622574,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_result_fy2030,-6283078,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_result_fy2031,-8784223,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_operating_fy2026,4075045,USD,primary (city forecast),bg_midyear_fy2026,,,Revenues over expenditures before transfers
+Burlingame,forecast_operating_fy2027,4227876,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_operating_fy2028,5008612,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_operating_fy2029,4524865,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_operating_fy2030,4501468,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_operating_fy2031,4759139,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_capital_transfers_fy2028,12925000,USD,primary (city forecast),bg_midyear_fy2026,,,Transfer to CIP project funds
+Burlingame,forecast_capital_transfers_fy2029,13170000,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_capital_transfers_fy2030,9870000,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_capital_transfers_fy2031,12600000,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_fund_balance_fy2026_march,51261407,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_fund_balance_fy2027_march,48990625,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_fund_balance_fy2028,40029031,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_fund_balance_fy2029,30406458,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_fund_balance_fy2030,24123379,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_fund_balance_fy2031,15339156,USD,primary (city forecast),bg_midyear_fy2026,,,"Includes $22,310,544 restricted pension trust (PARS) every year; without it, -$6.97M"
+Burlingame,forecast_unassigned_fy2028,-8974513,USD,primary (city forecast),bg_midyear_fy2026,,,First negative year; reserves at policy levels would be breached
+Burlingame,forecast_unassigned_fy2031,-36630388,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_draws_from_other_sources,"~2M FY27, ~6M FY28, ~8M FY29, ~10M FY30, ~12M FY31",USD,primary (city chart; rounded),bg_midyear_fy2026,,,"'Draw from Other Sources' bars in the Assigned + Unassigned Balance chart (image18); budget book names the OPEB trust as one source (bg_budget_2627 PDF 24 / xiv)"
+Burlingame,fire_agency_net_pension_liability,62414779,USD,primary,ccfd_acfr,45,,"CCFD reconciliation of fund balance to net position, June 30 2025. CCFD has employed all fire staff since the June 21 2010 full merger"
+Burlingame,fire_agency_net_opeb_liability,9829576,USD,primary,ccfd_acfr,45,,Post-2010 retirees only; pre-2010 fire retirees' OPEB stays with Burlingame and Hillsborough (PDF 27)
+Burlingame,fire_agency_unrestricted_net_position,-46164427,USD,primary,ccfd_acfr,31,,CCFD total net position -$41.4M
+Burlingame,fire_agency_cost_share,0.42,share,primary,ccfd_acfr,27,,"Operating costs net of program revenue: 70% JPA / 30% Millbrae; JPA 60% Burlingame / 40% Hillsborough. 0.7 x 0.6 = 0.42. Burlingame's FY2025 contribution was $15,983,751 (PDF 44)"
+San Mateo,gf_fund_balance_2023,117879219,USD,primary,sm_acfr,225,203,
+San Mateo,gf_fund_balance_2024,117957341,USD,primary,sm_acfr,225,203,
+Burlingame,gf_spendable_2023,37117000,USD,primary,bg_acfr,186,,"Assigned 21,363 + unassigned 15,754 (thousands). Excludes the restricted pension trust and nonspendable. Matches the city's 'Assigned + Unassigned' chart (bg_midyear_fy2026 image18: 37)"
+Burlingame,gf_spendable_2024,36981000,USD,primary,bg_acfr,186,,"Assigned 24,183 + unassigned 12,798; city chart: 37"
+Burlingame,gf_spendable_2025,35260000,USD,primary,bg_acfr,186,,"Assigned 27,244 + unassigned 8,016; city chart: 35. FY2022 not used: the ACFR's 45,206 (no restricted trust that year) conflicts with the city chart's 32"
+Burlingame,forecast_pension_trust_restricted,22310544,USD,primary (city forecast),bg_midyear_fy2026,,,"'PARS restricted cash', held flat FY2026-31"
+Burlingame,forecast_debt_transfers_fy2028,3104150,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_debt_transfers_fy2029,3111530,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_debt_transfers_fy2030,3120450,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_debt_transfers_fy2031,3125680,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_other_transfers_in_fy2028,2058944,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_other_transfers_in_fy2029,2134092,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_other_transfers_in_fy2030,2205903,USD,primary (city forecast),bg_midyear_fy2026,,,
+Burlingame,forecast_other_transfers_in_fy2031,2182318,USD,primary (city forecast),bg_midyear_fy2026,,,

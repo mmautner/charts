@@ -1,0 +1,14 @@
+city,measure,item,value,status,source_id,pdf_page,note
+San Mateo,Measure H (Nov 3 2026),On ballot,yes,primary,smc_nov2026,,"County list: 'Measure H - City of San Mateo: Transactions and Use Tax Measure, Majority Voter Approval Required'"
+San Mateo,Measure H (Nov 3 2026),Enacting resolution,"Resolution No. 84 (2026), adopted July 20 2026, filed July 27 2026",primary,smc_measure_h_reso,1,Adoption date from impartial analysis
+San Mateo,Measure H (Nov 3 2026),Rate,"+0.25%, raising the city's transactions and use tax from 0.25% to 0.50%",primary,smc_measure_h_reso,1,New SMMC Chapter 3.51; existing 0.25% (Measure S) expires March 31 2048
+San Mateo,Measure H (Nov 3 2026),Duration,until ended by voters,primary,smc_measure_h_reso,1,
+San Mateo,Measure H (Nov 3 2026),Type and vote,"general tax, simple majority",primary,smc_measure_h_ia,1,
+San Mateo,Measure H (Nov 3 2026),Fiscal estimate (USD per year),7000000,primary,smc_measure_h_ia,1,"'approximately $7 million a year'; ballot question says '7 million dollars annually'"
+San Mateo,Measure H (Nov 3 2026),Ballot question,"To provide funding for San Mateo city services, such as keeping local streets, sidewalks, parks, infrastructure, and community facilities safe, clean, and well-maintained, fixing potholes, providing fire protection, paramedic, crime prevention, and 9-1-1 emergency response, and improvements to traffic safety/traffic management, shall the City of San Mateo's ordinance establishing a one-quarter cent sales tax be adopted, providing 7 million dollars annually for general government use until ended by voters, with independent audits and all funds locally-controlled?",primary,smc_measure_h_reso,2,Transcribed from scan
+San Mateo,Measure H (Nov 3 2026),Exemptions and oversight,"Does not apply to groceries or prescription medication (state law); annual audit; 5-member public oversight committee; collection begins first calendar quarter starting 110 days after certification",primary,smc_measure_h_ia,1,
+San Mateo,Measure S (existing),FY2025 receipts (USD),6761850,primary,sm_measure_s,5,Inside general fund sales tax line (Measure S Tracking is a general fund sub-fund: sm_budget_2628 PDF 32)
+Burlingame,Measure I (existing),FY2025 receipts (USD),"over 3100000 (rounded)",primary,bg_acfr,14,Inside general fund sales and use tax line. Exact figure TK
+San Mateo,All (combined rate),Sales tax rate (current),0.09625,primary,cdtfa_rates,,"CDTFA rate layer SUT2026 and SUT2025: state 7.25% + county districts 2.125% + city 0.25% (Measure S)"
+Burlingame,All (combined rate),Sales tax rate (current),0.09625,primary,cdtfa_rates,,"Same composition; city 0.25% is Measure I"
+San Mateo,Measure H (Nov 3 2026),Revenue per resident (USD per year),67,primary (derived),smc_measure_h_ia,1,"$7M / 104,315 (DOF Jan 2025); shoppers who live elsewhere pay part"

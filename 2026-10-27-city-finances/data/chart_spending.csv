@@ -1,0 +1,19 @@
+city,function,amount_usd,per_resident_usd
+San Mateo,Police,62095869,595.27
+San Mateo,Fire,36095951,346.03
+San Mateo,"Parks, recreation and library",31391510,300.93
+San Mateo,Public works,10892157,104.42
+San Mateo,Planning and building,2478828,23.76
+San Mateo,Administration,20765369,199.06
+San Mateo,Capital projects and debt,17031000,163.27
+San Mateo,Day-to-day services,163719684,1569.47
+San Mateo,Total,180750684,1732.74
+Burlingame,Police,20779780,658.59
+Burlingame,Fire,16127844,511.15
+Burlingame,"Parks, recreation and library",22491300,712.83
+Burlingame,Public works,9002305,285.32
+Burlingame,Planning and building,2805373,88.91
+Burlingame,Administration,8044119,254.95
+Burlingame,Capital projects and debt,16602576,526.2
+Burlingame,Day-to-day services,79250721,2511.75
+Burlingame,Total,95853297,3037.95

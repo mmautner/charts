@@ -1,0 +1,10 @@
+city,item,group,amount_usd,status,source_id,pdf_page,printed_page,note
+San Mateo,GF transfer to General Projects Capital Projects Fund,Capital projects,9838867,primary,sm_acfr,111,89,"Note 5. Includes $2,500,178 of Measure S (sm_measure_s PDF 5)"
+San Mateo,GF transfer to Vehicle and Equipment Replacement fund,Capital projects,410000,primary,sm_acfr,111,89,
+San Mateo,GF capital outlay excl. non-cash lease entry,Capital projects,858620,primary (derived),sm_acfr,150,128,"9,956,613 - 9,097,993"
+San Mateo,GF transfer to General Obligation Bond debt service,Debt,2690000,primary,sm_acfr,111,89,Measure S pays this (sm_measure_s PDF 5: transfers out to Debt Service Fund 2690000)
+San Mateo,GF transfer to 2% Hotel Tax debt service,Debt,350000,primary,sm_acfr,111,89,
+San Mateo,GF direct debt service,Debt,2883513,primary,sm_acfr,150,128,Principal + interest paid inside the GF (leases and other obligations)
+Burlingame,GF transfer to Capital Projects Fund,Capital projects,12657040,primary,bg_budget_2627,21,xi,"FY24-25 actual. ACFR MD&A: $1.4M parks and trees, $9.2M public facilities, $2.0M streets (bg_acfr PDF 38 / p12)"
+Burlingame,GF capital outlay,Capital projects,295344,primary,bg_acfr,155,,
+Burlingame,GF transfer to debt service,Debt,3650192,primary,bg_budget_2627,21,xi,"FY24-25 actual. Main obligation: 2019 Community Center lease revenue bonds, ~$2.0M a year, half from Measure I (bg_budget_2627 PDF 23 / xiii); also 2006 pension obligation bonds (~$0.56M) and 2012 Burlingame Ave streetscape bonds (~$0.55M, fully reimbursed by the assessment district and parking fund)"

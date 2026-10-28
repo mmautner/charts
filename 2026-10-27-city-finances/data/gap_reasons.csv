@@ -1,0 +1,27 @@
+city,metric,value,status,source_id,pdf_page,printed_page,note
+San Mateo,street_miles,204,primary,sm_acfr,243,221,"Capital asset statistics FY2025. NOT comparable with Burlingame's: San Mateo's budget calls its 204 'curb miles' (sm_budget_2526); use lane miles below"
+Burlingame,street_miles,152,primary,bg_acfr,207,,"Capital asset statistics FY2025. NOT comparable: Burlingame's budget says '84 centerline miles' (bg_budget_2627 PDF 184); use lane miles below"
+San Mateo,pw_non_utility_budget_fy2026,15044330,primary (sum),sm_budget_2526,124,,"Streets 4,007,027 + Storm 2,633,005 + Transportation 5,973,823 + Private Development 1,692,791 + PW Administrative Services 737,684; all funds, FY2025-26 proposed"
+Burlingame,pw_non_utility_budget_fy2026,10743596,primary (sum),bg_budget_2627,178 / 185,,"Engineering 4,584,404 + Streets and Storm Drainage 6,159,192; FY2025-26 adopted. Engineering also manages utility capital projects"
+San Mateo,fire_stations,6,primary,sm_acfr,243,221,"Also SMC Fire 2025 Annual Report p5: stations 21, 23, 24, 25, 26, 27 in San Mateo (smcfire_annual_2025)"
+Burlingame,fire_stations,2,primary,ccfd_soc_2023,26-28,,"Staffed stations 34 and 35. The CCFD ACFR's 'City of Burlingame - 3' (PDF 18) counts Station 36, which is administration only (former station; SOC PDF 28). CCFD staffs 6: 32-33 Hillsborough, 34-35 Burlingame, 37-38 Millbrae"
+Burlingame,fire_calls_fy2025,4270,primary,ccfd_acfr,124,,CCFD calls by city FY2024-25
+San Mateo,fire_calls_fy2025,TK,TK,,,,SMC Fire does not publish calls by member city in its annual financial or annual report
+San Mateo,city_trees,25000,primary,sm_budget_2526,110,,"Street and park trees maintained (FY2025-26 target; 23,600 in FY2023-24)"
+Burlingame,city_trees,15700,primary (sum),bg_budget_2627,152,,"14,000+ street trees and 1,700+ park trees"
+San Mateo,lane_miles_2022,428.2,primary,mtc_pci_2022,4,,MTC Pavement Condition of Bay Area Jurisdictions 2022; same method for every city
+Burlingame,lane_miles_2022,170.8,primary,mtc_pci_2022,2,,MTC Pavement Condition of Bay Area Jurisdictions 2022
+San Mateo,land_area_sq_mi,12.134,primary,census_gazetteer_2024,,,ALAND_SQMI
+Burlingame,land_area_sq_mi,4.393,primary,census_gazetteer_2024,,,ALAND_SQMI
+Burlingame,ccfd_cost_share,0.42,primary,ccfd_acfr,27,,70% JPA x 60% Burlingame
+Burlingame,ccfd_calls_share_fy2025,0.48,primary,ccfd_acfr,124,,"4,270 of 8,970 calls"
+CCFD,service_population_2025,65970,primary (sum),dof_e1_2025,,,"Burlingame 31,552 + Hillsborough 11,254 + Millbrae 23,164"
+CCFD,service_land_sq_mi,13.828,primary (sum),census_gazetteer_2024,,,"4.393 + 6.166 + 3.269"
+CCFD,staffed_stations,6,primary,ccfd_soc_2023,24-30,,"32, 33 Hillsborough; 34, 35 Burlingame; 37, 38 Millbrae"
+CCFD,member_contributions_fy2025,36900489,primary (sum),ccfd_acfr,44,,"Burlingame 15,983,751 + Hillsborough 10,655,834 + Millbrae 10,260,904"
+SMC Fire,service_population_2025,165179,primary (sum),dof_e1_2025,,,"San Mateo 104,315 + Belmont 28,206 + Foster City 32,658"
+SMC Fire,service_land_sq_mi,20.551,primary (sum),census_gazetteer_2024,,,"12.134 + 4.630 + 3.787"
+SMC Fire,staffed_stations,9,primary,smcfire_annual_2025,5,,9 stations (6 in San Mateo)
+SMC Fire,member_contributions_fy2025,47912774,primary (sum),smcfire_afr,21,17,"San Mateo 28,747,664 + Belmont 9,582,555 + Foster City 9,582,555"
+San Mateo,pavement_condition_index_2022,70,primary,mtc_pci_2022,4,,"3-year moving average, 0-100 scale ('Good' = 70-79)"
+Burlingame,pavement_condition_index_2022,77,primary,mtc_pci_2022,2,,3-year moving average

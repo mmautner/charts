@@ -1,0 +1,38 @@
+city,line,amount_usd,level,status,source_id,pdf_page,printed_page,note
+San Mateo,Property taxes,83534637,ACFR line,primary,sm_acfr,150,128,Budgetary comparison schedule - General Fund; includes VLF in-lieu
+San Mateo,Sales taxes,27118537,ACFR line,primary,sm_acfr,150,128,= local 1% + Prop 172 + Measure S (detail rows below sum to it exactly)
+San Mateo,Other taxes,32625541,ACFR line,primary,sm_acfr,150,128,= TOT + property transfer (incl. Measure CC) + business license + franchise (detail rows below)
+San Mateo,"Licenses, building and other permits",99371,ACFR line,primary,sm_acfr,150,128,
+San Mateo,"Fines, forfeitures and penalties",2199413,ACFR line,primary,sm_acfr,150,128,
+San Mateo,Intergovernmental,4800016,ACFR line,primary,sm_acfr,150,128,
+San Mateo,Charges for services,15191614,ACFR line,primary,sm_acfr,150,128,
+San Mateo,Investment income,6601231,ACFR line,primary,sm_acfr,150,128,
+San Mateo,Parking meter and lease revenue,3236263,ACFR line,primary,sm_acfr,150,128,
+San Mateo,Other revenues,3687453,ACFR line,primary,sm_acfr,150,128,
+San Mateo,Total revenues,179094076,ACFR total,primary,sm_acfr,150,128,Excludes transfers in; budget book's $181.8M total adds transfers in
+San Mateo,Sales tax - local 1%,19961410,detail,primary,sm_budget_2628,51,,FY2024-25 actuals column; Bradley-Burns incl. county pool
+San Mateo,Sales tax - Prop 172,395277,detail,primary,sm_budget_2628,51,,Half-cent public safety sales tax (state); city share
+San Mateo,Sales tax - Measure S (0.25%),6761850,detail,primary,sm_budget_2628,51,,Matches Measure S compliance report (sm_measure_s PDF p5): sales and use taxes $6761850
+San Mateo,Property transfer tax (base),11038171,detail,primary,sm_budget_2628,51,,
+San Mateo,Property transfer tax - Measure CC,6205147,detail,primary,sm_budget_2628,51,,MD&A (sm_acfr PDF 34 / p12) says $6.2M
+San Mateo,Business license tax,7194377,detail,primary,sm_budget_2628,51,,
+San Mateo,Transient occupancy tax (general fund),4702015,detail,primary,sm_budget_2628,51,,"MD&A (sm_acfr PDF 39 / p17): GF TOT $4.7M. The $5.5M in the brief is citywide TOT (sm_acfr PDF 34 / p12), not general fund"
+San Mateo,Franchises,3485831,detail,primary,sm_budget_2628,51,,
+Burlingame,Property taxes,34450698,ACFR line,primary,bg_acfr,155,,General Fund schedule of revenues - budget and actual
+Burlingame,Sales and use taxes,17385517,ACFR line,primary,bg_acfr,155,,Includes Measure I (bg_acfr PDF 14 and PDF 45 / p19)
+Burlingame,Transient occupancy taxes,20168534,ACFR line,primary,bg_acfr,155,,
+Burlingame,Other taxes,4298590,ACFR line,primary,bg_acfr,155,,= franchise + business license + property transfer + HOPTR (detail rows below)
+Burlingame,Licenses and permits,86202,ACFR line,primary,bg_acfr,155,,
+Burlingame,"Fines, forfeitures and penalties",874106,ACFR line,primary,bg_acfr,155,,
+Burlingame,Charges for services,8228052,ACFR line,primary,bg_acfr,155,,
+Burlingame,Other revenue,891928,ACFR line,primary,bg_acfr,155,,
+Burlingame,Intergovernmental taxes,49261,ACFR line,primary,bg_acfr,155,,
+Burlingame,Grants and subventions,572380,ACFR line,primary,bg_acfr,155,,
+Burlingame,Investment income,6696234,ACFR line,primary,bg_acfr,155,,
+Burlingame,Total revenues,93701502,ACFR total,primary,bg_acfr,155,,Excludes transfers in ($2440480)
+Burlingame,Franchise tax,1963719,detail,primary,bg_budget_2627,18,viii,
+Burlingame,Business licenses,1887378,detail,primary,bg_budget_2627,18,viii,
+Burlingame,Real property transfer tax,385072,detail,primary,bg_budget_2627,18,viii,
+Burlingame,State HOPTR,62421,detail,primary,bg_budget_2627,18,viii,Homeowners' property tax relief
+Burlingame,Sales tax - local 1% (rounded),14000000,detail,primary (rounded to $0.1M in source),bg_acfr,45,19,"MD&A: 'ended the year at $14.0 million'. Exact figure TK"
+Burlingame,Sales tax - Measure I (0.25%) (rounded),3100000,detail,primary (rounded; 'over $3.1 million'),bg_acfr,14,,"Transmittal letter and MD&A PDF 45 / p19. Exact figure TK. 14.0 + 3.1 = 17.1, $0.29M short of the $17.39M line: gap TK"

@@ -1,0 +1,19 @@
+city,fiscal_year_ending,kind,spendable_balance_usd,per_resident_usd
+San Mateo,2023,actual,117879219.0,1130.03
+Burlingame,2023,actual,37117000.0,1176.38
+San Mateo,2024,actual,117957341.0,1130.78
+Burlingame,2024,actual,36981000.0,1172.07
+San Mateo,2025,actual,119538861.0,1145.94
+Burlingame,2025,actual,35260000.0,1117.52
+San Mateo,2026,forecast,89406760.0,857.08
+Burlingame,2026,forecast,28950863.0,917.56
+San Mateo,2027,forecast,72623687.0,696.2
+Burlingame,2027,forecast,26680081.0,845.59
+San Mateo,2028,forecast,57566188.0,551.85
+Burlingame,2028,forecast,17718487.0,561.56
+San Mateo,2029,forecast,42463688.0,407.07
+Burlingame,2029,forecast,8095914.0,256.59
+San Mateo,2030,forecast,29286188.0,280.75
+Burlingame,2030,forecast,1812835.0,57.46
+San Mateo,2031,forecast,15017688.0,143.96
+Burlingame,2031,forecast,-6971388.0,-220.95

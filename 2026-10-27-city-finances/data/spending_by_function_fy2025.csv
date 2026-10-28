@@ -1,0 +1,28 @@
+city,function,amount_usd,status,source_id,pdf_page,printed_page,note
+San Mateo,Police,62095869,primary,sm_acfr,150,128,GF budgetary comparison: actual
+San Mateo,Fire,28747664,primary,sm_acfr,150,128,Contribution to SMC Fire only
+San Mateo,Parks and recreation,22133257,primary,sm_acfr,150,128,
+San Mateo,Library,9258253,primary,sm_acfr,150,128,
+San Mateo,Public works,10892157,primary,sm_acfr,150,128,
+San Mateo,Community development,2478828,primary,sm_acfr,150,128,
+San Mateo,General government,16257014,primary (sum),sm_acfr,150,128,"Council 376,910 + City Manager 2,596,915 + Clerk 1,145,043 + Attorney 1,157,108 + Finance 4,290,342 + IT 4,356,356 + HR 2,334,340"
+San Mateo,Non-departmental,11856642,primary,sm_acfr,150,128,
+San Mateo,Capital outlay,9956613,primary,sm_acfr,150,128,"Includes $9,097,993 non-cash lease inception (GASB 87), offset in other financing sources (sm_acfr PDF 151 / p129)"
+San Mateo,Debt service,2883513,primary (sum),sm_acfr,150,128,"Principal 2,612,396 + interest 271,117"
+San Mateo,Total expenditures,176559810,primary,sm_acfr,150,128,
+San Mateo,Fire and legacy fire costs (budget basis),36095951,primary,sm_budget_2628,51,,"'SMC Fire and Legacy Costs' FY2024-25 actual. Legacy = 36,095,951 - 28,747,664 = 7,348,287; assumed to sit in the ACFR's non-departmental line (TK: confirm with San Mateo Finance)"
+San Mateo,Lease inception (non-cash),9097993,primary,sm_acfr,151,129,
+Burlingame,General government,8044119,primary,bg_acfr,155,,GF schedule of revenues/expenditures: actual
+Burlingame,Fire,16060222,primary (text layer garbled; resolved by variance),bg_acfr,155,,"Final budget 16,414,551 - variance 354,329 = 16,060,222. Payment to Central County Fire"
+Burlingame,Fire - disaster preparedness,67622,primary (resolved by variance),bg_acfr,155,,"77,000 - 9,378"
+Burlingame,Police,17969218,primary,bg_acfr,155,,
+Burlingame,Police communications dispatch,2037637,primary (resolved by variance),bg_acfr,155,,"2,110,750 - 73,113"
+Burlingame,Police - parking enforcement,772925,primary (resolved by variance),bg_acfr,155,,"792,243 - 19,318"
+Burlingame,Public works,9002305,primary,bg_acfr,155,,
+Burlingame,Community development,2805373,primary,bg_acfr,155,,
+Burlingame,Parks recreation and library,22491300,primary,bg_acfr,155,,"Library 6,649,871 + Parks 9,026,057 + Recreation and aquatics 6,815,372"
+Burlingame,Capital outlay,295344,primary,bg_acfr,155,,
+Burlingame,Total expenditures,79546065,primary,bg_acfr,155,,Line items above sum to this exactly (asserted in model)
+Burlingame,Transfers out to capital projects,12657040,primary,bg_budget_2627,21,xi,FY24-25 actual
+Burlingame,Transfers out to debt service,3650192,primary,bg_budget_2627,21,xi,FY24-25 actual
+San Mateo,Transfers out (capital and debt),13288867,primary,sm_acfr,151,129,Split between capital and debt not given

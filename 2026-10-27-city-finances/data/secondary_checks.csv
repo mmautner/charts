@@ -1,0 +1,7 @@
+city,item,secondary_value,secondary_source,primary_value,primary_source,primary_pdf_page,finding
+Burlingame,Total general fund revenue,93700000 (reported as FY2025-26 projected),smdj_burl,"93701502 (FY2024-25 actual); 94797652 (FY2025-26 revised budget)",bg_budget_2627,18,"The $93.7M matches the FY2024-25 actual, not the FY2025-26 projection. Likely mislabeled by the paper"
+Burlingame,Property tax,~36000000,smdj_burl,"36796490 (FY2025-26 revised); 34450698 (FY2024-25 actual)",bg_budget_2627,18,
+Burlingame,Hotel tax,21800000,smdj_burl,"21821000 (FY2025-26 revised); 20168534 (FY2024-25 actual)",bg_budget_2627,18,Paper used the FY2025-26 revised figure
+Burlingame,Sales and use tax,16600000,smdj_burl,"16656890 (FY2025-26 revised); 17385516 (FY2024-25 actual)",bg_budget_2627,18,Paper used the FY2025-26 revised figure
+San Mateo,Transient occupancy tax,5500000 (brief),sm_acfr,"4702015 general fund; 5.5M citywide",sm_budget_2628,51,"$5.5M is citywide TOT (ACFR PDF 34 / p12); general fund share is $4.7M"
+San Mateo,FY2025-26 projected general fund deficit,12000000 (brief),sm_acfr,"12.0M confirmed as the adopted-budget projection ($175.8M revenue vs $187.8M spending incl. transfers; sm_acfr PDF 44 / p22). Later estimate: 5132101 (FY2025-26 estimated actual) and 16757628 (FY2026-27 proposed)",sm_budget_2628,51,"Verified, but stale: the 2026-28 budget puts FY2025-26 at $5.1M and FY2026-27 at $16.8M"
