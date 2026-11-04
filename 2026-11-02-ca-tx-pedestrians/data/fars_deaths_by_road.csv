@@ -1,0 +1,232 @@
+year,state,group,deaths,scope,source
+2015,California,"main road, owner not reported",459,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,freeway or expressway,174,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,smaller street,135,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,"main road, city",39,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,"main road, county",7,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,"main road, state",4,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,road type unknown,1,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,"main road, owner not reported",317,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,freeway or expressway,145,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,smaller street,109,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,"main road, city",31,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,"main road, state",4,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,"main road, county",3,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,California,road type unknown,1,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,Texas,"main road, owner not reported",275,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,Texas,freeway or expressway,170,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,Texas,smaller street,103,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,Texas,"main road, state",1,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,Texas,"main road, owner not reported",230,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,Texas,freeway or expressway,133,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,Texas,smaller street,87,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2015,Texas,"main road, state",1,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip
+2016,California,"main road, city",443,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,California,freeway or expressway,190,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,California,smaller street,165,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,California,"main road, state",60,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,California,"main road, county",58,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,California,"main road, owner not reported",17,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,California,"main road, city",274,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,California,freeway or expressway,143,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,California,smaller street,129,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,California,"main road, state",56,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,California,"main road, county",43,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,California,"main road, owner not reported",10,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,Texas,"main road, owner not reported",361,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,Texas,freeway or expressway,215,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,Texas,smaller street,97,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,Texas,"main road, state",1,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,Texas,road type unknown,1,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,Texas,"main road, owner not reported",293,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,Texas,freeway or expressway,166,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,Texas,smaller street,84,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,Texas,"main road, state",1,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2016,Texas,road type unknown,1,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip
+2017,California,"main road, owner not reported",260,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,freeway or expressway,192,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,smaller street,185,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,"main road, city",185,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,"main road, state",92,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,"main road, county",25,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,road type unknown,1,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,"main road, owner not reported",177,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,freeway or expressway,150,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,smaller street,148,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,"main road, city",100,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,"main road, state",80,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,"main road, county",19,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,California,road type unknown,1,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,Texas,"main road, owner not reported",303,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,Texas,freeway or expressway,189,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,Texas,smaller street,112,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,Texas,road type unknown,4,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,Texas,"main road, owner not reported",245,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,Texas,freeway or expressway,152,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,Texas,smaller street,98,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2017,Texas,road type unknown,4,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip
+2018,California,"main road, owner not reported",484,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,California,smaller street,214,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,California,freeway or expressway,205,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,California,"main road, state",69,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,California,"main road, city",3,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,California,"main road, county",3,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,California,"main road, owner not reported",312,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,California,smaller street,180,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,California,freeway or expressway,172,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,California,"main road, state",61,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,California,"main road, city",3,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,California,"main road, county",2,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,Texas,"main road, owner not reported",314,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,Texas,freeway or expressway,166,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,Texas,smaller street,133,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,Texas,road type unknown,3,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,Texas,"main road, owner not reported",256,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,Texas,freeway or expressway,139,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,Texas,smaller street,115,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2018,Texas,road type unknown,3,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip
+2019,California,"main road, owner not reported",501,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,freeway or expressway,186,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,smaller street,180,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,"main road, state",120,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,"main road, county",22,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,road type unknown,1,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,"main road, city",1,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,"main road, owner not reported",324,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,freeway or expressway,145,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,smaller street,140,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,"main road, state",103,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,"main road, county",17,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,road type unknown,1,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,California,"main road, city",1,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,Texas,"main road, owner not reported",341,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,Texas,freeway or expressway,185,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,Texas,smaller street,118,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,Texas,"main road, state",5,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,Texas,"main road, owner not reported",279,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,Texas,freeway or expressway,152,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,Texas,smaller street,96,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2019,Texas,"main road, state",3,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip
+2020,California,"main road, owner not reported",479,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,California,freeway or expressway,231,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,California,smaller street,164,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,California,"main road, state",128,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,California,"main road, county",9,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,California,"main road, city",2,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,California,"main road, owner not reported",311,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,California,freeway or expressway,175,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,California,smaller street,141,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,California,"main road, state",112,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,California,"main road, county",8,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,California,"main road, city",2,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,Texas,"main road, owner not reported",376,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,Texas,smaller street,158,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,Texas,freeway or expressway,149,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,Texas,"main road, state",4,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,Texas,road type unknown,1,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,Texas,"main road, owner not reported",295,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,Texas,smaller street,134,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,Texas,freeway or expressway,120,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2020,Texas,"main road, state",3,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip
+2021,California,"main road, city",455,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,freeway or expressway,281,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,smaller street,187,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,"main road, state",133,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,"main road, county",110,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,"main road, owner not reported",11,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,road type unknown,2,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,"main road, city",304,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,freeway or expressway,202,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,smaller street,161,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,"main road, state",105,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,"main road, county",85,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,"main road, owner not reported",8,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,California,road type unknown,2,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,"main road, owner not reported",381,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,freeway or expressway,212,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,smaller street,176,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,"main road, state",35,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,"main road, city",11,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,"main road, county",1,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,road type unknown,1,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,"main road, owner not reported",290,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,freeway or expressway,175,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,smaller street,147,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,"main road, state",33,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,"main road, city",8,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2021,Texas,road type unknown,1,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip
+2022,California,"main road, city",431,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,freeway or expressway,278,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,smaller street,191,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,"main road, state",143,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,"main road, county",96,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,"main road, owner not reported",68,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,road type unknown,6,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,"main road, city",294,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,freeway or expressway,202,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,smaller street,163,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,"main road, state",122,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,"main road, county",72,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,"main road, owner not reported",47,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,California,road type unknown,6,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,"main road, owner not reported",373,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,freeway or expressway,222,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,smaller street,155,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,"main road, city",32,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,"main road, state",8,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,"main road, county",5,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,road type unknown,1,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,"main road, owner not reported",277,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,freeway or expressway,179,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,smaller street,127,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,"main road, city",27,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,"main road, state",8,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2022,Texas,road type unknown,1,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip
+2023,California,"main road, city",370,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,freeway or expressway,257,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,smaller street,179,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,"main road, state",139,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,"main road, owner not reported",130,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,"main road, county",72,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,road type unknown,3,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,"main road, city",244,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,freeway or expressway,204,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,smaller street,143,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,"main road, state",116,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,"main road, owner not reported",97,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,"main road, county",54,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,California,road type unknown,2,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,Texas,"main road, owner not reported",430,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,Texas,freeway or expressway,192,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,Texas,smaller street,170,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,Texas,"main road, state",6,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,Texas,road type unknown,3,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,Texas,"main road, owner not reported",340,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,Texas,freeway or expressway,147,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,Texas,smaller street,137,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,Texas,"main road, state",5,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2023,Texas,road type unknown,3,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip
+2024,California,"main road, city",369,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,freeway or expressway,264,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,smaller street,180,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,"main road, owner not reported",101,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,"main road, state",99,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,"main road, county",72,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,road type unknown,5,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,"main road, city",237,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,freeway or expressway,190,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,smaller street,146,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,"main road, state",87,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,"main road, owner not reported",64,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,"main road, county",47,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,California,road type unknown,3,excluding Los Angeles County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,Texas,"main road, owner not reported",387,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,Texas,freeway or expressway,206,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,Texas,smaller street,165,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,Texas,road type unknown,4,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,Texas,"main road, state",1,statewide,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,Texas,"main road, owner not reported",300,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,Texas,freeway or expressway,158,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,Texas,smaller street,132,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,Texas,road type unknown,2,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip
+2024,Texas,"main road, state",1,excluding Harris County,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip

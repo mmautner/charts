@@ -1,0 +1,441 @@
+year,state,file_status,source,measure,value
+2010,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths,601
+2010,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,194
+2010,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,224
+2010,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,173
+2010,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_dark,428
+2010,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,381
+2010,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_location_known,599
+2010,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths,349
+2010,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_Harris_County,70
+2010,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,65
+2010,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_Houston_metro,100
+2010,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,77
+2010,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_dark,271
+2010,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,253
+2010,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths_location_known,347
+2010,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,pedestrian_deaths,4302
+2011,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths,633
+2011,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,170
+2011,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,209
+2011,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,195
+2011,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_dark,438
+2011,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,382
+2011,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_location_known,629
+2011,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths,425
+2011,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_Harris_County,84
+2011,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,86
+2011,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_Houston_metro,105
+2011,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,80
+2011,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_dark,339
+2011,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,318
+2011,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths_location_known,422
+2011,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,pedestrian_deaths,4457
+2012,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths,653
+2012,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,196
+2012,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,239
+2012,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,196
+2012,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_dark,456
+2012,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,394
+2012,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_location_known,652
+2012,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths,482
+2012,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_Harris_County,83
+2012,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,101
+2012,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_Houston_metro,112
+2012,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,108
+2012,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_dark,373
+2012,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,371
+2012,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths_location_known,480
+2012,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,pedestrian_deaths,4818
+2013,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths,734
+2013,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,209
+2013,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,264
+2013,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,215
+2013,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_dark,516
+2013,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,455
+2013,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_location_known,732
+2013,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths,480
+2013,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_Harris_County,93
+2013,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,99
+2013,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_Houston_metro,123
+2013,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,112
+2013,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_dark,366
+2013,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,365
+2013,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths_location_known,474
+2013,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,pedestrian_deaths,4779
+2014,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths,709
+2014,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,209
+2014,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,252
+2014,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,199
+2014,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_dark,506
+2014,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,454
+2014,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_location_known,701
+2014,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths,479
+2014,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_Harris_County,90
+2014,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,95
+2014,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_Houston_metro,106
+2014,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,100
+2014,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_dark,378
+2014,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,376
+2014,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths_location_known,473
+2014,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,pedestrian_deaths,4910
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths,819
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,209
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,267
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,213
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_dark,606
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,518
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_location_known,812
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,227
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,153
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,174
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,509
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,53
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_road_owner_reported,154
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,84
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,4
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,39
+2015,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_urban,664
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths,549
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_Harris_County,98
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,132
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_Houston_metro,137
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,97
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_dark,448
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,436
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_location_known,532
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,218
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,130
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,170
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,276
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,95
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_road_owner_reported,118
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,118
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,1
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,0
+2015,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths_urban,448
+2015,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,pedestrian_deaths,5494
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths,933
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,278
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,345
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,229
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_dark,702
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,598
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_location_known,925
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,253
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,145
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,190
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,578
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,63
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_road_owner_reported,904
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,246
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,60
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,442
+2016,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_urban,765
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths,675
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_Harris_County,130
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,150
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_Houston_metro,177
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,141
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_dark,534
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,493
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_location_known,662
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,302
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,181
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,215
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,362
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,130
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_road_owner_reported,153
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,152
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,1
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,0
+2016,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths_urban,559
+2016,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,pedestrian_deaths,6080
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths,940
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,265
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,322
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,234
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_dark,705
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,618
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_location_known,935
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,279
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,185
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,192
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,562
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,89
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_road_owner_reported,566
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,282
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,92
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,181
+2017,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_urban,796
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths,608
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_Harris_County,109
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,149
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_Houston_metro,144
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,142
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_dark,463
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,452
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_location_known,600
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,280
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,162
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,189
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,303
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,121
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_road_owner_reported,148
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,144
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,0
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,0
+2017,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths_urban,504
+2017,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,pedestrian_deaths,6075
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths,978
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,248
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,317
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,223
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_dark,754
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,660
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_location_known,968
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,274
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,160
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,205
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,559
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,71
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_road_owner_reported,281
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,273
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,69
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,3
+2018,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_urban,889
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths,616
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_Harris_County,103
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,147
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_Houston_metro,133
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,115
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_dark,498
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,494
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_location_known,604
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,312
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,190
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,166
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,314
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,139
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_road_owner_reported,148
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,144
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,0
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,0
+2018,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths_urban,516
+2018,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,pedestrian_deaths,6374
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths,1011
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,280
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,333
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,228
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_dark,782
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,671
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_location_known,1001
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,292
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,183
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,186
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,644
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,106
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_road_owner_reported,337
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,307
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,120
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,1
+2019,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_urban,915
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths,649
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_Harris_County,119
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,144
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_Houston_metro,161
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,128
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_dark,518
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,504
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_location_known,643
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,328
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,195
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,185
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,346
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,164
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_road_owner_reported,167
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,167
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,5
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,0
+2019,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths_urban,549
+2019,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,pedestrian_deaths,6272
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths,1013
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,264
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,338
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,222
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_dark,790
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,739
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_location_known,1006
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,349
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,219
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,231
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,618
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,119
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_road_owner_reported,381
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,358
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,128
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,2
+2020,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_urban,908
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths,688
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_Harris_County,136
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,176
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_Houston_metro,165
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,135
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_dark,550
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,534
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_location_known,678
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,313
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,193
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,149
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,380
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,162
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_road_owner_reported,150
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,149
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,4
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,0
+2020,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths_urban,570
+2020,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,pedestrian_deaths,6565
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths,1179
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,312
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,395
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,225
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_dark,946
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,852
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_location_known,1169
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,414
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,253
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,281
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,709
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,132
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_road_owner_reported,1161
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,415
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,133
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,455
+2021,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_urban,1087
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths,817
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_Harris_County,163
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,176
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_Houston_metro,207
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,118
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_dark,694
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,658
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_location_known,809
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,411
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,263
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,212
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,428
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,200
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_road_owner_reported,246
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,224
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,35
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,11
+2021,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths_urban,671
+2021,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,pedestrian_deaths,7470
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths,1213
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,307
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,390
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,251
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_dark,959
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,840
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_location_known,1199
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,418
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,252
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,278
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,738
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,136
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_road_owner_reported,1115
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,421
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,143
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,431
+2022,California,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_urban,1121
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths,796
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_Harris_County,177
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,181
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_Houston_metro,208
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,129
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_dark,662
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,637
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_location_known,794
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,390
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,236
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,222
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,418
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,165
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_road_owner_reported,235
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,194
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,8
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,32
+2022,Texas,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths_urban,682
+2022,United States,final,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,pedestrian_deaths,7593
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths,1150
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,290
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,366
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,216
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_dark,933
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,797
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_location_known,1132
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,404
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,262
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,257
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,711
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,143
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_road_owner_reported,981
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,398
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,139
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,369
+2023,California,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_urban,1057
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths,801
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_Harris_County,169
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,191
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_Houston_metro,205
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,150
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_dark,647
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,617
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_location_known,796
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,388
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,243
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,192
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,436
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,184
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_road_owner_reported,204
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,201
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,6
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,0
+2023,Texas,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths_urban,682
+2023,United States,final (released 2026-04-01),https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,pedestrian_deaths,7367
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths,1090
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_Los_Angeles_County,316
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_Los_Angeles_metro,385
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,212
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_dark,877
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,763
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_location_known,1078
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,355
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,225
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,264
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,641
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,89
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_road_owner_reported,946
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,364
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,99
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,368
+2024,California,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_urban,991
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths,763
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_Harris_County,170
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_Dallas_Fort_Worth_metro,191
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_Houston_metro,197
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_daylight_dawn_dusk,158
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_dark,604
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_midblock_not_in_crosswalk,584
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_location_known,760
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_interstate_us_or_state_routes,386
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_state_routes_non_interstate,242
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_freeways_func_1_2,206
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_arterials_func_3_4,388
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_surface_state_arterials,161
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_road_owner_reported,193
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_state_owned_roads,189
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_state_owned_arterials,1
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_on_city_owned_arterials,0
+2024,Texas,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths_urban,656
+2024,United States,"annual report file, not final",https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,pedestrian_deaths,7080

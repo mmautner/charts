@@ -1,0 +1,61 @@
+geo,fips,year,population,vintage,source
+California,06,2010,37322523,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+California,06,2011,37651212,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+California,06,2012,37971412,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+California,06,2013,38292557,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+California,06,2014,38637421,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+California,06,2015,38966939,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+California,06,2016,39223789,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+California,06,2017,39424315,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+California,06,2018,39535920,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+California,06,2019,39547995,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+Texas,48,2010,25238386,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+Texas,48,2011,25627909,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+Texas,48,2012,26052403,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+Texas,48,2013,26433846,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+Texas,48,2014,26903208,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+Texas,48,2015,27394564,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+Texas,48,2016,27825975,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+Texas,48,2017,28188852,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+Texas,48,2018,28508309,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+Texas,48,2019,28856455,2010-2020 intercensal,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv
+California,06,2020,39527808,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv
+California,06,2021,39152927,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv
+California,06,2022,39125347,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv
+California,06,2023,39181667,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv
+California,06,2024,39364774,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv
+California,06,2025,39355309,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv
+Texas,48,2020,29237895,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv
+Texas,48,2021,29572672,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv
+Texas,48,2022,30118002,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv
+Texas,48,2023,30719247,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv
+Texas,48,2024,31318578,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv
+Texas,48,2025,31709821,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv
+California (Vintage 2020),06,2010,37319550,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Texas (Vintage 2020),48,2010,25241897,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Los Angeles metro,06,2010,12838023,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Dallas-Fort Worth metro,48,2010,6451866,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+California (Vintage 2020),06,2011,37636311,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Texas (Vintage 2020),48,2011,25645504,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Los Angeles metro,06,2011,12923899,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Dallas-Fort Worth metro,48,2011,6570542,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+California (Vintage 2020),06,2012,37944551,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Texas (Vintage 2020),48,2012,26084120,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Los Angeles metro,06,2012,13010104,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Dallas-Fort Worth metro,48,2012,6705206,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+California (Vintage 2020),06,2017,39337785,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Texas (Vintage 2020),48,2017,28291024,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Los Angeles metro,06,2017,13266524,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Dallas-Fort Worth metro,48,2017,7404551,Vintage 2020,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv
+Los Angeles metro,06,2020,13182677,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/counties/totals/co-est2025-alldata.csv
+Los Angeles metro,06,2021,12971258,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/counties/totals/co-est2025-alldata.csv
+Los Angeles metro,06,2022,12904776,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/counties/totals/co-est2025-alldata.csv
+Los Angeles metro,06,2023,12881909,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/counties/totals/co-est2025-alldata.csv
+Los Angeles metro,06,2024,12906895,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/counties/totals/co-est2025-alldata.csv
+Los Angeles metro,06,2025,12844441,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/counties/totals/co-est2025-alldata.csv
+Dallas-Fort Worth metro,48,2020,7738676,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/counties/totals/co-est2025-alldata.csv
+Dallas-Fort Worth metro,48,2021,7851602,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/counties/totals/co-est2025-alldata.csv
+Dallas-Fort Worth metro,48,2022,8048744,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/counties/totals/co-est2025-alldata.csv
+Dallas-Fort Worth metro,48,2023,8241744,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/counties/totals/co-est2025-alldata.csv
+Dallas-Fort Worth metro,48,2024,8432996,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/counties/totals/co-est2025-alldata.csv
+Dallas-Fort Worth metro,48,2025,8557919,Vintage 2025,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/counties/totals/co-est2025-alldata.csv

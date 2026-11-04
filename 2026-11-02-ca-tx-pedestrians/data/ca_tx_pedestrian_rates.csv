@@ -1,0 +1,335 @@
+kind,geo,year,measure,value,unit,se_nhts_sampling,se_deaths_poisson,se_combined,moe90_combined,n_unweighted,source,note
+input,California,2010,pedestrian_deaths,601.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2010,population,37322523.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,California,2010,vmt,322849.39821274497,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2010/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2010,vmt_per_resident,8650.2565277472,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2010,deaths_per_100k_residents,1.6102877075057334,"deaths per 100,000 residents",,0.06568500565801118,0.06568500565801118,0.10805183430742839,,FARS / Census PEP,FARS final
+output,California,2010,deaths_per_billion_vmt,1.8615490793139555,deaths per billion vehicle miles,,0.07593417079287201,0.07593417079287201,0.12491171095427446,,FARS / VM-2,FARS final
+input,California,2011,pedestrian_deaths,633.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2011,population,37651212.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,California,2011,vmt,320783.9054093,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2011/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2011,vmt_per_resident,8519.882584637648,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2011,deaths_per_100k_residents,1.6812207798250958,"deaths per 100,000 residents",,0.06682252685735124,0.06682252685735124,0.10992305668034279,,FARS / Census PEP,FARS final
+output,California,2011,deaths_per_billion_vmt,1.973291020297081,deaths per billion vehicle miles,,0.07843127671482247,0.07843127671482247,0.12901945019588296,,FARS / VM-2,FARS final
+input,California,2012,pedestrian_deaths,653.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2012,population,37971412.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,California,2012,vmt,326271.650555488,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2012/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2012,vmt_per_resident,8592.560386100155,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2012,deaths_per_100k_residents,1.7197148212449933,"deaths per 100,000 residents",,0.06729764138968884,0.06729764138968884,0.11070462008603815,,FARS / Census PEP,FARS final
+output,California,2012,deaths_per_billion_vmt,2.001399750447967,deaths per billion vehicle miles,,0.07832082448737117,0.07832082448737117,0.12883775628172559,,FARS / VM-2,FARS final
+input,California,2013,pedestrian_deaths,734.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2013,population,38292557.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,California,2013,vmt,329534.13303289,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2013/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2013,vmt_per_resident,8605.696742395394,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2013,deaths_per_100k_residents,1.916821590159153,"deaths per 100,000 residents",,0.07075117592248575,0.07075117592248575,0.11638568439248907,,FARS / Census PEP,FARS final
+output,California,2013,deaths_per_billion_vmt,2.227386866557891,deaths per billion vehicle miles,,0.0822143494482379,0.0822143494482379,0.13524260484235134,,FARS / VM-2,FARS final
+input,California,2014,pedestrian_deaths,709.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2014,population,38637421.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,California,2014,vmt,332857.19828553,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2014/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2014,vmt_per_resident,8614.891720788764,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2014,deaths_per_100k_residents,1.8350086047409842,"deaths per 100,000 residents",,0.06891519470564222,0.06891519470564222,0.11336549529078147,,FARS / Census PEP,FARS final
+output,California,2014,deaths_per_billion_vmt,2.130042563753748,deaths per billion vehicle miles,,0.07999542761441981,0.07999542761441981,0.13159247842572058,,FARS / VM-2,FARS final
+input,California,2015,pedestrian_deaths,819.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2015,population,38966939.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,California,2015,vmt,335538.556628495,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2015/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2015,vmt_per_resident,8610.852308119327,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2015,deaths_per_100k_residents,2.1017817180867095,"deaths per 100,000 residents",,0.07344219683898798,0.07344219683898798,0.12081241380013523,,FARS / Census PEP,FARS final
+output,California,2015,deaths_per_billion_vmt,2.4408521280813305,deaths per billion vehicle miles,,0.08529027581826948,0.08529027581826948,0.1403025037210533,,FARS / VM-2,FARS final
+input,California,2016,pedestrian_deaths,933.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2016,population,39223789.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,California,2016,vmt,340114.936761588,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2016/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2016,vmt_per_resident,8671.139260961962,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2016,deaths_per_100k_residents,2.3786585227653556,"deaths per 100,000 residents",,0.07787378393913583,0.07787378393913583,0.12810237457987844,,FARS / Census PEP,FARS final
+output,California,2016,deaths_per_billion_vmt,2.7431903134969033,deaths per billion vehicle miles,,0.0898080189874573,0.0898080189874573,0.14773419123436726,,FARS / VM-2,FARS final
+input,California,2017,pedestrian_deaths,940.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2017,population,39424315.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,California,2017,vmt,343862.11240325496,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2017/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2017,vmt_per_resident,8722.082106011352,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2017,deaths_per_100k_residents,2.384315364769179,"deaths per 100,000 residents",,0.07776779237257968,0.07776779237257968,0.12792801845289356,,FARS / Census PEP,FARS final
+output,California,2017,deaths_per_billion_vmt,2.7336538865254236,deaths per billion vehicle miles,,0.08916195860960914,0.08916195860960914,0.14667142191280705,,FARS / VM-2,FARS final
+input,California,2018,pedestrian_deaths,978.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2018,population,39535920.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,California,2018,vmt,348795.71345636505,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2018/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2018,vmt_per_resident,8822.248564251573,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2018,deaths_per_100k_residents,2.4736998658435163,"deaths per 100,000 residents",,0.07910019936863434,0.07910019936863434,0.1301198279614035,,FARS / Census PEP,FARS final
+output,California,2018,deaths_per_billion_vmt,2.8039335412370243,deaths per billion vehicle miles,,0.08965990789372498,0.08965990789372498,0.1474905484851776,,FARS / VM-2,FARS final
+input,California,2019,pedestrian_deaths,1011.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2019,population,39547995.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,California,2019,vmt,340836.25151884503,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2019/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2019,vmt_per_resident,8618.294088457456,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2019,deaths_per_100k_residents,2.55638749827899,"deaths per 100,000 residents",,0.08039908519046109,0.08039908519046109,0.13225649513830848,,FARS / Census PEP,FARS final
+output,California,2019,deaths_per_billion_vmt,2.9662337720672336,deaths per billion vehicle miles,,0.09328886246541548,0.09328886246541548,0.15346017875560847,,FARS / VM-2,FARS final
+input,California,2020,pedestrian_deaths,1013.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2020,population,39527808.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv,
+input,California,2020,vmt,299811.68307,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2020/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2020,vmt_per_resident,7584.829471697494,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2020,deaths_per_100k_residents,2.5627527840653346,"deaths per 100,000 residents",,0.08051967092553955,0.08051967092553955,0.13245485867251255,,FARS / Census PEP,FARS final
+output,California,2020,deaths_per_billion_vmt,3.3787876096992684,deaths per billion vehicle miles,,0.10615884144263976,0.10615884144263976,0.1746312941731424,,FARS / VM-2,FARS final
+input,California,2021,pedestrian_deaths,1179.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2021,population,39152927.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv,
+input,California,2021,vmt,310822.72591,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2021/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2021,vmt_per_resident,7938.684275379974,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2021,deaths_per_100k_residents,3.01126911916445,"deaths per 100,000 residents",,0.08769860150373635,0.08769860150373635,0.1442641994736463,,FARS / Census PEP,FARS final
+output,California,2021,deaths_per_billion_vmt,3.7931589350432002,deaths per billion vehicle miles,,0.11046994497024357,0.11046994497024357,0.18172305947605066,,FARS / VM-2,FARS final
+input,California,2022,pedestrian_deaths,1213.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2022,population,39125347.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv,
+input,California,2022,vmt,315243.5726,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2022/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2022,vmt_per_resident,8057.272248601399,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2022,deaths_per_100k_residents,3.100291992298496,"deaths per 100,000 residents",,0.08901684510181085,0.08901684510181085,0.14643271019247886,,FARS / Census PEP,FARS final
+output,California,2022,deaths_per_billion_vmt,3.8478183393103698,deaths per billion vehicle miles,,0.1104801257240161,0.1104801257240161,0.1817398068160065,,FARS / VM-2,FARS final
+input,California,2023,pedestrian_deaths,1150.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,"FARS final (released 2026-04-01); PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2023,population,39181667.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv,
+input,California,2023,vmt,316612.34132,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2023/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2023,vmt_per_resident,8080.62457679506,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2023,deaths_per_100k_residents,2.935046127567773,"deaths per 100,000 residents",,0.08654978849068964,0.08654978849068964,0.14237440206718446,,FARS / Census PEP,FARS final (released 2026-04-01)
+output,California,2023,deaths_per_billion_vmt,3.6322020651674323,deaths per billion vehicle miles,,0.10710779552762868,0.10710779552762868,0.17619232364294918,,FARS / VM-2,FARS final (released 2026-04-01)
+input,California,2024,pedestrian_deaths,1090.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,"FARS annual report file, not final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,California,2024,population,39364774.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv,
+input,California,2024,vmt,325959.21783,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2024/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,California,2024,vmt_per_resident,8280.479848048919,miles per resident,,,,,,VM-2 / Census PEP,
+output,California,2024,deaths_per_100k_residents,2.7689730925420784,"deaths per 100,000 residents",,0.08386977666488915,0.08386977666488915,0.13796578261374265,,FARS / Census PEP,"FARS annual report file, not final"
+output,California,2024,deaths_per_billion_vmt,3.3439766092716425,deaths per billion vehicle miles,,0.10128613100199853,0.10128613100199853,0.1666156854982876,,FARS / VM-2,"FARS annual report file, not final"
+input,Texas,2010,pedestrian_deaths,349.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2010,population,25238386.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,Texas,2010,vmt,234015.90603754,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2010/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2010,vmt_per_resident,9272.221529440909,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2010,deaths_per_100k_residents,1.3828142576153641,"deaths per 100,000 residents",,0.07402035016133522,0.07402035016133522,0.12176347601539644,,FARS / Census PEP,FARS final
+output,Texas,2010,deaths_per_billion_vmt,1.49135161754353,deaths per billion vehicle miles,,0.07983022183659849,0.07983022183659849,0.1313207149212045,,FARS / VM-2,FARS final
+input,Texas,2011,pedestrian_deaths,425.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2011,population,25627909.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,Texas,2011,vmt,237439.891087575,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2011/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2011,vmt_per_resident,9264.895200290239,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2011,deaths_per_100k_residents,1.6583483264280359,"deaths per 100,000 residents",,0.08044170957563608,0.08044170957563608,0.13232661225192136,,FARS / Census PEP,FARS final
+output,Texas,2011,deaths_per_billion_vmt,1.789926697040335,deaths per billion vehicle miles,,0.08682419804717934,0.08682419804717934,0.14282580578761,,FARS / VM-2,FARS final
+input,Texas,2012,pedestrian_deaths,482.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2012,population,26052403.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,Texas,2012,vmt,237835.822756362,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2012/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2012,vmt_per_resident,9129.131879172988,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2012,deaths_per_100k_residents,1.8501172425438068,"deaths per 100,000 residents",,0.08427053120627741,0.08427053120627741,0.13862502383432634,,FARS / Census PEP,FARS final
+output,Texas,2012,deaths_per_billion_vmt,2.026608079531227,deaths per billion vehicle miles,,0.09230946854709202,0.09230946854709202,0.15184907575996637,,FARS / VM-2,FARS final
+input,Texas,2013,pedestrian_deaths,480.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2013,population,26433846.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,Texas,2013,vmt,244524.88287175004,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2013/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2013,vmt_per_resident,9250.446676270643,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2013,deaths_per_100k_residents,1.815853811057233,"deaths per 100,000 residents",,0.08288200778731421,0.08288200778731421,0.13634090281013186,,FARS / Census PEP,FARS final
+output,Texas,2013,deaths_per_billion_vmt,1.9629904096580366,deaths per billion vehicle miles,,0.08959784396133445,0.08959784396133445,0.1473884533163952,,FARS / VM-2,FARS final
+input,Texas,2014,pedestrian_deaths,479.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2014,population,26903208.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,Texas,2014,vmt,243075.845833995,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2014/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2014,vmt_per_resident,9035.199290508217,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2014,deaths_per_100k_residents,1.780456813923455,"deaths per 100,000 residents",,0.08135114826543842,0.08135114826543842,0.1338226388966462,,FARS / Census PEP,FARS final
+output,Texas,2014,deaths_per_billion_vmt,1.9705783532565626,deaths per billion vehicle miles,,0.0900380231246261,0.0900380231246261,0.14811254804000992,,FARS / VM-2,FARS final
+input,Texas,2015,pedestrian_deaths,549.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2015,population,27394564.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,Texas,2015,vmt,258122.30917185,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2015/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2015,vmt_per_resident,9422.391580017482,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2015,deaths_per_100k_residents,2.0040472263037294,"deaths per 100,000 residents",,0.08553065136470127,0.08553065136470127,0.1406979214949336,,FARS / Census PEP,FARS final
+output,Texas,2015,deaths_per_billion_vmt,2.1268986852062155,deaths per billion vehicle miles,,0.09077382386239416,0.09077382386239416,0.1493229402536384,,FARS / VM-2,FARS final
+input,Texas,2016,pedestrian_deaths,675.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2016,population,27825975.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,Texas,2016,vmt,271262.838263532,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2016/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2016,vmt_per_resident,9748.547472767154,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2016,deaths_per_100k_residents,2.425791010018517,"deaths per 100,000 residents",,0.09336873950879766,0.09336873950879766,0.15359157649197216,,FARS / Census PEP,FARS final
+output,Texas,2016,deaths_per_billion_vmt,2.4883614885140926,deaths per billion vehicle miles,,0.09577707834898062,0.09577707834898062,0.15755329388407313,,FARS / VM-2,FARS final
+input,Texas,2017,pedestrian_deaths,608.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2017,population,28188852.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,Texas,2017,vmt,272980.907045475,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2017/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2017,vmt_per_resident,9684.00228024451,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2017,deaths_per_100k_residents,2.1568810251655512,"deaths per 100,000 residents",,0.08747307627808293,0.08747307627808293,0.1438932104774464,,FARS / Census PEP,FARS final
+output,Texas,2017,deaths_per_billion_vmt,2.227261996380997,deaths per billion vehicle miles,,0.09032740157086615,0.09032740157086615,0.14858857558407482,,FARS / VM-2,FARS final
+input,Texas,2018,pedestrian_deaths,616.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2018,population,28508309.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,Texas,2018,vmt,282037.26510131,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2018/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2018,vmt_per_resident,9893.160099440132,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2018,deaths_per_100k_residents,2.1607735485117687,"deaths per 100,000 residents",,0.08706004727246963,0.08706004727246963,0.14321377776321254,,FARS / Census PEP,FARS final
+output,Texas,2018,deaths_per_billion_vmt,2.1841085424606144,deaths per billion vehicle miles,,0.08800024097193827,0.08800024097193827,0.14476039639883845,,FARS / VM-2,FARS final
+input,Texas,2019,pedestrian_deaths,649.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2019,population,28856455.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/intercensal/state/asrh/sc-est2020int-alldata6.csv,
+input,Texas,2019,vmt,288227.23554449005,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2019/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2019,vmt_per_resident,9988.310606569312,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2019,deaths_per_100k_residents,2.2490635110930985,"deaths per 100,000 residents",,0.08828346519249851,0.08828346519249851,0.14522630024166006,,FARS / Census PEP,FARS final
+output,Texas,2019,deaths_per_billion_vmt,2.251695606676358,deaths per billion vehicle miles,,0.08838678398170205,0.08838678398170205,0.14539625964989988,,FARS / VM-2,FARS final
+input,Texas,2020,pedestrian_deaths,688.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2020,population,29237895.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv,
+input,Texas,2020,vmt,260581.95545,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2020/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2020,vmt_per_resident,8912.473194462187,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2020,deaths_per_100k_residents,2.35311057789899,"deaths per 100,000 residents",,0.08971149974103129,0.08971149974103129,0.1475754170739965,,FARS / Census PEP,FARS final
+output,Texas,2020,deaths_per_billion_vmt,2.640244213425638,deaths per billion vehicle miles,,0.10065836696908555,0.10065836696908555,0.16558301366414574,,FARS / VM-2,FARS final
+input,Texas,2021,pedestrian_deaths,817.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2021,population,29572672.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv,
+input,Texas,2021,vmt,285027.66129,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2021/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2021,vmt_per_resident,9638.211294873861,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2021,deaths_per_100k_residents,2.762685766101893,"deaths per 100,000 residents",,0.09665414020049626,0.09665414020049626,0.15899606062981633,,FARS / Census PEP,FARS final
+output,Texas,2021,deaths_per_billion_vmt,2.866388463149011,deaths per billion vehicle miles,,0.1002822383152176,0.1002822383152176,0.16496428202853294,,FARS / VM-2,FARS final
+input,Texas,2022,pedestrian_deaths,796.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,"FARS final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2022,population,30118002.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv,
+input,Texas,2022,vmt,290890.07783,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2022/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2022,vmt_per_resident,9658.345790334963,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2022,deaths_per_100k_residents,2.6429376025673945,"deaths per 100,000 residents",,0.09367643962349086,0.09367643962349086,0.15409774318064245,,FARS / Census PEP,FARS final
+output,Texas,2022,deaths_per_billion_vmt,2.7364288460371373,deaths per billion vehicle miles,,0.0969901488899188,0.0969901488899188,0.15954879492391644,,FARS / VM-2,FARS final
+input,Texas,2023,pedestrian_deaths,801.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,"FARS final (released 2026-04-01); PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2023,population,30719247.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv,
+input,Texas,2023,vmt,300338.03448,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2023/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2023,vmt_per_resident,9776.86837441035,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2023,deaths_per_100k_residents,2.6074857889583036,"deaths per 100,000 residents",,0.09213098028141709,0.09213098028141709,0.15155546256293112,,FARS / Census PEP,FARS final (released 2026-04-01)
+output,Texas,2023,deaths_per_billion_vmt,2.6669948792427753,deaths per billion vehicle miles,,0.09423363059950533,0.09423363059950533,0.15501432233618628,,FARS / VM-2,FARS final (released 2026-04-01)
+input,Texas,2024,pedestrian_deaths,763.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,"FARS annual report file, not final; PER_TYP 5, INJ_SEV 4, state of crash"
+input,Texas,2024,population,31318578.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv,
+input,Texas,2024,vmt,308460.73526,million vehicle miles,,,,,,https://www.fhwa.dot.gov/policyinformation/statistics/2024/vm2.cfm,"FHWA Highway Statistics VM-2, all systems"
+output,Texas,2024,vmt_per_resident,9849.129652693682,miles per resident,,,,,,VM-2 / Census PEP,
+output,Texas,2024,deaths_per_100k_residents,2.4362536511076587,"deaths per 100,000 residents",,0.08819830400303062,0.08819830400303062,0.14508621008498537,,FARS / Census PEP,"FARS annual report file, not final"
+output,Texas,2024,deaths_per_billion_vmt,2.4735725257118095,deaths per billion vehicle miles,,0.08954933797516705,0.08954933797516705,0.1473086609691498,,FARS / VM-2,"FARS annual report file, not final"
+input,California,2017,nhts_walk_trips_annual_total,5523696563.485948,walk trips,142189916.86606333,,142189916.86606333,233902413.24467418,,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),
+output,California,2017,deaths_per_walk_trips,17.01758938414198,deaths per 100 million walk trips,0.4405794092199805,0.5550525645486026,0.7086561685617417,1.1657393972840653,,FARS / NHTS 2017,NHTS 2017 exposure; deaths 2017
+input,California,2017,nhts_walk_minutes_annual_total_hours,1556284212.570033,walk hours per year,51799871.682187416,,51799871.682187416,85210788.9171983,,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),
+output,California,2017,deaths_per_walk_hours,0.6040027858714142,deaths per million hours walked,0.02044124509533772,0.01970039867132052,0.02838926221050198,0.04670033633627575,,FARS / NHTS 2017,NHTS 2017 exposure; deaths 2017
+input,California,2017,nhts_walk_miles_cleaned_annual_total,3083949024.009941,miles walked,92670002.38659333,,92670002.38659333,152442153.92594603,,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),
+output,California,2017,deaths_per_walk_miles_cleaned,30.48040005465959,deaths per 100 million miles walked,0.9219136072790471,0.9941610316777063,1.3558321637255648,2.230343909328554,,FARS / NHTS 2017,NHTS 2017 exposure; deaths 2017
+output,California,2016-2018 average,deaths_per_walk_trips,17.204662175244252,deaths per 100 million walk trips,0.44542265804473713,0.3222163255057171,0.549749674599308,0.9043382147158617,,FARS / NHTS 2017,NHTS 2017 exposure; deaths 2016-2018 average
+output,California,2016-2018 average,deaths_per_walk_hours,0.6106425328082985,deaths per million hours walked,0.02066595381801701,0.011436376437667593,0.02361932160821835,0.03885378404551919,,FARS / NHTS 2017,NHTS 2017 exposure; deaths 2016-2018 average
+output,California,2016-2018 average,deaths_per_walk_miles_cleaned,30.815468282210816,deaths per 100 million miles walked,0.9320481185647378,0.5771253662230643,1.0962606367366172,1.8033487474317353,,FARS / NHTS 2017,NHTS 2017 exposure; deaths 2016-2018 average
+input,Texas,2017,nhts_walk_trips_annual_total,1983983316.934148,walk trips,71719153.39054911,,71719153.39054911,117978007.32745329,,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),
+output,Texas,2017,deaths_per_walk_trips,30.645418981624463,deaths per 100 million walk trips,1.1223016390334628,1.2428358545866913,1.6745751492314187,2.754676120485684,,FARS / NHTS 2017,NHTS 2017 exposure; deaths 2017
+input,Texas,2017,nhts_walk_minutes_annual_total_hours,555949874.4436382,walk hours per year,20906706.06764505,,20906706.06764505,34391531.48127611,,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),
+output,Texas,2017,deaths_per_walk_hours,1.0936237742808208,deaths per million hours walked,0.041710724498001235,0.04435230071155575,0.06088440782791953,0.10015485087692763,,FARS / NHTS 2017,NHTS 2017 exposure; deaths 2017
+input,Texas,2017,nhts_walk_miles_cleaned_annual_total,1087228385.243783,miles walked,38691255.649335645,,38691255.649335645,63647115.54315714,,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),
+output,Texas,2017,deaths_per_walk_miles_cleaned,55.92201309788942,deaths per 100 million miles walked,2.0048292623596926,2.267937109308184,3.0270247939174317,4.979455785994175,,FARS / NHTS 2017,NHTS 2017 exposure; deaths 2017
+output,Texas,2016-2018 average,deaths_per_walk_trips,31.905510222645205,deaths per 100 million walk trips,1.1684489103753013,0.7321553020305003,1.3788851447631894,2.2682660631354463,,FARS / NHTS 2017,NHTS 2017 exposure; deaths 2016-2018 average
+output,Texas,2016-2018 average,deaths_per_walk_hours,1.1385918571048674,deaths per million hours walked,0.04342580363032054,0.02612796533297278,0.050680084780712314,0.08336873946427176,,FARS / NHTS 2017,NHTS 2017 exposure; deaths 2016-2018 average
+output,Texas,2016-2018 average,deaths_per_walk_miles_cleaned,58.22143797855922,deaths per 100 million miles walked,2.087264676108038,1.3360430286298037,2.478242280827016,4.076708551960442,,FARS / NHTS 2017,NHTS 2017 exposure; deaths 2016-2018 average
+output,California / Texas,2017,ratio_deaths_per_walk_trips,0.5553061419831143,ratio,0.024487772252880177,0.028900292532634042,0.03787978218496974,0.062312241694275225,,FARS / NHTS 2017,
+output,California / Texas,2017,ratio_deaths_per_walk_minutes,0.5522948568566125,ratio,0.02807460371891695,0.02874357353661451,0.04017930305056313,0.06609495351817635,,FARS / NHTS 2017,
+input,California excl. Los Angeles metro,2017,pedestrian_deaths,618.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,county FIPS list in model/fars.py
+input,California excl. Los Angeles metro,2017,population,26071261.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv,
+output,California excl. Los Angeles metro,2017,deaths_per_100k_residents,2.370426194574938,"deaths per 100,000 residents",,0.09535252548510065,0.09535252548510065,0.15685490442299058,,FARS / Census PEP V2020,
+output,California excl. Los Angeles metro,2017,deaths_per_walk_trips,17.003469117237024,deaths per 100 million walk trips,0.3119894251370267,0.6839798370635196,0.7517751119229548,1.2366700591132607,,FARS / NHTS 2017,
+output,California excl. Los Angeles metro,2017,deaths_per_walk_hours,0.6047040474753758,deaths per million hours walked,0.012992768014779062,0.02432476414148756,0.027577276356175295,0.04536461960590836,,FARS / NHTS 2017,
+input,Texas excl. Dallas-Fort Worth metro,2017,pedestrian_deaths,459.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,county FIPS list in model/fars.py
+input,Texas excl. Dallas-Fort Worth metro,2017,population,20886473.0,residents,,,,,,https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv,
+output,Texas excl. Dallas-Fort Worth metro,2017,deaths_per_100k_residents,2.1975945866973325,"deaths per 100,000 residents",,0.10257493108400136,0.10257493108400136,0.16873576163318224,,FARS / Census PEP V2020,
+output,Texas excl. Dallas-Fort Worth metro,2017,deaths_per_walk_trips,31.65245510098219,deaths per 100 million walk trips,1.6211372252279765,1.4774100829498715,2.193359627653844,3.6080765874905736,,FARS / NHTS 2017,
+output,Texas excl. Dallas-Fort Worth metro,2017,deaths_per_walk_hours,1.128246855627372,deaths per million hours walked,0.05659401875408472,0.052662053393407814,0.07730572311509562,0.1271679145243323,,FARS / NHTS 2017,
+output,California excl. Los Angeles metro,2021,deaths_per_100k_residents,2.9944615066365707,"deaths per 100,000 residents",,0.10694505380844897,0.10694505380844897,0.17592461351489858,784.0,FARS / Census PEP V2025,
+output,California excl. Los Angeles metro,2022,deaths_per_100k_residents,3.1387569706243235,"deaths per 100,000 residents",,0.10941019009678357,0.10941019009678357,0.17997976270920898,823.0,FARS / Census PEP V2025,
+output,California excl. Los Angeles metro,2023,deaths_per_100k_residents,2.9810160230371703,"deaths per 100,000 residents",,0.10646485796561321,0.10646485796561321,0.17513469135343374,784.0,FARS / Census PEP V2025,
+output,California excl. Los Angeles metro,2024,deaths_per_100k_residents,2.664612684939711,"deaths per 100,000 residents",,0.10035511952679013,0.10035511952679013,0.16508417162156977,705.0,FARS / Census PEP V2025,
+output,Texas excl. Dallas-Fort Worth metro,2021,deaths_per_100k_residents,2.951051674710316,"deaths per 100,000 residents",,0.11655953321979225,0.11655953321979225,0.19174043214655825,641.0,FARS / Census PEP V2025,
+output,Texas excl. Dallas-Fort Worth metro,2022,deaths_per_100k_residents,2.786681817757534,"deaths per 100,000 residents",,0.1123698564549587,0.1123698564549587,0.18484841386840706,615.0,FARS / Census PEP V2025,
+output,Texas excl. Dallas-Fort Worth metro,2023,deaths_per_100k_residents,2.713824573841676,"deaths per 100,000 residents",,0.10987954520774366,0.10987954520774366,0.18075185186673834,610.0,FARS / Census PEP V2025,
+output,Texas excl. Dallas-Fort Worth metro,2024,deaths_per_100k_residents,2.4993902274366455,"deaths per 100,000 residents",,0.10450475537918502,0.10450475537918502,0.17191032259875935,572.0,FARS / Census PEP V2025,
+output,California excl. Los Angeles metro,2010,deaths_per_100k_residents,1.5399366224173843,"deaths per 100,000 residents",,0.07931077109261853,0.07931077109261853,0.13046621844735748,377.0,FARS / Census PEP V2020,
+output,California excl. Los Angeles metro,2011,deaths_per_100k_residents,1.71573701506757,"deaths per 100,000 residents",,0.08332355531290916,0.08332355531290916,0.1370672484897356,424.0,FARS / Census PEP V2020,
+output,California excl. Los Angeles metro,2012,deaths_per_100k_residents,1.66035364650357,"deaths per 100,000 residents",,0.08160192984980097,0.08160192984980097,0.13423517460292259,414.0,FARS / Census PEP V2020,
+input,California excl. Los Angeles metro,2010,pedestrian_deaths,377.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,county FIPS list in model/fars.py
+input,California excl. Los Angeles metro,2011,pedestrian_deaths,424.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,county FIPS list in model/fars.py
+input,California excl. Los Angeles metro,2012,pedestrian_deaths,414.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,county FIPS list in model/fars.py
+input,California excl. Los Angeles metro,2021,pedestrian_deaths,784.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,county FIPS list in model/fars.py
+input,California excl. Los Angeles metro,2022,pedestrian_deaths,823.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,county FIPS list in model/fars.py
+input,California excl. Los Angeles metro,2023,pedestrian_deaths,784.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,county FIPS list in model/fars.py
+input,California excl. Los Angeles metro,2024,pedestrian_deaths,705.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,county FIPS list in model/fars.py
+output,Texas excl. Dallas-Fort Worth metro,2010,deaths_per_100k_residents,1.511439762925351,"deaths per 100,000 residents",,0.08968744940523365,0.08968744940523365,0.14753585427160937,284.0,FARS / Census PEP V2020,
+output,Texas excl. Dallas-Fort Worth metro,2011,deaths_per_100k_residents,1.777198822204731,"deaths per 100,000 residents",,0.09652419039955082,0.09652419039955082,0.1587822932072611,339.0,FARS / Census PEP V2020,
+output,Texas excl. Dallas-Fort Worth metro,2012,deaths_per_100k_residents,1.966054444536985,"deaths per 100,000 residents",,0.10072402042727027,0.10072402042727027,0.1656910136028596,381.0,FARS / Census PEP V2020,
+input,Texas excl. Dallas-Fort Worth metro,2010,pedestrian_deaths,284.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip,county FIPS list in model/fars.py
+input,Texas excl. Dallas-Fort Worth metro,2011,pedestrian_deaths,339.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip,county FIPS list in model/fars.py
+input,Texas excl. Dallas-Fort Worth metro,2012,pedestrian_deaths,381.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip,county FIPS list in model/fars.py
+input,Texas excl. Dallas-Fort Worth metro,2021,pedestrian_deaths,641.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip,county FIPS list in model/fars.py
+input,Texas excl. Dallas-Fort Worth metro,2022,pedestrian_deaths,615.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip,county FIPS list in model/fars.py
+input,Texas excl. Dallas-Fort Worth metro,2023,pedestrian_deaths,610.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,county FIPS list in model/fars.py
+input,Texas excl. Dallas-Fort Worth metro,2024,pedestrian_deaths,572.0,deaths,,,,,,https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip,county FIPS list in model/fars.py
+output,California,2017,share_pedestrian_deaths_on_arterials_func_3_4,0.597872340425532,share of pedestrian deaths,,,,,562.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,California,2017,share_pedestrian_deaths_on_state_routes_non_interstate,0.19680851063829788,share of pedestrian deaths,,,,,185.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,California,2017,share_pedestrian_deaths_on_interstate_us_or_state_routes,0.2968085106382979,share of pedestrian deaths,,,,,279.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,California,2017,share_pedestrian_deaths_on_surface_state_arterials,0.09468085106382979,share of pedestrian deaths,,,,,89.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,California,2017,share_pedestrian_deaths_on_freeways_func_1_2,0.20425531914893616,share of pedestrian deaths,,,,,192.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,California,2017,share_pedestrian_deaths_road_owner_reported,0.6021276595744681,share of pedestrian deaths,,,,,566.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,California,2017,share_pedestrian_deaths_on_state_owned_roads,0.3,share of pedestrian deaths,,,,,282.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,California,2017,share_pedestrian_deaths_on_state_owned_arterials,0.09787234042553192,share of pedestrian deaths,,,,,92.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,California,2017,share_pedestrian_deaths_on_city_owned_arterials,0.1925531914893617,share of pedestrian deaths,,,,,181.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,California,2017,share_pedestrian_deaths_urban,0.8468085106382979,share of pedestrian deaths,,,,,796.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,California,2023,share_pedestrian_deaths_on_arterials_func_3_4,0.6182608695652174,share of pedestrian deaths,,,,,711.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,California,2023,share_pedestrian_deaths_on_state_routes_non_interstate,0.22782608695652173,share of pedestrian deaths,,,,,262.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,California,2023,share_pedestrian_deaths_on_interstate_us_or_state_routes,0.35130434782608694,share of pedestrian deaths,,,,,404.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,California,2023,share_pedestrian_deaths_on_surface_state_arterials,0.12434782608695652,share of pedestrian deaths,,,,,143.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,California,2023,share_pedestrian_deaths_on_freeways_func_1_2,0.2234782608695652,share of pedestrian deaths,,,,,257.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,California,2023,share_pedestrian_deaths_road_owner_reported,0.8530434782608696,share of pedestrian deaths,,,,,981.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,California,2023,share_pedestrian_deaths_on_state_owned_roads,0.34608695652173915,share of pedestrian deaths,,,,,398.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,California,2023,share_pedestrian_deaths_on_state_owned_arterials,0.1208695652173913,share of pedestrian deaths,,,,,139.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,California,2023,share_pedestrian_deaths_on_city_owned_arterials,0.3208695652173913,share of pedestrian deaths,,,,,369.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,California,2023,share_pedestrian_deaths_urban,0.9191304347826087,share of pedestrian deaths,,,,,1057.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,Texas,2017,share_pedestrian_deaths_on_arterials_func_3_4,0.49835526315789475,share of pedestrian deaths,,,,,303.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,Texas,2017,share_pedestrian_deaths_on_state_routes_non_interstate,0.26644736842105265,share of pedestrian deaths,,,,,162.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,Texas,2017,share_pedestrian_deaths_on_interstate_us_or_state_routes,0.4605263157894737,share of pedestrian deaths,,,,,280.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,Texas,2017,share_pedestrian_deaths_on_surface_state_arterials,0.19901315789473684,share of pedestrian deaths,,,,,121.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,Texas,2017,share_pedestrian_deaths_on_freeways_func_1_2,0.31085526315789475,share of pedestrian deaths,,,,,189.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,Texas,2017,share_pedestrian_deaths_road_owner_reported,0.24342105263157895,share of pedestrian deaths,,,,,148.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,Texas,2017,share_pedestrian_deaths_on_state_owned_roads,0.23684210526315788,share of pedestrian deaths,,,,,144.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,Texas,2017,share_pedestrian_deaths_on_state_owned_arterials,0.0,share of pedestrian deaths,,,,,0.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,Texas,2017,share_pedestrian_deaths_on_city_owned_arterials,0.0,share of pedestrian deaths,,,,,0.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,Texas,2017,share_pedestrian_deaths_urban,0.8289473684210527,share of pedestrian deaths,,,,,504.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip,
+output,Texas,2023,share_pedestrian_deaths_on_arterials_func_3_4,0.5443196004993758,share of pedestrian deaths,,,,,436.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,Texas,2023,share_pedestrian_deaths_on_state_routes_non_interstate,0.30337078651685395,share of pedestrian deaths,,,,,243.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,Texas,2023,share_pedestrian_deaths_on_interstate_us_or_state_routes,0.484394506866417,share of pedestrian deaths,,,,,388.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,Texas,2023,share_pedestrian_deaths_on_surface_state_arterials,0.22971285892634208,share of pedestrian deaths,,,,,184.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,Texas,2023,share_pedestrian_deaths_on_freeways_func_1_2,0.2397003745318352,share of pedestrian deaths,,,,,192.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,Texas,2023,share_pedestrian_deaths_road_owner_reported,0.2546816479400749,share of pedestrian deaths,,,,,204.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,Texas,2023,share_pedestrian_deaths_on_state_owned_roads,0.250936329588015,share of pedestrian deaths,,,,,201.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,Texas,2023,share_pedestrian_deaths_on_state_owned_arterials,0.00749063670411985,share of pedestrian deaths,,,,,6.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,Texas,2023,share_pedestrian_deaths_on_city_owned_arterials,0.0,share of pedestrian deaths,,,,,0.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+output,Texas,2023,share_pedestrian_deaths_urban,0.8514357053682896,share of pedestrian deaths,,,,,682.0,https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip,
+input,California,2017,nhts_walk_trips_per_person_per_year,150.78994318976382,,3.8867006553799768,,3.8867006553799768,6.393622578100062,53603.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 26099, walk trips 21897"
+input,California,2017,nhts_walk_trips_excl_loop_per_person_per_year,132.46164549507412,,3.891497911026991,,3.891497911026991,6.4015140636394,53603.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 26099, walk trips 21897"
+input,California,2017,nhts_walk_miles_per_person_per_year,106.22932971129934,,5.223327286206336,,5.223327286206336,8.592373385809424,53603.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 26099, walk trips 21897"
+input,California,2017,nhts_walk_miles_cleaned_per_person_per_year,84.18791524585701,,2.532895957064362,,2.532895957064362,4.166613849370876,53603.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 26099, walk trips 21897"
+input,California,2017,nhts_walk_minutes_per_person_per_year,2549.075663046153,,84.9301584639228,,84.9301584639228,139.710110673153,53603.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 26099, walk trips 21897"
+input,California,2017,nhts_all_trips_per_person_per_year,1201.1700934563628,,12.087306433766347,,12.087306433766347,19.883619083545643,53603.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 26099, walk trips 21897"
+input,California,2017,nhts_walk_share_of_trips,0.125535878732933,,0.0034504430042328,,0.0034504430042328,0.005675978741962956,53603.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 26099, walk trips 21897"
+input,California,2017,nhts_weekly_recall_walks_per_person_per_year,259.8304651790281,,3.895614667431012,,3.895614667431012,6.408286127924015,53456.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 26099, walk trips 21897"
+input,Texas,2017,nhts_walk_trips_per_person_per_year,77.89983332861206,,2.8140513712026887,,2.8140513712026887,4.629114505628423,51361.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 24441, walk trips 11460"
+input,Texas,2017,nhts_walk_trips_excl_loop_per_person_per_year,62.13290605095074,,3.203622495208871,,3.203622495208871,5.269959004618593,51361.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 24441, walk trips 11460"
+input,Texas,2017,nhts_walk_miles_per_person_per_year,87.6393347197669,,29.561666244245608,,29.561666244245608,48.628940971784026,51361.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 24441, walk trips 11460"
+input,Texas,2017,nhts_walk_miles_cleaned_per_person_per_year,42.689325700331935,,1.5180412362411486,,1.5180412362411486,2.4971778336166897,51361.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 24441, walk trips 11460"
+input,Texas,2017,nhts_walk_minutes_per_person_per_year,1309.7409294291874,,49.22079582599201,,49.22079582599201,80.96820913375686,51361.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 24441, walk trips 11460"
+input,Texas,2017,nhts_all_trips_per_person_per_year,1194.028215461021,,11.855191808480134,,11.855191808480134,19.501790524949822,51361.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 24441, walk trips 11460"
+input,Texas,2017,nhts_walk_share_of_trips,0.0652411997638887,,0.0018625629581064,,0.0018625629581064,0.0030639160660850284,51361.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 24441, walk trips 11460"
+input,Texas,2017,nhts_weekly_recall_walks_per_person_per_year,238.92709870576775,,3.242650791774817,,3.242650791774817,5.334160552469574,51243.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 24441, walk trips 11460"
+input,California excl. Los Angeles metro,2017,nhts_walk_trips_per_person_per_year,146.4358579690368,,2.507083582081709,,2.507083582081709,4.124152492524411,46976.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 22921, walk trips 18988"
+input,California excl. Los Angeles metro,2017,nhts_walk_trips_excl_loop_per_person_per_year,128.40958577123394,,2.7032231596075857,,2.7032231596075857,4.446802097554478,46976.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 22921, walk trips 18988"
+input,California excl. Los Angeles metro,2017,nhts_walk_miles_per_person_per_year,105.06262708685868,,5.421647749129687,,5.421647749129687,8.918610547318336,46976.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 22921, walk trips 18988"
+input,California excl. Los Angeles metro,2017,nhts_walk_miles_cleaned_per_person_per_year,83.4089395851218,,2.0199938959465538,,2.0199938959465538,3.322889958832081,46976.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 22921, walk trips 18988"
+input,California excl. Los Angeles metro,2017,nhts_walk_minutes_per_person_per_year,2470.548294519908,,54.56096607238078,,54.56096607238078,89.75278918906638,46976.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 22921, walk trips 18988"
+input,California excl. Los Angeles metro,2017,nhts_all_trips_per_person_per_year,1191.2536240434488,,17.77349746313717,,17.77349746313717,29.237403326860644,46976.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 22921, walk trips 18988"
+input,California excl. Los Angeles metro,2017,nhts_walk_share_of_trips,0.1229258446845202,,0.00256401646225,,0.00256401646225,0.00421780708040125,46976.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 22921, walk trips 18988"
+input,California excl. Los Angeles metro,2017,nhts_weekly_recall_walks_per_person_per_year,262.43322201544703,,3.619218902978793,,3.619218902978793,5.953615095400115,46849.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 22921, walk trips 18988"
+input,Texas excl. Dallas-Fort Worth metro,2017,nhts_walk_trips_per_person_per_year,76.81484671302576,,3.865609948065672,,3.865609948065672,6.358928364568031,32345.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 15453, walk trips 7152"
+input,Texas excl. Dallas-Fort Worth metro,2017,nhts_walk_trips_excl_loop_per_person_per_year,61.00501815349525,,4.2446465471618335,,4.2446465471618335,6.982443570081216,32345.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 15453, walk trips 7152"
+input,Texas excl. Dallas-Fort Worth metro,2017,nhts_walk_miles_per_person_per_year,95.10505830637383,,39.96764148748776,,39.96764148748776,65.74677024691736,32345.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 15453, walk trips 7152"
+input,Texas excl. Dallas-Fort Worth metro,2017,nhts_walk_miles_cleaned_per_person_per_year,41.83328947194048,,1.8514737940420305,,1.8514737940420305,3.04567439119914,32345.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 15453, walk trips 7152"
+input,Texas excl. Dallas-Fort Worth metro,2017,nhts_walk_minutes_per_person_per_year,1293.0034634951692,,64.16075036705486,,64.16075036705486,105.54443435380524,32345.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 15453, walk trips 7152"
+input,Texas excl. Dallas-Fort Worth metro,2017,nhts_all_trips_per_person_per_year,1184.9970763970034,,15.165355676455093,,15.165355676455093,24.94701008776863,32345.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 15453, walk trips 7152"
+input,Texas excl. Dallas-Fort Worth metro,2017,nhts_walk_share_of_trips,0.0648228153832937,,0.0026105936742601,,0.0026105936742601,0.004294426594157865,32345.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 15453, walk trips 7152"
+input,Texas excl. Dallas-Fort Worth metro,2017,nhts_weekly_recall_walks_per_person_per_year,242.7361827616163,,3.15888773113471,,3.15888773113471,5.196370317716598,32260.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 15453, walk trips 7152"
+input,Texas excl. Dallas-Fort Worth and Houston metros,2017,nhts_walk_trips_per_person_per_year,72.00342708419929,,3.794080093866873,,3.794080093866873,6.241261754411006,22043.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 10650, walk trips 4604"
+input,Texas excl. Dallas-Fort Worth and Houston metros,2017,nhts_walk_trips_excl_loop_per_person_per_year,56.13093167221588,,3.536451689390028,,3.536451689390028,5.817463029046596,22043.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 10650, walk trips 4604"
+input,Texas excl. Dallas-Fort Worth and Houston metros,2017,nhts_walk_miles_per_person_per_year,108.92525252924084,,57.99504068610136,,57.99504068610136,95.40184192863674,22043.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 10650, walk trips 4604"
+input,Texas excl. Dallas-Fort Worth and Houston metros,2017,nhts_walk_miles_cleaned_per_person_per_year,39.3719147096672,,1.7574291703540803,,1.7574291703540803,2.890970985232462,22043.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 10650, walk trips 4604"
+input,Texas excl. Dallas-Fort Worth and Houston metros,2017,nhts_walk_minutes_per_person_per_year,1234.4079732189189,,63.92485704928968,,63.92485704928968,105.15638984608152,22043.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 10650, walk trips 4604"
+input,Texas excl. Dallas-Fort Worth and Houston metros,2017,nhts_all_trips_per_person_per_year,1199.9980995828678,,18.385958836028173,,18.385958836028173,30.244902285266345,22043.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 10650, walk trips 4604"
+input,Texas excl. Dallas-Fort Worth and Houston metros,2017,nhts_walk_share_of_trips,0.0600029509290293,,0.0026122859602722,,0.0026122859602722,0.004297210404647769,22043.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 10650, walk trips 4604"
+input,Texas excl. Dallas-Fort Worth and Houston metros,2017,nhts_weekly_recall_walks_per_person_per_year,249.08496126553985,,5.919284463896092,,5.919284463896092,9.737222943109073,21985.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 10650, walk trips 4604"
+input,Los Angeles metro,2017,nhts_walk_trips_per_person_per_year,159.93929909209513,,8.567897302151552,,8.567897302151552,14.094191062039304,6627.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 3178, walk trips 2909"
+input,Los Angeles metro,2017,nhts_walk_trips_excl_loop_per_person_per_year,140.97634713077738,,8.331331445656637,,8.331331445656637,13.705040228105169,6627.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 3178, walk trips 2909"
+input,Los Angeles metro,2017,nhts_walk_miles_per_person_per_year,108.68095318719666,,9.991696801445936,,9.991696801445936,16.436341238378567,6627.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 3178, walk trips 2909"
+input,Los Angeles metro,2017,nhts_walk_miles_cleaned_per_person_per_year,85.8247976673109,,4.8061021317541135,,4.8061021317541135,7.906038006735517,6627.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 3178, walk trips 2909"
+input,Los Angeles metro,2017,nhts_walk_minutes_per_person_per_year,2714.0873259552623,,183.8502514676184,,183.8502514676184,302.43366366423226,6627.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 3178, walk trips 2909"
+input,Los Angeles metro,2017,nhts_all_trips_per_person_per_year,1222.007836255109,,19.00464636065524,,19.00464636065524,31.26264326327787,6627.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 3178, walk trips 2909"
+input,Los Angeles metro,2017,nhts_walk_share_of_trips,0.1308823841770404,,0.006372531157265,,0.006372531157265,0.010482813753700925,6627.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 3178, walk trips 2909"
+input,Los Angeles metro,2017,nhts_weekly_recall_walks_per_person_per_year,254.3624064041137,,10.412955071145,,10.412955071145,17.129311092033525,6607.0,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),"unweighted households 3178, walk trips 2909"
+input,California / Texas,2017,nhts_walk_trips_per_person_ratio,1.9356901901660388,,0.086008585504642,,0.086008585504642,0.1414841231551361,,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),
+input,California / Texas,2017,nhts_walk_miles_per_person_ratio,1.2121193075115793,,0.5913908387333762,,0.5913908387333762,0.9728379297164038,,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),
+input,California / Texas,2017,nhts_walk_miles_cleaned_per_person_ratio,1.972106934572696,,0.0918211965881334,,0.0918211965881334,0.15104586838747944,,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),
+input,California / Texas,2017,nhts_walk_minutes_per_person_ratio,1.9462441814024196,,0.0990280489802014,,0.0990280489802014,0.1629011405724313,,https://nhts.ornl.gov/assets/2016/download/csv.zip (and Replicates.zip),
+input,Texas,2019,acs_commute_share_walked,0.015411443165878742,share of workers 16+,0.0004686921995109374,,0.0004686921995109374,0.000770998668195492,,"https://api.census.gov/data/2019/acs/acs1?get=NAME,group(B08301)&for=state:06,48","ACS 1-year B08301; SE from published 90% MOE, ignores MOE of total"
+input,Texas,2019,acs_commute_share_worked_from_home,0.057124038630277665,share of workers 16+,0.0008391695608075734,,0.0008391695608075734,0.0013804339275284583,,"https://api.census.gov/data/2019/acs/acs1?get=NAME,group(B08301)&for=state:06,48","ACS 1-year B08301; SE from published 90% MOE, ignores MOE of total"
+input,California,2019,acs_commute_share_walked,0.0256136983962468,share of workers 16+,0.0005016996561510141,,0.0005016996561510141,0.0008252959343684182,,"https://api.census.gov/data/2019/acs/acs1?get=NAME,group(B08301)&for=state:06,48","ACS 1-year B08301; SE from published 90% MOE, ignores MOE of total"
+input,California,2019,acs_commute_share_worked_from_home,0.06344746794904137,share of workers 16+,0.0007210674900185717,,0.0007210674900185717,0.0011861560210805503,,"https://api.census.gov/data/2019/acs/acs1?get=NAME,group(B08301)&for=state:06,48","ACS 1-year B08301; SE from published 90% MOE, ignores MOE of total"

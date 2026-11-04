@@ -1,0 +1,11 @@
+survey,geo,measure,value,unit,se,moe90,n_unweighted,households,persons,source
+NHTS 2009,California,walk_trips_per_person,184.2238025995437,walk trips per person per year,3.739652655982126,6.151728619090597,20077,21225,44957,https://nhts.ornl.gov/2009/download/Ascii.zip (replicates: ReplicatesASCII.zip)
+NHTS 2009,California,trips_per_person,1376.726132598895,trips per person per year,8.231082852299249,13.540131292032264,171661,21225,44957,https://nhts.ornl.gov/2009/download/Ascii.zip (replicates: ReplicatesASCII.zip)
+NHTS 2009,California,walk_share_of_trips,0.13381296267818918,share of trips,0.0026521872194023685,0.004362847975916896,20077,21225,44957,https://nhts.ornl.gov/2009/download/Ascii.zip (replicates: ReplicatesASCII.zip)
+NHTS 2009,California,weekly_recall_walks_per_person,205.65473093485653,walks per person per year (past-7-days x 52),2.5290592278489927,4.160302429811593,44540,21225,44957,https://nhts.ornl.gov/2009/download/Ascii.zip (replicates: ReplicatesASCII.zip)
+NHTS 2009,California,persons_age5plus,34052007.00000321,persons,4.594951651954118e-05,7.558695467464524e-05,44957,21225,44957,https://nhts.ornl.gov/2009/download/Ascii.zip (replicates: ReplicatesASCII.zip)
+NHTS 2009,Texas,walk_trips_per_person,104.66657515569328,walk trips per person per year,2.6685486837062085,4.3897625846967125,11742,22255,46423,https://nhts.ornl.gov/2009/download/Ascii.zip (replicates: ReplicatesASCII.zip)
+NHTS 2009,Texas,trips_per_person,1358.7870010772479,trips per person per year,9.042017455422174,14.874118714169477,174699,22255,46423,https://nhts.ornl.gov/2009/download/Ascii.zip (replicates: ReplicatesASCII.zip)
+NHTS 2009,Texas,walk_share_of_trips,0.07702942041152404,share of trips,0.0018858824070923244,0.0031022765596668738,11742,22255,46423,https://nhts.ornl.gov/2009/download/Ascii.zip (replicates: ReplicatesASCII.zip)
+NHTS 2009,Texas,weekly_recall_walks_per_person,203.30103029068525,walks per person per year (past-7-days x 52),2.8911980665681085,4.756020819504538,45932,22255,46423,https://nhts.ornl.gov/2009/download/Ascii.zip (replicates: ReplicatesASCII.zip)
+NHTS 2009,Texas,persons_age5plus,22299666.99999974,persons,2.2394475914549495e-05,3.683891287943392e-05,46423,22255,46423,https://nhts.ornl.gov/2009/download/Ascii.zip (replicates: ReplicatesASCII.zip)

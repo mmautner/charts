@@ -1,0 +1,95 @@
+group,n_households,n_persons,n_walk_trips,measure,estimate,se
+California,26099.0,53603.0,21897.0,walk_trips_annual_total,5523696563.485948,142189916.86606333
+California,26099.0,53603.0,21897.0,walk_trips_per_person_per_year,150.78994318976382,3.8867006553799768
+California,26099.0,53603.0,21897.0,walk_trips_excl_loop_annual_total,4852299301.512727,142395691.54242653
+California,26099.0,53603.0,21897.0,walk_trips_excl_loop_per_person_per_year,132.46164549507412,3.891497911026991
+California,26099.0,53603.0,21897.0,walk_miles_annual_total,3891364178.904688,191346096.8364123
+California,26099.0,53603.0,21897.0,walk_miles_per_person_per_year,106.22932971129934,5.223327286206336
+California,26099.0,53603.0,21897.0,walk_miles_cleaned_annual_total,3083949024.009941,92670002.38659328
+California,26099.0,53603.0,21897.0,walk_miles_cleaned_per_person_per_year,84.18791524585701,2.532895957064362
+California,26099.0,53603.0,21897.0,walk_minutes_annual_total,93377052754.20198,3107992300.9312406
+California,26099.0,53603.0,21897.0,walk_minutes_per_person_per_year,2549.075663046153,84.9301584639228
+California,26099.0,53603.0,21897.0,all_trips_annual_total,44000939167.65536,442057415.6891605
+California,26099.0,53603.0,21897.0,all_trips_per_person_per_year,1201.1700934563628,12.087306433766347
+California,26099.0,53603.0,21897.0,walk_share_of_trips,0.12553587873293306,0.003450443004232869
+California,26099.0,53456.0,21897.0,weekly_recall_walks_per_person_per_year,259.8304651790281,3.8956146674310115
+California,26099.0,53603.0,21897.0,persons_age5plus,36631730.51623589,2052.489511806032
+Texas,24441.0,51361.0,11460.0,walk_trips_annual_total,1983983316.9341478,71719153.39054923
+Texas,24441.0,51361.0,11460.0,walk_trips_per_person_per_year,77.89983332861206,2.8140513712026887
+Texas,24441.0,51361.0,11460.0,walk_trips_excl_loop_annual_total,1582425067.8139331,81626345.82421885
+Texas,24441.0,51361.0,11460.0,walk_trips_excl_loop_per_person_per_year,62.13290605095074,3.203622495208871
+Texas,24441.0,51361.0,11460.0,walk_miles_annual_total,2232032734.36738,752800904.0164344
+Texas,24441.0,51361.0,11460.0,walk_miles_per_person_per_year,87.6393347197669,29.561666244245608
+Texas,24441.0,51361.0,11460.0,walk_miles_cleaned_annual_total,1087228385.243783,38691255.64933567
+Texas,24441.0,51361.0,11460.0,walk_miles_cleaned_per_person_per_year,42.689325700331935,1.5180412362411486
+Texas,24441.0,51361.0,11460.0,walk_minutes_annual_total,33356992466.618294,1254402364.058704
+Texas,24441.0,51361.0,11460.0,walk_minutes_per_person_per_year,1309.7409294291874,49.22079582599201
+Texas,24441.0,51361.0,11460.0,all_trips_annual_total,30409975967.85905,302780125.76961255
+Texas,24441.0,51361.0,11460.0,all_trips_per_person_per_year,1194.028215461021,11.855191808480134
+Texas,24441.0,51361.0,11460.0,walk_share_of_trips,0.06524119976388873,0.0018625629581064008
+Texas,24441.0,51243.0,11460.0,weekly_recall_walks_per_person_per_year,238.92709870576778,3.2426507917748175
+Texas,24441.0,51361.0,11460.0,persons_age5plus,25468389.753350664,9141.514102811538
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,walk_trips_annual_total,3634552430.089171,67218900.57143226
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,walk_trips_per_person_per_year,146.4358579690368,2.5070835820817092
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,walk_trips_excl_loop_annual_total,3187138577.1527777,69519285.00654384
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,walk_trips_excl_loop_per_person_per_year,128.40958577123394,2.7032231596075857
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,walk_miles_annual_total,2607664761.119071,135090230.59816244
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,walk_miles_per_person_per_year,105.06262708685867,5.421647749129687
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,walk_miles_cleaned_annual_total,2070218102.7570848,49302550.692458324
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,walk_miles_cleaned_per_person_per_year,83.4089395851218,2.0199938959465538
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,walk_minutes_annual_total,61319252210.743546,1319935689.7544222
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,walk_minutes_per_person_per_year,2470.548294519908,54.56096607238078
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,all_trips_annual_total,29567032379.699913,465810744.9574591
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,all_trips_per_person_per_year,1191.2536240434488,17.77349746313717
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,walk_share_of_trips,0.1229258446845202,0.002564016462250037
+California excl. Los Angeles metro,22921.0,46849.0,18988.0,weekly_recall_walks_per_person_per_year,262.43322201544703,3.619218902978793
+California excl. Los Angeles metro,22921.0,46976.0,18988.0,persons_age5plus,24820098.57761533,152565.8541652954
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,walk_trips_annual_total,1450124480.1884484,72994936.05464172
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,walk_trips_per_person_per_year,76.81484671302576,3.865609948065672
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,walk_trips_excl_loop_annual_total,1151663695.5512257,80134776.14060548
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,walk_trips_excl_loop_per_person_per_year,61.00501815349525,4.2446465471618335
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,walk_miles_annual_total,1795410381.4729853,754394428.7400848
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,walk_miles_per_person_per_year,95.10505830637385,39.967641487487754
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,walk_miles_cleaned_annual_total,789736356.2633221,35007232.1009233
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,walk_miles_cleaned_per_person_per_year,41.83328947194048,1.8514737940420303
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,walk_minutes_annual_total,24409551741.835903,1212569491.7404726
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,walk_minutes_per_person_per_year,1293.0034634951692,64.16075036705486
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,all_trips_annual_total,22370587757.010284,285095648.1640497
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,all_trips_per_person_per_year,1184.9970763970034,15.165355676455093
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,walk_share_of_trips,0.06482281538329372,0.002610593674260196
+Texas excl. Dallas-Fort Worth metro,15453.0,32260.0,7152.0,weekly_recall_walks_per_person_per_year,242.7361827616163,3.15888773113471
+Texas excl. Dallas-Fort Worth metro,15453.0,32345.0,7152.0,persons_age5plus,18878179.704061635,12455.167440651914
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,walk_trips_annual_total,940909123.299936,49143083.28814903
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,walk_trips_per_person_per_year,72.00342708419929,3.794080093866873
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,walk_trips_excl_loop_annual_total,733494332.8177081,45023070.44870985
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,walk_trips_excl_loop_per_person_per_year,56.13093167221588,3.5364516893900277
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,walk_miles_annual_total,1423387302.6996887,761994437.855146
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,walk_miles_per_person_per_year,108.92525252924084,57.995040686101355
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,walk_miles_cleaned_annual_total,514494868.53997535,22005790.387473088
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,walk_miles_cleaned_per_person_per_year,39.371914709667195,1.7574291703540803
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,walk_minutes_annual_total,16130700591.760311,767129359.3147407
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,walk_minutes_per_person_per_year,1234.4079732189189,63.92485704928968
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,all_trips_annual_total,15681047494.027922,269728473.3192641
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,all_trips_per_person_per_year,1199.9980995828678,18.385958836028173
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,walk_share_of_trips,0.06000295092902935,0.0026122859602722734
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,21985.0,4604.0,weekly_recall_walks_per_person_per_year,249.08496126553982,5.9192844638960915
+Texas excl. Dallas-Fort Worth and Houston metros,10650.0,22043.0,4604.0,persons_age5plus,13067560.273202784,120706.27387419331
+Los Angeles metro,3178.0,6627.0,2909.0,walk_trips_annual_total,1889144133.3967767,103973270.12926352
+Los Angeles metro,3178.0,6627.0,2909.0,walk_trips_per_person_per_year,159.93929909209513,8.567897302151552
+Los Angeles metro,3178.0,6627.0,2909.0,walk_trips_excl_loop_annual_total,1665160724.3599486,98298339.69653417
+Los Angeles metro,3178.0,6627.0,2909.0,walk_trips_excl_loop_per_person_per_year,140.97634713077738,8.331331445656637
+Los Angeles metro,3178.0,6627.0,2909.0,walk_miles_annual_total,1283699417.7856176,126116102.52037616
+Los Angeles metro,3178.0,6627.0,2909.0,walk_miles_per_person_per_year,108.68095318719666,9.991696801445936
+Los Angeles metro,3178.0,6627.0,2909.0,walk_miles_cleaned_annual_total,1013730921.2528565,58197090.195889175
+Los Angeles metro,3178.0,6627.0,2909.0,walk_miles_cleaned_per_person_per_year,85.8247976673109,4.8061021317541135
+Los Angeles metro,3178.0,6627.0,2909.0,walk_minutes_annual_total,32057800543.458435,2299098558.4526896
+Los Angeles metro,3178.0,6627.0,2909.0,walk_minutes_per_person_per_year,2714.0873259552623,183.85025146761842
+Los Angeles metro,3178.0,6627.0,2909.0,all_trips_annual_total,14433906787.955444,249746966.38830447
+Los Angeles metro,3178.0,6627.0,2909.0,all_trips_per_person_per_year,1222.007836255109,19.004646360655236
+Los Angeles metro,3178.0,6627.0,2909.0,walk_share_of_trips,0.13088238417704046,0.0063725311572650455
+Los Angeles metro,3178.0,6607.0,2909.0,weekly_recall_walks_per_person_per_year,254.3624064041137,10.412955071145001
+Los Angeles metro,3178.0,6627.0,2909.0,persons_age5plus,11811631.938620556,152354.38169081195
+California / Texas,,,,walk_trips_per_person_ratio,1.9356901901660388,0.08600858550464205
+California / Texas,,,,walk_miles_per_person_ratio,1.2121193075115793,0.5913908387333762
+California / Texas,,,,walk_miles_cleaned_per_person_ratio,1.9721069345726958,0.09182119658813341
+California / Texas,,,,walk_minutes_per_person_ratio,1.9462441814024194,0.09902804898020143
