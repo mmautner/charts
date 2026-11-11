@@ -151,13 +151,12 @@ def estimates(fmt_name, name):
     column(x1, lx1, adopted)
     column(x2, lx2, left_out)
     ax.axhline(DEFICIT, color=INK, lw=1.6, ls=(0, (5, 3)), zorder=3)
-    if blog:
-        ax.text(w_in - 0.02, DEFICIT - 0.12 * per_in, f"Caltrain's average yearly deficit\nthrough 2034: ~${DEFICIT}M, "
-                "about\nwhat Measure RTM gives it", ha="right", va="top", color=INK, fontsize=SIZE["deficit"] * k,
-                linespacing=1.2)
-    else:                                  # the social plot is short: 1 line
-        ax.text(w_in - 0.02, DEFICIT - 0.1 * per_in, f"Average yearly deficit through 2034: ~${DEFICIT}M",
-                ha="right", va="top", color=INK, fontsize=SIZE["deficit"] * k)
+    # the line's label sits at its left end, just above it, so readers learn what the line is as they meet it
+    # (a reader, John, Nov. 2026, took a moment to read the line when its label was at the far right, below it)
+    line_label = f"~${DEFICIT}M yearly deficit, which Measure RTM covers"
+    line_fp = font("sans", SIZE["deficit"] * k)
+    assert 0.05 + text_width(line_label, line_fp) <= w_in, "deficit label overflows"
+    ax.text(0.05, DEFICIT + 0.08 * per_in, line_label, ha="left", va="bottom", color=INK, fontproperties=line_fp)
 
     # column names left-aligned with each column's left edge
     ax.set_xticks([])
@@ -165,8 +164,8 @@ def estimates(fmt_name, name):
         ax.annotate(label, xy=(x - col_w / 2, 0), xycoords=("data", "axes fraction"), xytext=(0, -10 * k),
                     textcoords="offset points", ha="left", va="top", color=INK,
                     fontproperties=font("serif", SIZE["column"] * k))
-    ax.set_yticks(range(0, 81, 20))
-    ax.set_yticklabels(["0"] + [f"${t}M" for t in range(20, 81, 20)])
+    ax.set_yticks(range(0, 61, 20))       # no $80M line: it would run through the deficit label
+    ax.set_yticklabels(["0"] + [f"${t}M" for t in range(20, 61, 20)])
     p.save(OUT / name)
 
 
