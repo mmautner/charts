@@ -18,7 +18,8 @@ Each folder is one post. `style.py` holds the shared look.
 | [Burlingame's city government collects 1.7x as much revenue per resident as San Mateo's](https://maxmautner.com/burlingame-vs-san-mateo) | [`2026-10-27-city-finances`](2026-10-27-city-finances) |
 | [Speed and red light cameras save lives](https://maxmautner.com/traffic-cameras) | [`2026-10-31-traffic-cameras`](2026-10-31-traffic-cameras) |
 | [Since 2010, California's roads carry 7% less traffic per resident and kill 91% more people on foot](https://maxmautner.com/walking-deaths) | [`2026-11-02-ca-tx-pedestrians`](2026-11-02-ca-tx-pedestrians) |
-| [Measure RTM fails its loudest critic's oversight test. So do the 101 express lanes.](https://maxmautner.com/rtm-oversight) | [`2026-11-05-rtm-oversight`](2026-11-05-rtm-oversight) |
+| [Bay Area transit gets an efficiency review. The 101 express lanes never got one.](https://maxmautner.com/rtm-oversight) | [`2026-11-05-rtm-oversight`](2026-11-05-rtm-oversight) |
+| [Caltrain's savings plan skips every saving big enough to matter](https://maxmautner.com/caltrain-efficiency) | [`2026-11-06-caltrain-efficiency`](2026-11-06-caltrain-efficiency) |
 
 ## Running a post's charts
 
