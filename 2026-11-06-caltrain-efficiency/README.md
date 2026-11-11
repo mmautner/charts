@@ -6,10 +6,10 @@ unambitious. Watermark short URL: maxmautner.com/caltrain-efficiency.
 One chart:
 
 - `caltrain-strategies`: 2 stacked columns on one scale, from zero. The 6 strategies Caltrain adopted under SB 63
-  (operator contract, plus 5 smaller items stacked as one segment) and the 3 options its own documents point to that
-  it isn't pursuing, against a dashed line at the ~$75 million average yearly deficit Caltrain projects for fiscal
+  (operator contract, plus 5 smaller items stacked as one segment), and the same strategies with the 3 options its own
+  documents point to that it isn't pursuing stacked on top, so the second column is cumulative, against a dashed line at the ~$75 million average yearly deficit Caltrain projects for fiscal
   2027 to 2034 (Hatch/JPB deck, Apr. 2025), about what Measure RTM gives it each year. Segments are the midpoint of
-  each estimate range; each segment's label gives its full range, and the title gives each column's.
+  each estimate range; each segment's label gives its full range.
 
 **These are estimates, not agency figures.** Neither MTC's Phase 1 review nor Caltrain put a dollar figure on any
 strategy. `data/estimates.csv` gives each estimate's basis and timing.

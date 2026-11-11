@@ -121,8 +121,13 @@ def estimates(fmt_name, name):
     ax.set_ylim(0, ymax)
     gap = 0.03 * per_in                    # thin background gap between stacked segments
 
-    def column(x, lx, segs):
+    def column(x, lx, segs, under=()):
+        """Stack `under` first, unlabeled, then `segs` with labels on top of it."""
         base, mids = 0, []
+        for key, lo, hi, color, hatched in under:
+            mid = (lo + hi) / 2
+            ax.bar(x, mid - gap, bottom=base, width=col_w, color=color, lw=0, zorder=2)
+            base += mid
         for key, lo, hi, color, hatched in segs:
             mid = (lo + hi) / 2
             ax.bar(x, mid - gap, bottom=base, width=col_w, color=BG if hatched else color, edgecolor=color,
@@ -149,7 +154,9 @@ def estimates(fmt_name, name):
                     fontproperties=lab_fp)
 
     column(x1, lx1, adopted)
-    column(x2, lx2, left_out)
+    # the options left out stack on top of the adopted strategies: they would add to them, not replace them
+    # (2 readers, Nov. 2026, read separate columns as alternatives rather than cumulative)
+    column(x2, lx2, left_out, under=adopted)
     ax.axhline(DEFICIT, color=INK, lw=1.6, ls=(0, (5, 3)), zorder=3)
     # the line's label sits at its left end, just above it, so readers learn what the line is as they meet it
     # (a reader, John, Nov. 2026, took a moment to read the line when its label was at the far right, below it)
@@ -160,7 +167,7 @@ def estimates(fmt_name, name):
 
     # column names left-aligned with each column's left edge
     ax.set_xticks([])
-    for x, label in zip([x1, x2], ["Adopted strategies", "Options left out"]):
+    for x, label in zip([x1, x2], ["Adopted strategies", "Plus options left out"]):
         ax.annotate(label, xy=(x - col_w / 2, 0), xycoords=("data", "axes fraction"), xytext=(0, -10 * k),
                     textcoords="offset points", ha="left", va="top", color=INK,
                     fontproperties=font("serif", SIZE["column"] * k))
