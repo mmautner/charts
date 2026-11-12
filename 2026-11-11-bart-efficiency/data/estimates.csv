@@ -1,0 +1,13 @@
+item,group,segment,low_millions,high_millions,timing,basis
+Parking revenue,adopted,revenue,1.0,3.0,FY28 on,"Parking $22.4M in the FY27 budget (FY19: $37M), already including the Jan 2026 and July 2026 increases; paid only weekdays 4am-3pm; daily fees raised July 2026 at the 4 stations whose lots were over 90% full"
+Fare gate optimization,adopted,revenue,1.0,3.0,FY28 on,"New gates already bring ~$10M a year and evasion fell by more than half (BART funding fact sheet, Mar 2026); the rest is tailgating and bypass points"
+Fiber and cell leasing,adopted,revenue,1.0,3.0,FY28 on,"Fiber and cell leases already bring $7.8M a year (Contra Costa grand jury report 2608, p. 9); growth on that base"
+More BayPass employers,adopted,revenue,0.5,2.0,FY28 on,"BayPass already brings ~$7M a year (grand jury report 2608, p. 9); pass pricing was designed to be revenue neutral"
+Station retail study,adopted,revenue,0.1,0.5,FY29 on,A study; no BART revenue figure; sized like Caltrain's pop-up retail pilot
+Shorter trains,adopted,cost,1.0,3.0,FY28 on,"Shorter trains already save ~$12M a year (MTC Phase 1 p. 58); further trims to midday and weekend train lengths"
+Insurance and paratransit contracts,adopted,cost,0.0,1.0,FY28 on,"Paratransit broker contract rebid jointly with AC Transit in Nov 2024 for 4.5 years (AC Transit board item 21-471a); BART self-insures (FY25 ACFR Note 10)"
+SFO lease,adopted,cost,0.0,1.0,FY28 on,"BART pays SFO $2.5M a year in rent (SF Board of Supervisors Res. 55-25); the ceiling is the whole rent"
+Speed and reliability study,adopted,cost,0.0,1.0,FY29 on,A study; larger gains wait on the new train control system (~2030)
+Overtime work rules in 2027 contracts,option,overtime,10.0,15.0,from July 2027,"Overtime $80.9M in FY24 (BART OIG audit, June 2025), +$9.1M in FY25 (FY25 ACFR); OIG: ~$6M from moving double time to time and a half; another ~5-10% of overtime from rules counting paid leave toward overtime eligibility, missed-break pay and no individual cap, net of some straight-time backfill"
+Station staffing set by demand in 2027 contracts,option,staffing,9.0,15.0,from July 2027 through attrition,"ATU location-based staffing covers ~11% of BART's workforce (BART response to grand jury, p. 23), ~470 of ~4,300 FTEs; 15-25% fewer positions through attrition at ~$190K each (below the $217K FY27 operating average), with ~1/3 redeployed to platforms and trains"
+Driverless operation on the new train control system,option,automation,50.0,75.0,2030s if BART's board chooses it,"486 train operators (BART spokesman, SF Examiner, Sept 22 2025) at ~$190K each is ~$92M a year; keeping ~20-45% of that cost for roving attendants and control staff leaves ~$50-75M; capital costs such as platform doors not included"
