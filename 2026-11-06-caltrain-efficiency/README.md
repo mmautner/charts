@@ -22,6 +22,19 @@ strategy. `data/estimates.csv` gives each estimate's basis and timing.
 - Caltrain energy update, [Apr. 27, 2026](https://www.caltrain.com/media/37001/download); GoPass update, [Apr. 27, 2026](https://www.caltrain.com/media/37000/download); parking strategy, [Feb. 2026](https://www.caltrain.com/media/36796/download).
 - Hatch, [non-fare revenue strategies](https://www.caltrain.com/media/35113/download), Apr. 2025 (priority table, p. 20).
 
+## Other sources cited in the post
+
+Linked once in the post or not at all, to keep the post readable; listed here so every claim can be checked.
+
+- Caltrain [Dec. 4, 2025 board packet](https://www.caltrain.com/media/36143/download): TASI fee structure, 114-train requirement and waiver terms, fare increases through 2030, insurance coverage.
+- Caltrain board minutes: [Oct. 9, 2025](https://www.caltrain.com/media/36128/download) (TASI extension, 7–0) and [Dec. 2025](https://www.caltrain.com/media/36591/download) (fares, 7–1).
+- Caltrain [SB 63 strategies deck](https://www.caltrain.com/media/37136/download), June 4, 2026 (implementation plans by August 2028).
+- Caltrain [2011 operator contract](https://caltrain.com/media/35682/download) and a rider's [May 2026 letter](https://www.caltrain.com/media/37043/download) on crew size.
+- FRA crew-size rule, [Federal Register](https://www.govinfo.gov/content/pkg/FR-2024-04-09/html/2024-06625.htm), Apr. 9, 2024.
+- TASI union agreements: [BLET](https://blet.org/news/blets-caltrain-members-ratify-new-contract-with-tasi/) and [SMART](https://www.smart-union.org/tentative-agreement-reached-with-transitamerica-services-tasi/).
+- Election results: [KQED](https://www.kqed.org/voterguide/california/regional-measure-rtm).
+- SB 63 [text](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB63); SB 1031 [MTC handout](https://es.mtc.ca.gov/sites/default/files/meetings/attachments/6012/6bi_Handout_Summary_Sheet_SB_1031.pdf), May 24, 2024.
+
 ## Judgment calls
 
 - Operator contract: $4–9M a year after a competitive rebid, ~2–5% of the $168.3M Caltrain projects for the rail
