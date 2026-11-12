@@ -20,7 +20,7 @@ Each folder is one post. `style.py` holds the shared look.
 | [Since 2010, California's roads carry 7% less traffic per resident and kill 91% more people on foot](https://maxmautner.com/walking-deaths) | [`2026-11-02-ca-tx-pedestrians`](2026-11-02-ca-tx-pedestrians) |
 | [Bay Area transit gets an efficiency review. The 101 express lanes never got one.](https://maxmautner.com/rtm-oversight) | [`2026-11-05-rtm-oversight`](2026-11-05-rtm-oversight) |
 | [Caltrain's savings plan skips every saving big enough to matter](https://maxmautner.com/caltrain-efficiency) | [`2026-11-06-caltrain-efficiency`](2026-11-06-caltrain-efficiency) |
-| [Measure RTM gives BART ~$310 million a year. The decision that will matter most is one no one is reviewing.](https://maxmautner.com/bart-efficiency) | [`2026-11-11-bart-efficiency`](2026-11-11-bart-efficiency) |
+| [Measure RTM gives BART ~$310 million a year. Its biggest savings depend on union contracts that end in June 2027.](https://maxmautner.com/bart-efficiency) | [`2026-11-11-bart-efficiency`](2026-11-11-bart-efficiency) |
 
 ## Running a post's charts
 
