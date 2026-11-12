@@ -24,7 +24,8 @@ strategy. `data/estimates.csv` gives each estimate's basis and timing.
 - Contra Costa Civil Grand Jury [Report 2608](https://contracosta.courts.ca.gov/system/files/general/report-2608-signed-cover.pdf) (p. 9: existing revenue initiatives) and [BART's response](https://contracosta.courts.ca.gov/system/files/general/response-report-no-2608-bart-board-directors.pdf) (p. 23: ATU location-based staffing ~11% of the workforce).
 - BART [funding fact sheet](https://www.bart.gov/sites/default/files/2026-03/FundingOverview_Factsheet_030426.pdf), Mar. 2026: fare gates ~$10M a year.
 - SF Board of Supervisors [Res. 55-25](https://sfbos.org/sites/default/files/r0055-25.pdf): SFO lease $2.5M a year.
-- SF Examiner, [Sept. 22, 2025](https://www.sfexaminer.com/news/transit/why-bart-train-operator-loves-his-job--warts-and-all/article_606e13ad-eda9-4033-8aac-3acb73cbd006.html): 486 train operators, per a BART spokesman.
+- BART, [Train Automation Facts](https://www.bart.gov/about/financials/crisis): 503 train operators; their wages, benefits and overtime are $81–83M in the FY27 preliminary budget; the CPUC requires a train operator; 4,599 FTEs in all.
+- ATU [contract](https://www.bart.gov/sites/default/files/2025-04/ATU%20%282021-2027%29%20%5BInterim%5D.pdf), S47.1: station agents and train operators share one wage schedule.
 
 ## Other sources cited in the post
 
@@ -46,10 +47,13 @@ Linked once in the post or not at all, to keep the post readable; listed here so
 - Adopted items are counted only beyond what the FY27 budget already includes.
 - Overtime rules: the Inspector General's ~$6M plus ~5–10% of overtime from leave-counting, missed-break and
   no-cap rules, net of some straight-time backfill.
-- Station staffing: 15–25% of the ~470 location-staffed positions through attrition at ~$190K each, with ~1/3
-  redeployed to platforms and trains.
-- Driverless trains: 486 operators at ~$190K is ~$92M; keeping ~20–45% of that for roving attendants and control
-  staff leaves ~$50–75M. 2030s, only if BART's board chooses it; capital costs (platform doors) not included. Shown hatched.
+- Station staffing: 15–25% of the ~505 location-staffed positions (11% of BART's 4,599 FTEs, mostly station agents)
+  through attrition at ~$163K each, BART's FY27 cost per train operator including overtime, since station agents
+  share the operators' pay scale (ATU contract, S47.1); ~1/3 redeployed to platforms and trains. Corrected Nov. 11,
+  2026: first published as ~470 positions at ~$190K each, ~$9–15M.
+- Driverless trains: BART budgets $81–83M for its 503 train operators' wages, benefits and overtime in FY27; keeping
+  ~20–45% of that for roving attendants and control staff leaves ~$45–65M. Corrected Nov. 11, 2026: first published
+  as 486 operators at ~$190K each (an all-staff figure), ~$50–75M. 2030s, only if BART's board chooses it; capital costs (platform doors) and their upkeep not included; the CPUC now requires an operator aboard. Shown hatched.
 
 ## Reproduce
 

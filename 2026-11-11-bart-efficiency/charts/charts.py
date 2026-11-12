@@ -77,10 +77,10 @@ def estimates(fmt_name, name):
     a_lo, a_hi = sum(s[1] for s in adopted), sum(s[2] for s in adopted)
     o_lo, o_hi = sum(s[1] for s in left_out), sum(s[2] for s in left_out)
     assert (round(a_lo), round(a_hi)) == (5, 18), "column totals: ~$5-18 million"
-    assert (round(o_lo), round(o_hi)) == (69, 105), "column totals: ~$69-105 million"
+    assert (round(o_lo), round(o_hi)) == (63, 94), "column totals: ~$63-94 million"
 
     p = Page(fmt_name,
-             "Driverless trains could save BART ~$50–75 million a year, about the size of its deficit after "
+             "Driverless trains could save BART ~$45–65 million a year, about the size of its deficit after "
              "Measure RTM.",
              # social: the caveat joins the subtitle, since a separate note squeezed the plot until labels collided
              "My estimates of yearly savings or new revenue. Neither BART nor MTC put a dollar figure on any "
@@ -139,6 +139,9 @@ def estimates(fmt_name, name):
         # labels sit beside their own segment when there's room; only a label pushed clear of its segment
         # gets a leader. With several leaders, the lowest bends farthest out so no lines cross.
         ys = spread([max(m[0], half) for m in mids], 2 * half + (0.2 if blog else 0.12) * per_in)
+        if blog:  # a label the dashed deficit line would cut through moves just above the line
+            clear = 0.1 * per_in
+            ys = [DEFICIT + half + clear if y - half - clear < DEFICIT < y + half + clear else y for y in ys]
         edge = x + col_w / 2
         # every label gets a leader: a reader (Adam, Nov. 2026) found an unleadered label beside its own
         # segment harder to match than the leadered ones
