@@ -21,6 +21,7 @@ Each folder is one post. `style.py` holds the shared look.
 | [Bay Area transit gets an efficiency review. The 101 express lanes never got one.](https://maxmautner.com/rtm-oversight) | [`2026-11-05-rtm-oversight`](2026-11-05-rtm-oversight) |
 | [Caltrain's savings plan skips every saving big enough to matter](https://maxmautner.com/caltrain-efficiency) | [`2026-11-06-caltrain-efficiency`](2026-11-06-caltrain-efficiency) |
 | [Measure RTM gives BART ~$310 million a year. Its biggest savings depend on union contracts that end in June 2027.](https://maxmautner.com/bart-efficiency) | [`2026-11-11-bart-efficiency`](2026-11-11-bart-efficiency) |
+| [California chose its housing shortage](https://maxmautner.com/infill) | [`2026-09-29-sprawl-infill`](2026-09-29-sprawl-infill) |
 
 ## Running a post's charts
 

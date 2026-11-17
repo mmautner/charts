@@ -1,0 +1,12 @@
+{
+  "acs": {
+    "table": "B25034",
+    "survey": "ACS 5-year 2020-2024",
+    "source": "https://api.census.gov/data/2024/acs/acs5",
+    "fetched_on": "2026-09-29"
+  },
+  "gazetteer": {
+    "source": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_tracts_national.zip",
+    "fetched_on": "2026-09-29"
+  }
+}
