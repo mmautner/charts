@@ -1,0 +1,5 @@
+# Amtrak passenger-miles, Amtrak's own publications. Fiscal year Oct-Sep.
+# FY2019 and FY2024: TK. Amtrak's monthly performance reports and company profiles on amtrak.com, and BTS NTS table 1-40, refuse automated downloads (HTTP 403).
+# FY2025: "Amtrak passengers logged 6.9 billion miles in FY25" (rounded to 0.1 billion), https://media.amtrak.com/2025/11/amtrak-a-year-of-records/
+fiscal_year,passenger_miles_mil,source
+2025,6900,https://media.amtrak.com/2025/11/amtrak-a-year-of-records/

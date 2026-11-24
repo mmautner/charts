@@ -1,0 +1,139 @@
+country,year,kind,source,value_mil,min_mil,max_mil,spread,flag
+Australia,2019,freight,ITF [freight_tkm],443005,443005,443005,0.0,
+Australia,2019,freight,WDI [freight_tkm],443005,443005,443005,0.0,
+Australia,2019,passenger,ITF [pkm_reported],17814,17814,18842,0.058,
+Australia,2019,passenger,WDI [pkm_reported],18842,17814,18842,0.058,
+Australia,2024,freight,ITF [freight_tkm],446448,446448,446448,0.0,
+Australia,2024,passenger,ITF [pkm_reported],15077,15077,15077,0.0,
+Canada,2019,freight,ITF [freight_tkm],446081,446081,446081,0.0,
+Canada,2019,freight,WDI [freight_tkm],446081,446081,446081,0.0,
+Canada,2019,passenger,ITF [pkm_reported],1699,1699,1731,0.019,
+Canada,2019,passenger,WDI [pkm_reported],1731,1699,1731,0.019,
+Canada,2024,freight,ITF [freight_tkm],426285,426285,426285,0.0,
+Canada,2024,passenger,ITF [pkm_reported],1557,1557,1557,0.0,
+China,2019,freight,NBS China Statistical Yearbook 2025 [freight_tkm],3018200,3018200,3018200,0.0,
+China,2019,freight,WDI [freight_tkm],3018200,3018200,3018200,0.0,
+China,2019,passenger,NBS China Statistical Yearbook 2025 [pkm_mainline],1470660,1438606,1470660,0.022,
+China,2019,passenger,WDI [pkm_reported],1438606,1438606,1470660,0.022,
+China,2024,freight,NBS China Statistical Yearbook 2025 [freight_tkm],3586190,3586190,3586190,0.0,
+China,2024,passenger,NBS China Statistical Yearbook 2025 [pkm_mainline],1579910,1579910,1579910,0.0,
+France,2019,freight,Eurostat [freight_tkm],33909,33893,34617,0.021,
+France,2019,freight,ITF [freight_tkm],34617,33893,34617,0.021,
+France,2019,freight,SDES [freight_tkm],34617,33893,34617,0.021,
+France,2019,freight,WDI [freight_tkm],33893,33893,34617,0.021,
+France,2019,passenger,SDES [pkm_all_rail],110344,82440,112384,0.363,gap>10%
+France,2019,passenger,Eurostat [pkm_mainline],93504,82440,112384,0.363,gap>10%
+France,2019,passenger,SDES [pkm_mainline],98950,82440,112384,0.363,gap>10%
+France,2019,passenger,ITF [pkm_reported],82440,82440,112384,0.363,gap>10%
+France,2019,passenger,WDI [pkm_reported],112384,82440,112384,0.363,gap>10%
+France,2024,freight,Eurostat [freight_tkm],32249,32249,32931,0.021,
+France,2024,freight,ITF [freight_tkm],32931,32249,32931,0.021,
+France,2024,freight,SDES [freight_tkm],32610,32249,32931,0.021,
+France,2024,passenger,SDES [pkm_all_rail],124890,94134,124890,0.327,gap>10%
+France,2024,passenger,Eurostat [pkm_mainline],107346,94134,124890,0.327,gap>10%
+France,2024,passenger,SDES [pkm_mainline],113296,94134,124890,0.327,gap>10%
+France,2024,passenger,ITF [pkm_reported],94134,94134,124890,0.327,gap>10%
+Germany,2019,freight,Eurostat [freight_tkm],128545,113114,138247,0.222,gap>10%
+Germany,2019,freight,ITF [freight_tkm],113114,113114,138247,0.222,gap>10%
+Germany,2019,freight,WDI [freight_tkm],129161,113114,138247,0.222,gap>10%
+Germany,2019,freight,Verkehr in Zahlen 2025/2026 [freight_tkm_viz],138247,113114,138247,0.222,gap>10%
+Germany,2019,passenger,Eurostat [pkm_mainline],100252,100015,102026,0.02,
+Germany,2019,passenger,Verkehr in Zahlen 2025/2026 [pkm_mainline],102026,100015,102026,0.02,
+Germany,2019,passenger,ITF [pkm_reported],100015,100015,102026,0.02,
+Germany,2019,passenger,WDI [pkm_reported],102026,100015,102026,0.02,
+Germany,2024,freight,Eurostat [freight_tkm],127006,126320,135463,0.072,
+Germany,2024,freight,ITF [freight_tkm],126320,126320,135463,0.072,
+Germany,2024,freight,Verkehr in Zahlen 2025/2026 [freight_tkm_viz],135463,126320,135463,0.072,
+Germany,2024,passenger,Eurostat [pkm_mainline],109135,109135,109923,0.007,
+Germany,2024,passenger,Verkehr in Zahlen 2025/2026 [pkm_mainline],109753,109135,109923,0.007,
+Germany,2024,passenger,ITF [pkm_reported],109923,109135,109923,0.007,
+India,2019,freight,WDI [freight_tkm],738523,738523,738523,0.0,
+India,2019,passenger,WDI [pkm_reported],1157174,1157174,1157174,0.0,
+India,2021,freight,WDI [freight_tkm],719762,719762,719762,0.0,
+India,2021,passenger,WDI [pkm_reported],231126,231126,231126,0.0,
+Italy,2019,freight,Eurostat [freight_tkm],21309,20994,21309,0.015,
+Italy,2019,freight,ITF [freight_tkm],20994,20994,21309,0.015,
+Italy,2019,freight,WDI [freight_tkm],21309,20994,21309,0.015,
+Italy,2019,passenger,Eurostat [pkm_mainline],56586,56160,56586,0.008,
+Italy,2019,passenger,ITF [pkm_reported],56160,56160,56586,0.008,
+Italy,2019,passenger,WDI [pkm_reported],56586,56160,56586,0.008,
+Italy,2024,freight,Eurostat [freight_tkm],22933,22899,22933,0.001,
+Italy,2024,freight,ITF [freight_tkm],22899,22899,22933,0.001,
+Italy,2024,passenger,Eurostat [pkm_mainline],55872,55872,55872,0.0,
+Italy,2024,passenger,ITF [pkm_reported],55872,55872,55872,0.0,
+Japan,2019,freight,ITF [freight_tkm],20177,19854,20177,0.016,
+Japan,2019,freight,MLIT 鉄道統計年報 / 鉄道輸送統計年報 [freight_tkm],19854,19854,20177,0.016,
+Japan,2019,freight,WDI [freight_tkm],19993,19854,20177,0.016,
+Japan,2019,passenger,MLIT 鉄道統計年報 / 鉄道輸送統計年報 [pkm_all_rail],435049,387664,446711,0.152,gap>10%
+Japan,2019,passenger,MLIT 鉄道統計年報 / 鉄道輸送統計年報 [pkm_mainline],387664,387664,446711,0.152,gap>10%
+Japan,2019,passenger,ITF [pkm_reported],446711,387664,446711,0.152,gap>10%
+Japan,2019,passenger,WDI [pkm_reported],435063,387664,446711,0.152,gap>10%
+Japan,2024,freight,ITF [freight_tkm],17847,17847,17870,0.001,
+Japan,2024,freight,MLIT 鉄道統計年報 / 鉄道輸送統計年報 [freight_tkm],17870,17847,17870,0.001,
+Japan,2024,passenger,MLIT 鉄道統計年報 / 鉄道輸送統計年報 [pkm_all_rail],407073,404334,407073,0.007,
+Japan,2024,passenger,ITF [pkm_reported],404334,404334,407073,0.007,
+Netherlands,2019,freight,Eurostat [freight_tkm],7080,7080,7080,0.0,
+Netherlands,2019,freight,ITF [freight_tkm],7080,7080,7080,0.0,
+Netherlands,2019,freight,WDI [freight_tkm],7080,7080,7080,0.0,
+Netherlands,2019,passenger,Eurostat [pkm_mainline],19353,19353,19400,0.002,
+Netherlands,2019,passenger,ITF [pkm_reported],19353,19353,19400,0.002,
+Netherlands,2019,passenger,WDI [pkm_reported],19400,19353,19400,0.002,
+Netherlands,2024,freight,Eurostat [freight_tkm],6276,6182,6276,0.015,
+Netherlands,2024,freight,ITF [freight_tkm],6182,6182,6276,0.015,
+Netherlands,2024,passenger,Eurostat [pkm_mainline],17552,17552,17552,0.0,
+Netherlands,2024,passenger,ITF [pkm_reported],17552,17552,17552,0.0,
+Russia,2019,freight,WDI [freight_tkm],2601928,2601928,2601928,0.0,
+Russia,2019,passenger,WDI [pkm_reported],133381,133381,133381,0.0,
+Russia,2021,freight,WDI [freight_tkm],2638562,2638562,2638562,0.0,
+Russia,2021,passenger,WDI [pkm_reported],103447,103447,103447,0.0,
+South Korea,2019,freight,ITF [freight_tkm],7357,7357,7357,0.0,
+South Korea,2019,freight,WDI [freight_tkm],7357,7357,7357,0.0,
+South Korea,2019,passenger,ITF [pkm_reported],100381,100381,100381,0.0,
+South Korea,2019,passenger,WDI [pkm_reported],100381,100381,100381,0.0,
+South Korea,2024,freight,ITF [freight_tkm],5284,5284,5284,0.0,
+Spain,2019,freight,Eurostat [freight_tkm],10710,6202,10710,0.727,gap>10%
+Spain,2019,freight,ITF [freight_tkm],6202,6202,10710,0.727,gap>10%
+Spain,2019,freight,WDI [freight_tkm],10459,6202,10710,0.727,gap>10%
+Spain,2019,passenger,Eurostat [pkm_mainline],28847,27263,28847,0.058,
+Spain,2019,passenger,ITF [pkm_reported],27263,27263,28847,0.058,
+Spain,2019,passenger,WDI [pkm_reported],28835,27263,28847,0.058,
+Spain,2024,freight,Eurostat [freight_tkm],9349,3903,9349,1.395,gap>10%
+Spain,2024,freight,ITF [freight_tkm],3903,3903,9349,1.395,gap>10%
+Spain,2024,passenger,Eurostat [pkm_mainline],38038,29453,38038,0.291,gap>10%
+Spain,2024,passenger,ITF [pkm_reported],29453,29453,38038,0.291,gap>10%
+Switzerland,2019,freight,Eurostat [freight_tkm],11666,10977,11666,0.063,
+Switzerland,2019,freight,ITF [freight_tkm],10977,10977,11666,0.063,
+Switzerland,2019,freight,WDI [freight_tkm],11666,10977,11666,0.063,
+Switzerland,2019,passenger,Eurostat [pkm_mainline],21559,20434,21737,0.064,
+Switzerland,2019,passenger,ITF [pkm_reported],20434,20434,21737,0.064,
+Switzerland,2019,passenger,WDI [pkm_reported],21737,20434,21737,0.064,
+Switzerland,2024,freight,Eurostat [freight_tkm],11280,9943,11280,0.134,gap>10%
+Switzerland,2024,freight,ITF [freight_tkm],9943,9943,11280,0.134,gap>10%
+Switzerland,2024,passenger,Eurostat [pkm_mainline],22796,21481,22796,0.061,
+Switzerland,2024,passenger,ITF [pkm_reported],21481,21481,22796,0.061,
+United Kingdom,2019,freight,Eurostat [freight_tkm],16884,16583,16884,0.018,
+United Kingdom,2019,freight,ORR table 1310 [freight_tkm],16583,16583,16884,0.018,
+United Kingdom,2019,freight,WDI [freight_tkm],16884,16583,16884,0.018,
+United Kingdom,2019,passenger,DfT TSGB0101 [pkm_all_rail],80428,66765,82550,0.236,gap>10%
+United Kingdom,2019,passenger,Eurostat [pkm_mainline],71823,66765,82550,0.236,gap>10%
+United Kingdom,2019,passenger,ORR table 1230 [pkm_mainline],66765,66765,82550,0.236,gap>10%
+United Kingdom,2019,passenger,ITF [pkm_reported],69265,66765,82550,0.236,gap>10%
+United Kingdom,2019,passenger,WDI [pkm_reported],82550,66765,82550,0.236,gap>10%
+United Kingdom,2024,freight,ORR table 1310 [freight_tkm],16581,16581,16581,0.0,
+United Kingdom,2024,passenger,DfT TSGB0101 [pkm_all_rail],77239,63819,77239,0.21,gap>10%
+United Kingdom,2024,passenger,ORR table 1230 [pkm_mainline],64568,63819,77239,0.21,gap>10%
+United Kingdom,2024,passenger,ITF [pkm_reported],63819,63819,77239,0.21,gap>10%
+United States,2019,freight,BTS NTS 1-50 [freight_tkm],2357119,2357117,2364144,0.003,
+United States,2019,freight,ITF [freight_tkm],2364144,2357117,2364144,0.003,
+United States,2019,freight,STB R-1 Schedule 755 line 110 [freight_tkm],2357119,2357117,2364144,0.003,
+United States,2019,freight,WDI [freight_tkm],2357117,2357117,2364144,0.003,
+United States,2019,passenger,BTS NTS 1-40 [pkm_all_rail],63063,30782,63063,1.049,gap>10%
+United States,2019,passenger,BTS NTS 1-40 [pkm_mainline],30782,30782,63063,1.049,gap>10%
+United States,2019,passenger,ITF [pkm_reported],33151,30782,63063,1.049,gap>10%
+United States,2019,passenger,WDI [pkm_reported],32483,30782,63063,1.049,gap>10%
+United States,2024,freight,BTS NTS 1-50 [freight_tkm],2180413,2180387,2180413,0.0,
+United States,2024,freight,ITF [freight_tkm],2180387,2180387,2180413,0.0,
+United States,2024,freight,STB R-1 Schedule 755 line 110 [freight_tkm],2180413,2180387,2180413,0.0,
+United States,2024,passenger,BTS NTS 1-40 [pkm_all_rail],46270,24656,46270,0.877,gap>10%
+United States,2024,passenger,BTS NTS 1-40 [pkm_mainline],24656,24656,46270,0.877,gap>10%
+United States,2024,passenger,ITF [pkm_reported],28132,24656,46270,0.877,gap>10%

@@ -1,0 +1,22 @@
+# Hand-transcribed (scanned PDF) from Statistisches Bundesamt, Fachserie 8 Reihe 2, Eisenbahnverkehr 2002,
+# tables 1.3 (p.14-15, line 26 Personenkilometer insgesamt) and 1.4.1 (p.16-17, line 10 Tariftonnenkilometer).
+# https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEHeft_derivate_00054943/FS-8-2-J-2002.pdf
+# territory: FRG = früheres Bundesgebiet (West Germany), DE = unified Germany. 1990 appears for both.
+# pkm_mil: public passenger transport by railways (Öffentlicher Personenverkehr), all railways incl. S-Bahn; 1960 is DB only (footnote a).
+# tkm_mil: Tariftonnenkilometer (tariff distance, not actual route distance), freight incl. Dienstgut (company material).
+#   Later Destatis / VIZ series use actual tkm and add small-company estimates; levels are not continuous with this table.
+# Freight 1992-1995 and passenger 1992-1996 are not in this table (left out, not interpolated).
+territory,year,pkm_mil,tkm_mil
+FRG,1960,38402,56866.0
+FRG,1970,38120,73589.7
+FRG,1980,38862,66803.3
+FRG,1990,44588,62864.3
+DE,1990,61985,103093.0
+DE,1991,57034,82219.2
+DE,1996,,69713.0
+DE,1997,73917,73987.0
+DE,1998,72389,74050.9
+DE,1999,73586,71454.7
+DE,2000,75111,76108
+DE,2001,75314,75500
+DE,2002,70814,72075

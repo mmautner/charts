@@ -1,0 +1,25 @@
+# Hand-transcribed (scanned PDF) from U.S. Census Bureau, Statistical Abstract of the United States: 1987, table 1048
+# "Railroads, Class I - Summary: 1970 to 1985", p.597 (source: Association of American Railroads).
+# https://www2.census.gov/library/publications/1986/compendia/statab/107ed/1987-05.pdf (PDF page 126)
+# class1_ton_miles_bil: "Tons carried one mile", Class I railroads, billions of short ton-miles.
+# amtrak_rpm_mil: AMTRAK revenue passenger-miles, millions (AAR). Kept for comparison only: the dataset uses
+#   BTS NTS table 1-40 (FRA operational data), which differs (1985: 4,451 vs 4,977 here).
+# Statistical Abstract 1996, table 1032 (text layer, https://www2.census.gov/library/publications/1996/compendia/statab/116ed/tables/transind.pdf)
+#   gives the same 1980 and 1985 values and Amtrak for 1988-1993.
+year,class1_ton_miles_bil,amtrak_rpm_mil
+1970,765,
+1975,754,
+1979,914,
+1980,919,
+1981,910,4662
+1982,798,4122
+1983,827,4343
+1984,922,4566
+1985,875,4977
+1988,996,5686
+1989,1014,5912
+1990,1034,6125
+1991,1039,6249
+1992,1067,6181
+1993,1109,6064
+1994,1201,
